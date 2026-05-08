@@ -1,0 +1,9 @@
+{
+  "name": "vms-multi-language-locals",
+  "version": "1.0.0",
+  "description": "Shared i18n locales for VMS projects",
+  "license": "UNLICENSED",
+  "private": false,
+  "files": ["locales"],
+  "sideEffects": false
+}
