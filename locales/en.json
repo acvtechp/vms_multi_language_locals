@@ -3163,10 +3163,22 @@
     "run_date_to": "Run Date To",
     "generate_day_run": "Generate Day Run",
     "run_details": "Run Details",
-    "start_day_run": "Start Day Run",
+    "start_day_run": "Start",
+    "end_day_run": "End",
+    "cancel_day_run": "Cancel",
     "update_planned_absent": "Update Planned Absent",
-    "end_day_run": "End Day Run",
-    "cancel_day_run": "Cancel Day Run",
-    "refresh_day_run_counts": "Refresh Day Run Counts"
+    "refresh_day_run_counts": "Refresh",
+    "start_day_run_confirmation": "Are you sure you want to start this day run?",
+    "started_successfully": "Day run started successfully",
+    "update_planned_absent_confirmation": "Are you sure you want to update planned absent students for this day run?",
+    "planned_absent_updated_successfully": "Planned absent students updated successfully",
+    "end_day_run_confirmation": "Are you sure you want to end this day run?",
+    "ended_successfully": "Day run ended successfully",
+    "cancel_day_run_confirmation": "Are you sure you want to cancel this day run?",
+    "cancelled_successfully": "Day run cancelled successfully",
+    "enter_cancel_reason": "Enter cancel reason",
+    "refresh_day_run_counts_confirmation": "Are you sure you want to refresh day run counts?",
+    "counts_refreshed_successfully": "Day run counts refreshed successfully",
+    "operation_failed": "Operation failed"
   }
 }

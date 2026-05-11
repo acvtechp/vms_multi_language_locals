@@ -1,6 +1,6 @@
 {
   "name": "@acvtech5b9/vms-multi-language-locals",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "description": "Shared i18n locales for VMS projects",
   "license": "UNLICENSED",
   "private": false,
