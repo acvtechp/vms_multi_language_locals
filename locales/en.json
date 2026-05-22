@@ -1005,7 +1005,9 @@
     "inspector_details": "Inspector Details",
     "sub_details": "Sub Details",
     "child_details": "Child Details",
-    "details": "Details"
+    "details": "Details",
+    "show_details": "Show Details",
+    "hide_details": "Hide Details"
   },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
