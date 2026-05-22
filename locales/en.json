@@ -1828,7 +1828,7 @@
     "only_stopped_vehicle_can_be_locked": "Only stopped vehicles can be locked.",
     "confirm_lock_vehicle": "Do you want to lock vehicle",
     "confirm_unlock_vehicle": "Do you want to unlock vehicle",
-    "waiting_for_latest_gps_data": "Waiting for latest GPS data. You can still send the command, but please verify the vehicle status after refresh.",
+    "latest_gps_data_not_available": "Latest GPS data is not available. Please refresh and try again.",
     "vehicle_moving_lock_warning": "Vehicle appears to be moving. Lock command will still be sent. Please use this action carefully.",
     "vehicle_locked_success_title": "Vehicle Locked",
     "vehicle_unlocked_success_title": "Vehicle Unlocked",
