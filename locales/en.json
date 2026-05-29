@@ -1009,7 +1009,13 @@
     "child_details": "Child Details",
     "details": "Details",
     "show_details": "Show Details",
-    "hide_details": "Hide Details"
+    "hide_details": "Hide Details",
+    "from_date": "From Date",
+    "to_date": "To Date",
+    "device_usage_history": "Device Usage History",
+    "sim_usage_history": "Sim Usage History",
+    "assign_device_date": "Assign Device Date",
+    "assign_sim_date": "Assign Sim Date"
   },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
