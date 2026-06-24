@@ -1105,17 +1105,13 @@
     "km_today": "Today (KM)",
     "t_s_today_moving": "Today Moving Time (HH:MM:SS)",
     "t_s_today_ignition": "Today Ignition Time (HH:MM:SS)",
-    "km_this_week_sunday": "This Week - Sun (KM)",
-    "km_this_week_monday": "This Week - Mon (KM)",
-    "km_this_month": "This Month (KM)",
-    "km_this_year": "This Year (KM)",
-    "km_this_financial_year": "This Financial Year (KM)",
-    "km_slotted_today": "Slotted Today (KM)",
-    "km_slotted_this_week_sunday": "Slotted This Week - Sun (KM)",
-    "km_slotted_this_week_monday": "Slotted This Week - Mon (KM)",
-    "km_slotted_this_month": "Slotted This Month (KM)",
-    "km_slotted_this_year": "Slotted This Year (KM)",
-    "km_slotted_this_financial_year": "Slotted This Financial Year (KM)"
+    "km_this_week_sunday": "KM This Week (Sun)",
+    "km_this_week_monday": "KM This Week (Mon)",
+    "km_last_7_days": "KM Last 7 Days",
+    "km_last_30_days": "KM Last 30 Days",
+    "km_this_month": "KM This Month",
+    "km_last_3_months": "KM Last 3 Months",
+    "km_this_year": "KM This Year"
   },
   "p_vehicle_body": {
     "vehicle_body_details": "Body Details",
@@ -1918,10 +1914,13 @@
   "vehicle_summary_report": {
     "today": "Today",
     "last_24": "Last 24 Hours",
-    "this_week": "This Week",
+    "this_week_sunday": "This Week (Sun)",
+    "this_week_monday": "This Week (Mon)",
     "last_7_days": "Last 7 Days",
+    "last_30_days": "Last 30 Days",
     "this_month": "This Month",
-    "last_3_months": "Last 3 Months"
+    "last_3_months": "Last 3 Months",
+    "this_year": "This Year"
   },
   "dashboard_map_view": {
     "show_number": "Show Number",
