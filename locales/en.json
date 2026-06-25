@@ -1047,6 +1047,7 @@
     "fuel_tank_2_size": "Fuel Tank 2 Size",
     "fuel_tank_total_size": "Fuel Tank Total Size",
     "over_speed_kmph": "Over Speed KMPH",
+    "over_speed_details": "Over Speed Details",
     "gps_lock_relay": "GPS Lock Relay",
     "gps_door_locker": "GPS Door Locker",
     "door_sensor": "Door Sensor",
