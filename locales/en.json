@@ -945,6 +945,8 @@
     "vehicle_number": "Vehicle Number",
     "vehicle_numbers": "Vehicle Numbers",
     "vehicle_name": "Vehicle Name",
+    "vehicle_master": "Vehicle Master",
+    "vehicle_organisation":"Vehicle Organisation",
     "odometer_history": "Odometer History",
     "odometer_reading": "Odometer Reading",
     "odometer_date": "Odometer Date",
