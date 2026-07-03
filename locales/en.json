@@ -1802,6 +1802,11 @@
   "gps_dashboard": {
     "dashboard": "Dashboard",
     "vehicles": "Vehicles",
+    "caution_today_refills": "Today's fuel refills data is being processed and will be updated by the end of the day.",
+    "caution_today_removals": "Today's fuel removals data is being processed and will be updated by the end of the day.",
+    "caution_fuel_summary": "Today's fuel summary data is being processed and will be updated by the end of the day.",
+    "caution_km_summary": "Today's KM summary data is being processed and will be updated by the end of the day.",
+    "no_vehicles_selected": "No vehicles selected.",
     "manage_vehicles": "Manage Vehicles",
     "gps_status": "GPS Status",
     "gps_operations": "GPS Operations",
