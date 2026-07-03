@@ -1864,7 +1864,12 @@
     "processing_command": "Processing command...",
     "lock": "Lock",
     "unlock": "Unlock",
-    "vehicle_management": "Vehicle Management"
+    "vehicle_management": "Vehicle Management",
+    "history": "History",
+    "request_type": "Request Type",
+    "is_success": "Success",
+    "command": "Command",
+    "response": "Response"
   },
   "live_track": {
     "refresh": "Refresh",
