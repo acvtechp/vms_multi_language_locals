@@ -1370,6 +1370,8 @@
   },
   "p_external_apis": {
     "external_apis_form": "External APIs Form",
+    "basic_details": "Basic Details",
+    "additional_details": "Additional Details",
     "api_name": "API Name",
     "vendor_name": "Vendor Name",
     "api_key": "API Key",
