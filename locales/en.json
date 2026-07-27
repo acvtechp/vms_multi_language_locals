@@ -944,6 +944,23 @@
     "fuel_details": "Fuel Details",
     "access_details": "Access Details"
   },
+  "p_traccar_server": {
+    "server_details": "Server Details",
+    "server_code": "Server Code",
+    "postgres_connection": "Postgres Connection",
+    "db_host": "DB Host",
+    "db_port": "DB Port",
+    "db_name": "DB Name",
+    "db_user": "DB User",
+    "db_password": "DB Password",
+    "db_ssl_enabled": "DB SSL Enabled",
+    "db_connection_string": "DB Connection String",
+    "datacheck_api": "Data Check API",
+    "traccar_rest_api": "Traccar REST API",
+    "api_base_url": "API Base URL",
+    "api_admin_email": "API Admin Email",
+    "api_admin_password": "API Admin Password"
+  },
   "p_vehicle": {
     "vehicle_number": "Vehicle Number",
     "vehicle_numbers": "Vehicle Numbers",
@@ -1021,6 +1038,17 @@
     "sim_usage_history": "Sim Usage History",
     "assign_device_date": "Assign Device Date",
     "assign_sim_date": "Assign Sim Date"
+  },
+  "p_device": {
+    "device_details": "Device Details",
+    "description": "Description",
+    "imei": "IMEI",
+    "assigned_vehicle": "Assigned Vehicle",
+    "assign_device_date": "Assign Device Date",
+    "device_manufacturer_name": "Device Manufacturer",
+    "device_model_name": "Device Model",
+    "device_type_name": "Device Type",
+    "lastupdate": "Last Update"
   },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
