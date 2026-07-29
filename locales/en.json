@@ -1050,6 +1050,38 @@
     "device_type_name": "Device Type",
     "lastupdate": "Last Update"
   },
+  "data_check": {
+    "search_placeholder": "Enter Device IMEI / Unique ID",
+    "searched_value": "Searched Value",
+    "traccar_records": "Traccar Records",
+    "protocol_records": "Protocol Records",
+    "api_records": "API Records",
+    "traccar_data": "Traccar Data",
+    "protocol_data": "Protocol Data",
+    "api_data": "API Data",
+    "prompt_select_and_search": "Select a Traccar Server, Date Format, and Time Zone, then enter a search value to check data.",
+    "no_records_found": "No records found for this search.",
+    "vehicle_not_found": "No vehicle record is linked to this identifier."
+  },
+  "p_data_check": {
+    "device_unique_id": "Device Unique ID",
+    "received_at": "Received At",
+    "device_time": "Device Time",
+    "fix_time": "Fix Time",
+    "server_time": "Server Time",
+    "payload": "Payload",
+    "device_imei": "Device IMEI",
+    "received_date_time": "Received Date Time",
+    "protocol": "Protocol",
+    "raw": "Raw",
+    "payload_json": "Payload JSON",
+    "vehicle_number": "Vehicle Number",
+    "api_name": "API Name",
+    "api_code": "API Code",
+    "device_date_time": "Device Date Time",
+    "gps_data_json": "GPS Data JSON",
+    "latlng": "LatLng"
+  },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
     "trip_name": "Trip Name",
