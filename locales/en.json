@@ -311,7 +311,7 @@
     "admins_description": "Manage Admin Accounts",
     "user_notification_details": "User Notification Details",
     "user_notification_details_description": "Manage your notification preferences and settings.",
-    "external_apis_shared": "External APIs Share",
+    "external_apis_share": "External APIs Share",
     "external_apis_push": "External APIs Push",
     "cron_jobs": "Cron Jobs",
     "data_not_received_vehicles": "Data not received Vehicles",
