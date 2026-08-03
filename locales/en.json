@@ -1455,7 +1455,16 @@
     "failed_message": "Failed Message",
     "success_count": "Success Count",
     "failed_count": "Failed Count",
-    "total_count": "Total Count"
+    "total_count": "Total Count",
+    "external_apis_push_form": "External APIs - Push",
+    "frequency_seconds": "Frequency (Seconds)",
+    "api_data_push_hit_log": "Push Hit Log",
+    "last_run_status": "Last Run Status",
+    "last_run_message": "Last Run Message",
+    "last_run_date_time": "Last Run Date Time",
+    "run_date_time": "Run Date Time",
+    "run_status": "Run Status",
+    "run_message": "Run Message"
   },
   "p_cron_jobs": {
     "title": "Cron Jobs",
