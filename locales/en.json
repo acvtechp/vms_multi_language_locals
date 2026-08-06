@@ -162,7 +162,10 @@
     "gps_vehicle_category": "GPS Vehicle Category",
     "calibration_file": "Calibration File",
     "reset": "Reset",
-    "clear": "Clear"
+    "clear": "Clear",
+    "method": "Method",
+    "username": "Username",
+    "password": "Password"
   },
   "time": {
     "1_minute": "1 Minute",
@@ -1492,7 +1495,9 @@
     "doc_vehicle_number_required": "This API returns data for a single vehicle. The request fails without it.",
     "doc_rate_limit_prefix": "This API allows",
     "doc_rate_limit_suffix": "requests per minute, counted per API key.",
-    "doc_api_disabled_warning": "This API is currently disabled. Requests will be rejected until it is enabled."
+    "doc_api_disabled_warning": "This API is currently disabled. Requests will be rejected until it is enabled.",
+    "auth_header": "Authorization Header",
+    "doc_basic_auth_postman": "In Postman: Authorization tab → Auth Type: Basic Auth, then enter the username and password. The header is generated automatically."
   },
   "p_cron_jobs": {
     "title": "Cron Jobs",
