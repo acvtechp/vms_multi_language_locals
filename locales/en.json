@@ -2068,7 +2068,8 @@
     "zoom_to_geofence": "Zoom to Geofence",
     "select_geofence": "Select Geofence",
     "zoom_level": "Zoom Level",
-    "select_zoom": "Select Zoom"
+    "select_zoom": "Select Zoom",
+    "auto_center": "Auto Center"
   },
   "gps_geofence": {
     "geofence_name": "Geofence Name",
