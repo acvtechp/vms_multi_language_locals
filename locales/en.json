@@ -1086,7 +1086,8 @@
     "api_code": "API Code",
     "device_date_time": "Device Date Time",
     "gps_data_json": "GPS Data JSON",
-    "latlng": "LatLng"
+    "latlng": "LatLng",
+    "location": "Location"
   },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
