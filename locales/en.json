@@ -1077,8 +1077,8 @@
     "device_imei": "Device IMEI",
     "received_date_time": "Received Date Time",
     "protocol": "Protocol",
-    "valid":"Valid",
-    "speed":"Speed",
+    "valid": "Valid",
+    "speed": "Speed",
     "raw": "Raw",
     "payload_json": "Payload JSON",
     "vehicle_number": "Vehicle Number",
@@ -1087,7 +1087,8 @@
     "device_date_time": "Device Date Time",
     "gps_data_json": "GPS Data JSON",
     "latlng": "LatLng",
-    "location": "Location"
+    "location": "Location",
+    "temperature": "Temperature"
   },
   "p_vehicle_trip_details": {
     "vehicle_trip_details": "Vehicle Trip Details",
