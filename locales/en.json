@@ -1077,6 +1077,8 @@
     "device_imei": "Device IMEI",
     "received_date_time": "Received Date Time",
     "protocol": "Protocol",
+    "valid":"Valid",
+    "speed":"Speed",
     "raw": "Raw",
     "payload_json": "Payload JSON",
     "vehicle_number": "Vehicle Number",
