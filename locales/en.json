@@ -316,6 +316,7 @@
     "user_notification_details_description": "Manage your notification preferences and settings.",
     "external_apis_share": "External APIs Share",
     "external_apis_push": "External APIs Push",
+    "external_apis_sync": "External APIs Sync",
     "cron_jobs": "Cron Jobs",
     "data_not_received_vehicles": "Data not received Vehicles",
     "login_analytics": "Login Analytics",
@@ -1437,6 +1438,10 @@
     "telegram_chat_url": "Telegram Chat URL"
   },
   "p_external_apis": {
+    "external_apis_sync_form": "External APIs Sync",
+    "api_data_sync_run_log": "API Data Sync Run Log",
+    "sync_now": "Sync Now",
+    "run_type": "Run Type",
     "external_apis_form": "External APIs Form",
     "basic_details": "Basic Details",
     "additional_details": "Additional Details",
