@@ -978,6 +978,7 @@
     "odometer_last_change_date": "Odometer Last Change Date",
     "odometer_source": "Odometer Source",
     "odometer_details": "Odometer Details",
+    "update_odometer": "Update Odometer",
     "engine_number": "Engine Number",
     "chassis_number": "Chassis Number",
     "vehicle_make_year": "Vehicle Make Year",
