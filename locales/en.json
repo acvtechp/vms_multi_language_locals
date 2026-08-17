@@ -1187,7 +1187,11 @@
     "km_last_30_days": "KM Last 30 Days",
     "km_this_month": "KM This Month",
     "km_last_3_months": "KM Last 3 Months",
-    "km_this_year": "KM This Year"
+    "km_this_year": "KM This Year",
+    "trip_from_to": "Trip From To",
+    "trip_dates": "Trip Dates",
+    "trip_driver": "Trip Driver",
+    "trip_eway_bill_details": "Trip E-Way Bill Details"
   },
   "p_vehicle_body": {
     "vehicle_body_details": "Body Details",
