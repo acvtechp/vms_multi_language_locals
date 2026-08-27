@@ -1628,11 +1628,13 @@
     "color": "Color",
     "tag": "Tag",
     "group": "Group",
+    "share":"Share",
     "no_branches_found": "No branches found",
     "no_sub_companies_found": "No sub companies found",
     "no_colors_found": "No colors found",
     "no_tags_found": "No tags found",
-    "no_groups_found": "No groups found"
+    "no_groups_found": "No groups found",
+    "no_shares_found": "No shares found"
   },
   "vehicle_filters": {
     "vehicle_filters": "Filters-B",
