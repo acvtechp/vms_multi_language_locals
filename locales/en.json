@@ -1639,6 +1639,7 @@
     "sub_companies": "Sub Companies",
     "colors": "Colors",
     "fleets": "Fleet",
+    "transporters": "Transporters",
     "tags": "Tags",
     "groups": "Groups",
     "branch": "Branch",
@@ -1647,12 +1648,14 @@
     "tag": "Tag",
     "group": "Group",
     "fleet": "Fleet",
+    "transporter": "Transporter",
     "no_branches_found": "No branches found",
     "no_sub_companies_found": "No sub companies found",
     "no_colors_found": "No colors found",
     "no_tags_found": "No tags found",
     "no_groups_found": "No groups found",
-    "no_fleet_found": "No fleet found"
+    "no_fleet_found": "No fleet found",
+    "no_transporters_found": "No transporters found"
   },
   "vehicle_filters": {
     "vehicle_filters": "Filters-B",
