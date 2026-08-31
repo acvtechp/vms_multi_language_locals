@@ -850,6 +850,7 @@
   },
   "menu_crumb": {
     "home": "Home",
+    "main": "Main",
     "masters": "Masters",
     "master_main": "Master Main",
     "master_device": "Master Device",
