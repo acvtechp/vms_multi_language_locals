@@ -601,6 +601,7 @@
   "menu_gps": {
     "main_module": "Main Module",
     "vehicles": "Vehicles",
+    "shared_vehicles": "Shared Vehicles",
     "buses": "Buses",
     "documents": "Documents",
     "drivers": "Drivers",
