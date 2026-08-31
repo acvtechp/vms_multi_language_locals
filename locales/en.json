@@ -1045,6 +1045,20 @@
     "assign_device_date": "Assign Device Date",
     "assign_sim_date": "Assign Sim Date"
   },
+  "p_shared_vehicle": {
+    "shared_vehicle": "Shared Vehicles",
+    "shared_with_me": "Shared With Me",
+    "shared_by_me": "Shared By Me",
+    "shared_with_me_description": "Vehicles shared with your organisation by other organisations. Review the vehicle details or remove access when it is no longer required.",
+    "shared_by_me_description": "Vehicles your organisation has shared with other organisations. Create, update, or remove organisation-wise vehicle sharing.",
+    "from_organisation": "From Organisation",
+    "to_organisation": "To Organisation",
+    "organisation_identifier": "Organisation Email, Name or Code",
+    "enter_organisation_identifier": "Enter an organisation email, name, or code.",
+    "organisation_not_found": "Organisation not found.",
+    "same_organisation_not_allowed": "From Organisation and To Organisation cannot be the same.",
+    "remove_failed": "Unable to remove the shared vehicle."
+  },
   "p_device": {
     "device_details": "Device Details",
     "description": "Description",
@@ -1629,7 +1643,7 @@
     "color": "Color",
     "tag": "Tag",
     "group": "Group",
-    "fleet":"Fleet",
+    "fleet": "Fleet",
     "no_branches_found": "No branches found",
     "no_sub_companies_found": "No sub companies found",
     "no_colors_found": "No colors found",
