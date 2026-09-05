@@ -43,7 +43,8 @@
     "assign": "Assign",
     "assigning": "Assigning...",
     "select_all": "Select All",
-    "deselect_all": "Deselect All"
+    "deselect_all": "Deselect All",
+    "back": "Back"
   },
   "forms": {
     "label": "Label",
@@ -1806,6 +1807,22 @@
     "page_icon_name": "Page Icon Name",
     "page_url": "Page URL",
     "sort_order": "Sort Order"
+  },
+  "p_user_bookmark": {
+    "bookmarks": "Bookmarks",
+    "configure_bookmark": "Configure Bookmark",
+    "open_bookmark_help": "Select a bookmark to open its page",
+    "selected": "Selected",
+    "select_organisation": "Select an organisation to view bookmarks",
+    "no_bookmarks": "No bookmarks selected",
+    "configure_bookmark_help": "Configure bookmarks to add your frequently used pages",
+    "step": "Step",
+    "select_pages": "Select Pages",
+    "arrange_pages": "Arrange Pages",
+    "selected_pages": "Selected Pages",
+    "no_pages_available": "No bookmark pages are available",
+    "drag_to_reorder": "Drag and drop the selected pages to arrange their display order",
+    "no_pages_selected": "No pages selected"
   },
   "p_organisation_sub_company": {
     "sub_company": "Sub Company",
