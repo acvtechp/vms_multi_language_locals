@@ -166,7 +166,13 @@
     "clear": "Clear",
     "method": "Method",
     "username": "Username",
-    "password": "Password"
+    "password": "Password",
+    "bookmark_module": "Bookmark Module",
+    "bookmark_modules": "Bookmark Modules",
+    "bookmark_sub_module": "Bookmark Sub Module",
+    "bookmark_sub_modules": "Bookmark Sub Modules",
+    "bookmark_page": "Bookmark Page",
+    "bookmark_pages": "Bookmark Pages"
   },
   "time": {
     "1_minute": "1 Minute",
@@ -220,6 +226,9 @@
     "device_count": "Devices Count",
     "driver_count": "Drivers Count",
     "state_count": "States Count",
+    "sub_module_count": "Sub Module Count",
+    "page_count": "Page Count",
+    "user_bookmark_count": "User Bookmark Count",
     "organisation_sub_company_count": "Sub Companies Count",
     "organisation_branch_count": "Branches Count",
     "organisation_color_count": "Colors Count",
@@ -470,6 +479,10 @@
     "master_device_manufacturer": "Device Manufacturer",
     "master_device_model": "Device Model",
     "master_device_type": "Device Type",
+    "master_bookmark": "Master Bookmark",
+    "master_bookmark_module": "Bookmark Module",
+    "master_bookmark_sub_module": "Bookmark Sub Module",
+    "master_bookmark_page": "Bookmark Page",
     "master_organisation": "Master Organisation",
     "master_organisation_sub_company": "Organisation Sub Company",
     "master_organisation_branch": "Organisation Branch",
@@ -526,6 +539,7 @@
     "master_trip_trip_party_type": "Trip Party Type",
     "master_main_desc": "Manage core system configurations such as country, state, currency, timezone, language, and measurement units.",
     "master_device_desc": "Configure and manage device-related data including manufacturers, models, and device types.",
+    "master_bookmark_desc": "Manage bookmarks for modules, sub-modules, and pages.",
     "master_organisation_desc": "Maintain organisation structure including companies, branches, tags, groups, and branding settings.",
     "master_vehicle_desc": "Define vehicle-related master data such as types, makes, models, ownership, fuel types, and document types.",
     "master_user_desc": "Manage user roles and status configurations for access control and system permissions.",
@@ -596,7 +610,10 @@
     "master_main_fasttag_bank_desc": "Manage banks for fasttag services",
     "master_main_ewaybill_provider_desc": "Configure ewaybill providers for logistics",
     "master_main_sim_provider_desc": "Manage sim providers for connectivity",
-    "master_main_landmark_desc": "Define landmarks for location reference"
+    "master_main_landmark_desc": "Define landmarks for location reference",
+    "master_bookmark_module_desc": "Manage bookmarks for modules",
+    "master_bookmark_sub_module_desc": "Manage bookmarks for sub-modules",
+    "master_bookmark_page_desc": "Manage bookmarks for pages"
   },
   "menu_gps": {
     "main_module": "Main Module",
@@ -1775,6 +1792,20 @@
     "device_type_name": "Device Type Name",
     "device_type_code": "Device Type Code",
     "description": "Device Type Description"
+  },
+  "p_bookmark_module": {
+    "module_name": "Module Name",
+    "sort_order": "Sort Order"
+  },
+  "p_bookmark_sub_module": {
+    "sub_module_name": "Sub Module Name",
+    "sort_order": "Sort Order"
+  },
+  "p_bookmark_page": {
+    "page_name": "Page Name",
+    "page_icon_name": "Page Icon Name",
+    "page_url": "Page URL",
+    "sort_order": "Sort Order"
   },
   "p_organisation_sub_company": {
     "sub_company": "Sub Company",
