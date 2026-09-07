@@ -617,6 +617,7 @@
     "master_bookmark_page_desc": "Manage bookmarks for pages"
   },
   "menu_gps": {
+    "gps_menu": "GPS Menu",
     "main_module": "Main Module",
     "vehicles": "Vehicles",
     "shared_vehicles": "Shared Vehicles",
@@ -692,6 +693,7 @@
     "bus_management": "Bus Management"
   },
   "menu_fleet": {
+    "menu_fleet": "Fleet Menu",
     "fleet_management_module": "Fleet Management Module",
     "fleet_management": "Fleet Management",
     "vendor_management": "Vendor Management",
@@ -817,6 +819,7 @@
     "spare_parts_management_desc": "Manage spare parts inventory and stock movements"
   },
   "menu_trips": {
+    "menu_trips": "Trips Menu",
     "trip_management": "Trip Management",
     "trip_operations": "Trip Operations",
     "trip_plans": "Trip Plans",
@@ -826,6 +829,7 @@
     "trip_exceptions": "Trip Exceptions"
   },
   "menu_accounts": {
+    "menu_accounts": "Accounts Menu",
     "accounts_management": "Accounts Management",
     "financial_transactions": "Financial Transactions",
     "invoices": "Invoices",
@@ -837,6 +841,7 @@
     "profit_loss_statements": "Profit & Loss Statements"
   },
   "menu_warehouse": {
+    "menu_warehouse": "Warehouse Menu",
     "warehouse_operations": "Warehouse Operations",
     "setup_configuration": "Setup & Configuration",
     "manage_warehouses": "Manage Warehouses",
