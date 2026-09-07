@@ -822,7 +822,7 @@
   },
   "menu_trips": {
     "main_module": "Main Module",
-    "trip_menu": "Trip Menu",
+    "trips_menu": "Trips Menu",
     "trip_management": "Trip Management",
     "trip_data": "Trip Data",
     "fasttag_transactions": "Fasttag Transactions",
