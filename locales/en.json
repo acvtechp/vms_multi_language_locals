@@ -1812,18 +1812,21 @@
   "p_user_bookmark": {
     "bookmarks": "Bookmarks",
     "configure_bookmark": "Configure Bookmark",
+    "configure_bookmark_help": "Configure bookmarks to add pages.",
     "open_bookmark_help": "Select a bookmark to open its page",
-    "selected": "Selected",
     "select_organisation": "Select an organisation to view bookmarks",
-    "no_bookmarks": "No bookmarks selected",
-    "configure_bookmark_help": "Configure bookmarks to add your frequently used pages",
+    "no_bookmarks": "No bookmarks found",
+    "selected": "Selected",
+    "default_page": "Default Page",
+    "select_default_page": "Select Default Page",
+    "default": "Default",
     "step": "Step",
     "select_pages": "Select Pages",
     "arrange_pages": "Arrange Pages",
     "selected_pages": "Selected Pages",
-    "no_pages_available": "No bookmark pages are available",
-    "drag_to_reorder": "Drag and drop the selected pages to arrange their display order",
-    "no_pages_selected": "No pages selected"
+    "no_pages_available": "No bookmark pages available",
+    "no_pages_selected": "No bookmark pages selected",
+    "drag_to_reorder": "Drag and drop pages to arrange their order"
   },
   "p_organisation_sub_company": {
     "sub_company": "Sub Company",
