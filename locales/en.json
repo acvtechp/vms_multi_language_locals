@@ -692,6 +692,7 @@
     "bus_management": "Bus Management"
   },
   "menu_fleet": {
+    "fleet_management_module": "Fleet Management Module",
     "fleet_management": "Fleet Management",
     "vendor_management": "Vendor Management",
     "vendor_dashboard": "Vendor Dashboard",
