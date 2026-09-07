@@ -820,14 +820,24 @@
     "spare_parts_management_desc": "Manage spare parts inventory and stock movements"
   },
   "menu_trips": {
-    "trips_menu": "Trips Menu",
+    "main_module": "Main Module",
+    "trip_menu": "Trip Menu",
     "trip_management": "Trip Management",
+    "trip_data": "Trip Data",
+    "fasttag_transactions": "Fasttag Transactions",
+    "eway_bills": "E-way Bills",
     "trip_operations": "Trip Operations",
-    "trip_plans": "Trip Plans",
-    "trip_schedules": "Trip Schedules",
+    "load_planning": "Load Planning",
+    "delivery_tracking": "Delivery Tracking",
     "trip_reports": "Trip Reports",
-    "completed_trips": "Completed Trips",
-    "trip_exceptions": "Trip Exceptions"
+    "trip_performance_reports": "Trip Performance Reports",
+    "trip_summary_report": "Trip Summary Report",
+    "driver_performance_report": "Driver Performance Report",
+    "vehicle_utilization_report": "Vehicle Utilization Report",
+    "financial_compliance_reports": "Financial & Compliance Reports",
+    "trip_cost_analysis_report": "Trip Cost Analysis Report",
+    "toll_fasttag_report": "Toll & Fasttag Report",
+    "eway_compliance_report": "E-way Compliance Report"
   },
   "menu_accounts": {
     "accounts_menu": "Accounts Menu",
