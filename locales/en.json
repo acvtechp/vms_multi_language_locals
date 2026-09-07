@@ -628,6 +628,7 @@
     "gps_module": "GPS Module",
     "features": "Features",
     "dashboard": "Dashboard",
+    "smart_dashboard": "Smart Dashboard",
     "live_track": "Live Track",
     "live_track_link_share": "Live Track Link Share",
     "track_history": "Track History",
