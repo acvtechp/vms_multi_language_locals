@@ -459,6 +459,7 @@
     "vehicle_document_expiry": "Vehicle Document Expiry"
   },
   "menu_master": {
+    "masters_menu" : "Masters Menu",
     "master_admins": "Master Admins",
     "masters_module": "Masters Module",
     "master_main": "Master Main",
