@@ -459,7 +459,7 @@
     "vehicle_document_expiry": "Vehicle Document Expiry"
   },
   "menu_master": {
-    "masters_menu" : "Masters Menu",
+    "masters_menu": "Masters Menu",
     "master_admins": "Master Admins",
     "masters_module": "Masters Module",
     "master_main": "Master Main",
@@ -990,7 +990,12 @@
     "vehicle_organisation": "Vehicle Organisation",
     "preference_details": "Preference Details",
     "fuel_details": "Fuel Details",
-    "access_details": "Access Details"
+    "access_details": "Access Details",
+    "default_settings": "Default Settings",
+    "default_settings_help": "Configure the user's default display settings.",
+    "show_vehicle_filters": "Vehicle Filters",
+    "show_temperature_filters": "Temperature Filters",
+    "show_vehicle_info_columns": "Vehicle Info Columns"
   },
   "p_traccar_server": {
     "server_details": "Server Details",
