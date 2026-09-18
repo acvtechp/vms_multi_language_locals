@@ -1909,12 +1909,6 @@
     "primary_fuel_unit": "Primary Fuel Unit",
     "secondary_fuel_unit": "Secondary Fuel Unit"
   },
-  "p_vehicle_fuel_removal_reason": {
-    "removal_reason": "Vehicle Fuel Removal Reason"
-  },
-  "p_vehicle_document_type": {
-    "document_type": "Vehicle Document Type"
-  },
   "p_user_role": {
     "user_role": "User Role",
     "user_roles": "User Roles"
@@ -1944,6 +1938,12 @@
     "fleet_service_part": "Fleet Service part",
     "part_name": "Part Name",
     "part_amount": "Part Amount"
+  },
+  "p_fleet_fuel_removal_reason": {
+    "removal_reason": "Fleet Fuel Removal Reason"
+  },
+  "p_fleet_document_type": {
+    "document_type": "Fleet Document Type"
   },
   "p_bus_class": {
     "class_name": "Class Name"
