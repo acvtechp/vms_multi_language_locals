@@ -2637,7 +2637,8 @@
     "part_details": "Part Details",
     "bank_account_details": "Bank Account Details",
     "contact_person_details": "Contact Person Details",
-    "additional_details": "Additional Details"
+    "additional_details": "Additional Details",
+    "contact_details": "Contact Details"
   },
   "fleet_management": {
     "class": "Class",
@@ -3123,7 +3124,8 @@
     "tyre_inspection": "Tyre Inspection",
     "tyre_inspections": "Tyre Inspections",
     "service_files": "Service Files",
-    "task_count": "Task Count"
+    "task_count": "Task Count",
+    "enginner_technician": "Enginner/Technician"
   },
   "p_fleet_service_task_child": {
     "part_unit_amount": "Part Unit Amount",
