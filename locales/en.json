@@ -1935,9 +1935,7 @@
     "fleet_service_task": "Fleet Service Task"
   },
   "p_fleet_service_part": {
-    "fleet_service_part": "Fleet Service part",
-    "part_name": "Part Name",
-    "part_amount": "Part Amount"
+    "fleet_service_part": "Fleet Service part"
   },
   "p_fleet_fuel_removal_reason": {
     "removal_reason": "Fleet Fuel Removal Reason"
