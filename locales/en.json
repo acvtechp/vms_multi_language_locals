@@ -173,7 +173,8 @@
     "bookmark_sub_module": "Bookmark Sub Module",
     "bookmark_sub_modules": "Bookmark Sub Modules",
     "bookmark_page": "Bookmark Page",
-    "bookmark_pages": "Bookmark Pages"
+    "bookmark_pages": "Bookmark Pages",
+    "no_records_found": "No Records Found"
   },
   "time": {
     "1_minute": "1 Minute",
