@@ -3032,7 +3032,10 @@
     "inspection_form_notes": "Inspection Form Notes",
     "inspection_form_data": "Inspection Form Data",
     "inspection": "Inspection",
-    "inspections": "Inspections"
+    "inspections": "Inspections",
+    "total_inspections": "Total Inspections",
+    "this_month_inspections": "This Month Inspections",
+    "this_year_inspections": "This Year Inspections"
   },
   "p_fleet_inspection_schedule": {
     "schedule_name": "Schedule Name",
