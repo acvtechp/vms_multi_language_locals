@@ -2016,8 +2016,8 @@
     "company_name": "Fuel Company",
     "company_names": "Fuel Companies"
   },
-  "p_party_type": {
-    "party_type": "Party Type"
+  "p_trip_party_type": {
+    "trip_party_type": "Trip Party Type"
   },
   "gps_dashboard": {
     "dashboard": "Dashboard",
