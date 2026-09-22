@@ -481,19 +481,16 @@
     "master_device_manufacturer": "Device Manufacturer",
     "master_device_model": "Device Model",
     "master_device_type": "Device Type",
-    
     "master_bookmark": "Master Bookmark",
     "master_bookmark_module": "Bookmark Module",
     "master_bookmark_sub_module": "Bookmark Sub Module",
     "master_bookmark_page": "Bookmark Page",
-
     "master_organisation": "Master Organisation",
     "master_organisation_sub_company": "Organisation Sub Company",
     "master_organisation_branch": "Organisation Branch",
     "master_organisation_color": "Organisation Color",
     "master_organisation_tag": "Organisation Tag",
     "master_organisation_group": "Organisation Group",
-
     "master_vehicle": "Master Vehicle",
     "master_vehicle_type": "Vehicle Type",
     "master_vehicle_make": "Vehicle Make",
@@ -504,11 +501,9 @@
     "master_vehicle_associated_to": "Vehicle Associated To",
     "master_vehicle_fuel_type": "Vehicle Fuel Type",
     "master_vehicle_fuel_unit": "Vehicle Fuel Unit",
-
     "master_user": "Master User",
     "master_user_role": "User Role",
     "master_user_status": "User Status",
-
     "master_fleet": "Master Fleet",
     "master_fleet_breakdown_type": "Fleet Breakdown Type",
     "master_fleet_incident_type": "Fleet Incident Type",
@@ -519,7 +514,6 @@
     "master_fleet_service_part": "Fleet Service Part",
     "master_fleet_fuel_removal_reason": "Fleet Fuel Removal Reason",
     "master_fleet_document_type": "Fleet Document Type",
-
     "master_bus": "Master Bus",
     "master_bus_class": "Bus Class",
     "master_bus_program": "Bus Program",
@@ -528,17 +522,14 @@
     "master_bus_semester": "Bus Semester",
     "master_bus_stream": "Bus Stream",
     "master_bus_year": "Bus Year",
-
     "master_spare_parts": "Master Spare Parts",
     "master_spare_parts_category": "Spare Part Category",
     "master_spare_parts_sub_category": "Spare Part Sub Category",
     "master_spare_parts_unit": "Spare Part Unit",
-
     "master_tyre": "Master Tyre",
     "master_tyre_tyre_make": "Tyre Make",
     "master_tyre_tyre_model": "Tyre Model",
     "master_tyre_tyre_grade": "Tyre Grade",
-
     "master_expense": "Master Expense",
     "master_expense_expense_name": "Expense Name",
     "master_expense_expense_type": "Expense Type",
@@ -546,10 +537,8 @@
     "master_expense_vendor_tag": "Vendor Tag",
     "master_expense_vendor_document_type": "Vendor Document Type",
     "master_expense_fuel_company": "Fuel Company",
-
     "master_trip": "Master Trip",
     "master_trip_trip_party_type": "Trip Party Type",
-
     "master_main_desc": "Manage core system configurations such as country, state, currency, timezone, language, and measurement units.",
     "master_device_desc": "Configure and manage device-related data including manufacturers, models, and device types.",
     "master_bookmark_desc": "Manage bookmarks for modules, sub-modules, and pages.",
@@ -912,6 +901,7 @@
     "master_tyre": "Master Tyre",
     "master_trip": "Master Trip",
     "master_expense": "Master Expense",
+    "master_bookmark": "Master Bookmark",
     "gps": "GPS",
     "gps_module": "GPS Module",
     "module": "Module",
