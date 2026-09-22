@@ -1807,18 +1807,17 @@
   },
   "p_device_manufacturer": {
     "manufacturer": "Manufacturer",
-    "device_manufacturer_name": "Manufacturer Name",
-    "device_manufacturer_code": "Manufacturer Code"
+    "device_manufacturer_name": "Device Manufacturer Name",
+    "device_manufacturer_code": "DeviceManufacturer Code"
   },
   "p_device_model": {
     "device_model": "Model",
-    "device_model_name": "Model Name",
-    "device_model_code": "Model Code"
+    "device_model_name": "Device Model Name",
+    "device_model_code": "Device Model Code"
   },
   "p_device_type": {
     "device_type_name": "Device Type Name",
-    "device_type_code": "Device Type Code",
-    "description": "Device Type Description"
+    "device_type_code": "Device Type Code"
   },
   "p_bookmark_module": {
     "module_name": "Module Name",
@@ -1891,7 +1890,7 @@
     "vehicle_sub_model": "Vehicle Sub Model"
   },
   "p_vehicle_status_type": {
-    "status_type": "Status Type"
+    "status_type": "Vehicle Status Type"
   },
   "p_vehicle_ownership_type": {
     "ownership_type": "Vehicle Ownership Type"
@@ -1999,7 +1998,7 @@
     "expense_category": "Expense Category"
   },
   "p_expense_type": {
-    "expense_type_name": "Expense Type Name"
+    "expense_type": "Expense Type"
   },
   "p_vendor_type": {
     "vendor_type": "Vendor Type",
