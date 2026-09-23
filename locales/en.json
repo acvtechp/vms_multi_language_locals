@@ -497,9 +497,9 @@
     "master_vehicle_make": "Vehicle Make",
     "master_vehicle_model": "Vehicle Model",
     "master_vehicle_sub_model": "Vehicle Sub Model",
-    "master_vehicle_status_type": "Vehicle Status Type",
-    "master_vehicle_ownership_type": "Vehicle Ownership Type",
-    "master_vehicle_associated_to": "Vehicle Associated To",
+    "master_vehicle_status": "Vehicle Status",
+    "master_vehicle_ownership": "Vehicle Ownership",
+    "master_vehicle_associated": "Vehicle Associated",
     "master_vehicle_fuel_type": "Vehicle Fuel Type",
     "master_vehicle_fuel_unit": "Vehicle Fuel Unit",
     "master_user": "Master User",
@@ -1710,10 +1710,10 @@
     "vehicle_types": "Vehicle Types",
     "vehicle_makes": "Vehicle Makes",
     "vehicle_sub_models": "Vehicle Sub Models",
-    "status_types": "Status Types",
-    "ownership_types": "Ownership Types",
+    "vehicle_status": "Vehicle Status",
+    "ownership_types": "Vehicle Ownerships",
     "fuel_types": "Fuel Types",
-    "associated_to": "Associated To",
+    "vehicle_associated": "Vehicle Associated",
     "vehicle_type": "Vehicle Type",
     "vehicle_make": "Vehicle Make",
     "status_type": "Status Type",
@@ -1722,9 +1722,9 @@
     "no_vehicle_types_found": "No vehicle types found",
     "no_vehicle_makes_found": "No vehicle makes found",
     "no_vehicle_sub_models_found": "No vehicle sub models found",
-    "no_status_types_found": "No status types found",
-    "no_ownership_types_found": "No ownership types found",
-    "no_associated_to_found": "No associated to found",
+    "no_vehicle_status_found": "No vehicle status found",
+    "no_vehicle_ownerships_found": "No vehicle ownerships found",
+    "no_vehicle_associated_found": "No associated found",
     "no_fuel_types_found": "No fuel types found"
   },
   "p_master_common": {
@@ -1893,14 +1893,14 @@
   "p_vehicle_sub_model": {
     "vehicle_sub_model": "Vehicle Sub Model"
   },
-  "p_vehicle_status_type": {
-    "status_type": "Vehicle Status Type"
+  "p_vehicle_status": {
+    "vehicle_status": "Vehicle Status"
   },
-  "p_vehicle_ownership_type": {
-    "ownership_type": "Vehicle Ownership Type"
+  "p_vehicle_ownership": {
+    "vehicle_ownership": "Vehicle Ownership"
   },
-  "p_vehicle_associated_to": {
-    "associated_to": "Vehicle Associated To"
+  "p_vehicle_associated": {
+    "vehicle_associated": "Vehicle Associated"
   },
   "p_vehicle_fuel_type": {
     "fuel_type": "Vehicle Fuel Type",
