@@ -1772,20 +1772,20 @@
   "p_main_unit_distance": {
     "unit_name_only": "Distance Unit",
     "unit_names_only": "Distance Units",
-    "unit_name": "Distance Unit Name",
-    "unit_code": "Unit Code"
+    "distance_unit_name": "Distance Unit Name",
+    "distance_unit_code": "Distance Unit Code"
   },
   "p_main_unit_mileage": {
     "unit_name_only": "Mileage Unit",
     "unit_names_only": "Mileage Units",
-    "unit_name": "Mileage Unit Name",
-    "unit_code": "Unit Code"
+    "mileage_unit_name": "Mileage Unit Name",
+    "mileage_unit_code": "Mileage Unit Code"
   },
   "p_main_unit_volume": {
     "unit_name_only": "Volume Unit",
     "unit_names_only": "Volume Units",
-    "unit_name": "Volume Unit Name",
-    "unit_code": "Unit Code"
+    "volume_unit_name": "Volume Unit Name",
+    "volume_unit_code": "Volume Unit Code"
   },
   "p_main_fasttag_bank": {
     "bank_names": "Bank Names",
@@ -1812,7 +1812,7 @@
   "p_device_manufacturer": {
     "manufacturer": "Manufacturer",
     "device_manufacturer_name": "Device Manufacturer Name",
-    "device_manufacturer_code": "DeviceManufacturer Code"
+    "device_manufacturer_code": "Device Manufacturer Code"
   },
   "p_device_model": {
     "device_model": "Model",
