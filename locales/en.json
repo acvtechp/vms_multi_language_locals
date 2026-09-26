@@ -513,8 +513,6 @@
     "master_fleet_insurance_claim_status": "Fleet Insurance Claim Status",
     "master_fleet_service_task": "Fleet Service Task",
     "master_fleet_service_part": "Fleet Service Part",
-    "master_fleet_fuel_removal_reason": "Fleet Fuel Removal Reason",
-    "master_fleet_document_type": "Fleet Document Type",
     "master_bus": "Master Bus",
     "master_bus_class": "Master Class",
     "master_bus_program": "Master Program",
@@ -532,12 +530,14 @@
     "master_tyre_tyre_model": "Tyre Model",
     "master_tyre_tyre_grade": "Tyre Grade",
     "master_expense": "Master Expense",
-    "master_expense_expense_name": "Expense Name",
+    "master_expense_expense_item": "Expense Item",
     "master_expense_expense_type": "Expense Type",
     "master_expense_vendor_type": "Vendor Type",
     "master_expense_vendor_tag": "Vendor Tag",
     "master_expense_vendor_document_type": "Vendor Document Type",
+    "master_expense_vehicle_document_type": "Vehicle Document Type",
     "master_expense_fuel_company": "Fuel Company",
+    "master_expense_fuel_removal_reason": "Fleet Fuel Removal Reason",
     "master_trip": "Master Trip",
     "master_trip_trip_party_type": "Trip Party Type",
     "master_main_desc": "Manage core system configurations such as country, state, currency, timezone, language, and measurement units.",
@@ -562,12 +562,14 @@
     "master_device_manufacturer_desc": "Manage and configure device manufacturers and their details",
     "master_device_model_desc": "Define and maintain device models linked to manufacturers",
     "master_device_type_desc": "Categorize and control the types of devices in the system",
-    "master_expense_expense_name_desc": "Set up and manage expense names used across the system",
+    "master_expense_expense_item_desc": "Set up and manage expense items used across the system",
     "master_expense_expense_type_desc": "Define categories and types for classifying expenses",
     "master_expense_vendor_type_desc": "Configure the types of vendors associated with expenses",
     "master_expense_vendor_tag_desc": "Create and assign tags to vendors for easy filtering",
-    "master_expense_vendor_document_type_desc": "Manage document types required for vendor transactions",
+    "master_expense_vendor_document_type_desc": "Manage document types required for expense transactions",
+    "master_expense_vehicle_document_type_desc": "Manage document types required for vehicle transactions",
     "master_expense_fuel_company_desc": "Maintain fuel company records linked to fuel expenses",
+    "master_expense_fuel_removal_reason_desc": "Manage reasons for fuel removal",
     "master_fleet_breakdown_type_desc": "Define and manage types of vehicle breakdowns for reporting",
     "master_fleet_incident_type_desc": "Classify incidents that occur within fleet operations",
     "master_fleet_incident_status_desc": "Track and update the status of ongoing fleet incidents",
@@ -575,8 +577,6 @@
     "master_fleet_insurance_claim_status_desc": "Monitor and manage the status of insurance claims",
     "master_fleet_service_task_desc": "Configure tasks performed during vehicle servicing",
     "master_fleet_service_part_desc": "Maintain a catalogue of parts used in fleet servicing",
-    "master_fleet_fuel_removal_reason_desc": "Manage reasons for fuel removal",
-    "master_fleet_document_type_desc": "Define document types for vehicle records",
     "master_organisation_sub_company_desc": "Manage sub-companies operating under the main organisation",
     "master_organisation_branch_desc": "Define and maintain branch locations across the organisation",
     "master_organisation_color_desc": "Assign and manage brand colors used across organisational units",
@@ -1940,12 +1940,6 @@
   "p_fleet_service_part": {
     "fleet_service_part": "Fleet Service part"
   },
-  "p_fleet_fuel_removal_reason": {
-    "removal_reason": "Fleet Fuel Removal Reason"
-  },
-  "p_fleet_document_type": {
-    "document_type": "Fleet Document Type"
-  },
   "p_bus_class": {
     "class_name": "Class Name"
   },
@@ -1995,9 +1989,8 @@
   "p_tyre_grade": {
     "tyre_grade": "Tyre Grade"
   },
-  "p_expense_name": {
-    "expense_name": "Expense Name",
-    "expense_category": "Expense Category"
+  "p_expense_item": {
+    "expense_item": "Expense Item"
   },
   "p_expense_type": {
     "expense_type": "Expense Type"
@@ -2010,6 +2003,10 @@
     "vendor_document_type": "Vendor Document Type",
     "vendor_document_types": "Vendor Document Types"
   },
+  "p_vehicle_document_type": {
+    "vehicle_document_type": "Vehicle Document Type",
+    "vehicle_document_types": "Vehicle Document Types"
+  },
   "p_vendor_tag": {
     "vendor_tag": "Vendor Tag",
     "vendor_tags": "Vendor Tags"
@@ -2017,6 +2014,9 @@
   "p_fuel_company": {
     "company_name": "Fuel Company",
     "company_names": "Fuel Companies"
+  },
+    "p_fuel_removal_reason": {
+    "fuel_removal_reason": "Fuel Removal Reason"
   },
   "p_trip_party_type": {
     "trip_party_type": "Trip Party Type"
@@ -2407,7 +2407,7 @@
     "is_previous_entries_missed": "Is Previous Entries Missed",
     "last_refill_date": "Last Refill Date",
     "fuel_removal_reason_id": "Fuel Removal Reason Id",
-    "removal_reason": "Removal Reason",
+    "fuel_removal_reason": "Fuel Removal Reason",
     "refill": "Refill",
     "removal": "Removal",
     "refill_date_time": "Refill Date Time",
@@ -3238,7 +3238,6 @@
     "cost_per_unit": "Cost Per Unit",
     "total_cost": "Total Cost",
     "fuel_removal_reason": "Fuel Removal Reason",
-    "removal_reason": "Removal Reason",
     "removal_details": "Removal Details",
     "entry_source": "Entry Source",
     "source_reference_id": "Source Reference ID",
