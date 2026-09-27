@@ -514,13 +514,14 @@
     "master_fleet_service_task": "Fleet Service Task",
     "master_fleet_service_part": "Fleet Service Part",
     "master_bus": "Master Bus",
-    "master_bus_class": "Master Class",
+    "master_bus_academic_year": "Master Academic Year",
     "master_bus_program": "Master Program",
-    "master_bus_relationship": "Master Relationship",
-    "master_bus_section": "Master Section",
-    "master_bus_semester": "Master Semester",
     "master_bus_stream": "Master Stream",
     "master_bus_year": "Master Year",
+    "master_bus_semester": "Master Semester",
+    "master_bus_class": "Master Class",
+    "master_bus_section": "Master Section",
+    "master_bus_guardian_relationship": "Master Guardian Relationship",
     "master_spare_part": "Master Spare Part",
     "master_spare_part_category": "Spare Part Category",
     "master_spare_part_sub_category": "Spare Part Sub Category",
@@ -552,13 +553,14 @@
     "master_tyre_desc": "Maintain tyre-related master data including make, model, and grade classifications.",
     "master_expense_desc": "Define expense-related configurations including expense types, vendor types, and financial categories.",
     "master_trip_desc": "Manage trip-related configurations such as trip party types and travel classifications.",
-    "master_bus_relationship_desc": "Define bus relationships between routes and students",
+    "master_bus_academic_year_desc": "Set academic years for bus assignments",
     "master_bus_program_desc": "Configure academic programs linked to bus routes",
     "master_bus_stream_desc": "Manage stream allocation for transport planning",
     "master_bus_year_desc": "Set academic years for bus assignments",
     "master_bus_semester_desc": "Organize semesters for transport schedules",
     "master_bus_class_desc": "Assign classes for student transport mapping",
     "master_bus_section_desc": "Manage sections for route-wise student grouping",
+    "master_bus_guradrain_relationship_desc": "Define relationships between students and guardians",
     "master_device_manufacturer_desc": "Manage and configure device manufacturers and their details",
     "master_device_model_desc": "Define and maintain device models linked to manufacturers",
     "master_device_type_desc": "Categorize and control the types of devices in the system",
@@ -1928,46 +1930,64 @@
     "user_statuses": "User Statuses"
   },
   "p_fleet_breakdown_type": {
-    "fleet_breakdown_type": "Fleet Breakdown Type"
+    "fleet_breakdown_type": "Fleet Breakdown Type",
+    "fleet_breakdown_types": "Fleet Breakdown Types"
   },
   "p_fleet_incident_type": {
-    "fleet_incident_type": "Fleet Incident Type"
+    "fleet_incident_type": "Fleet Incident Type",
+    "fleet_incident_types": "Fleet Incident Types"
   },
   "p_fleet_incident_status": {
-    "fleet_incident_status": "Fleet Incident Status"
+    "fleet_incident_status": "Fleet Incident Status",
+    "fleet_incident_statuses": "Fleet Incident Statuses"
   },
   "p_fleet_incident_severity": {
-    "fleet_incident_severity": "Fleet Incident Severity"
+    "fleet_incident_severity": "Fleet Incident Severity",
+    "fleet_incident_severities": "Fleet Incident Severities"
   },
   "p_fleet_insurance_claim_status": {
-    "fleet_insurance_claim_status": "Fleet Insurance Claim Status"
+    "fleet_insurance_claim_status": "Fleet Insurance Claim Status",
+    "fleet_insurance_claim_statuses": "Fleet Insurance Claim Statuses"
   },
   "p_fleet_service_task": {
-    "fleet_service_task": "Fleet Service Task"
+    "fleet_service_task": "Fleet Service Task",
+    "fleet_service_tasks": "Fleet Service Tasks"
   },
   "p_fleet_service_part": {
-    "fleet_service_part": "Fleet Service part"
+    "fleet_service_part": "Fleet Service part",
+    "fleet_service_parts": "Fleet Service parts"
   },
-  "p_bus_class": {
-    "class_name": "Class Name"
+  "p_bus_academic_year": {
+    "academic_year": "Academic Year",
+    "academic_years": "Academic Years"
   },
   "p_bus_program": {
-    "program_name": "Program Name"
-  },
-  "p_bus_relationship": {
-    "relationship_name": "Relationship Name"
-  },
-  "p_bus_section": {
-    "section_name": "Section Name"
-  },
-  "p_bus_semester": {
-    "semester_name": "Semester Name"
+    "program": "Program",
+    "programs": "Programs"
   },
   "p_bus_stream": {
-    "stream_name": "Stream Name"
+    "stream": "Stream",
+    "streams": "Streams"
   },
   "p_bus_year": {
-    "year_name": "Year Name"
+    "year": "Year",
+    "years": "Years"
+  },
+  "p_bus_semester": {
+    "semester": "Semester",
+    "semesters": "Semesters"
+  },
+  "p_bus_class": {
+    "class": "Class",
+    "classes": "Classes"
+  },
+  "p_bus_section": {
+    "section": "Section",
+    "sections": "Sections"
+  },
+  "p_bus_guardian_relationship": {
+    "guardian_relationship": "Guardian Relationship",
+    "guardian_relationships": "Guardian Relationships"
   },
   "p_spare_part_category": {
     "category": "Category",
@@ -2006,10 +2026,12 @@
     "tyre_grades": "Tyre Grades"
   },
   "p_expense_item": {
-    "expense_item": "Expense Item"
+    "expense_item": "Expense Item",
+    "expense_items": "Expense Items"
   },
   "p_expense_type": {
-    "expense_type": "Expense Type"
+    "expense_type": "Expense Type",
+    "expense_types": "Expense Types"
   },
   "p_vendor_type": {
     "vendor_type": "Vendor Type",
@@ -2032,7 +2054,8 @@
     "company_names": "Fuel Companies"
   },
   "p_fuel_removal_reason": {
-    "fuel_removal_reason": "Fuel Removal Reason"
+    "fuel_removal_reason": "Fuel Removal Reason",
+    "fuel_removal_reasons": "Fuel Removal Reasons"
   },
   "p_trip_party_type": {
     "trip_party_type": "Trip Party Type",
@@ -2659,18 +2682,20 @@
     "contact_details": "Contact Details"
   },
   "fleet_management": {
-    "class": "Class",
-    "classes": "Classes",
+    "academic_year": "Academic Year",
+    "academic_years": "Academic Years",
     "program": "Program",
     "programs": "Programs",
-    "section": "Section",
-    "sections": "Sections",
-    "semester": "Semester",
-    "semesters": "Semesters",
     "stream": "Stream",
     "streams": "Streams",
     "year": "Year",
-    "years": "Years"
+    "years": "Years",
+    "semester": "Semester",
+    "semesters": "Semesters",
+    "class": "Class",
+    "classes": "Classes",
+    "section": "Section",
+    "sections": "Sections"
   },
   "p_vendor_management": {
     "fleet_vendor": "Fleet Vendor",
@@ -3329,12 +3354,6 @@
     "transport_plan_type": "Transport Plan Type",
     "mobile_number": "Mobile Number",
     "email": "Email",
-    "program_name": "Program",
-    "stream_name": "Stream",
-    "year_name": "Year",
-    "semester_name": "Semester",
-    "class_name": "Class",
-    "section_name": "Section",
     "date_of_birth": "Date of Birth",
     "gender": "Gender",
     "blood_group": "Blood Group",
