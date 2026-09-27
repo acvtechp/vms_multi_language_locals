@@ -1811,28 +1811,35 @@
   },
   "p_device_manufacturer": {
     "manufacturer": "Manufacturer",
+    "manufacturers": "Manufacturers",
     "device_manufacturer_name": "Device Manufacturer Name",
     "device_manufacturer_code": "Device Manufacturer Code"
   },
   "p_device_model": {
     "device_model": "Model",
+    "device_models": "Device Models",
     "device_model_name": "Device Model Name",
     "device_model_code": "Device Model Code"
   },
   "p_device_type": {
+    "device_type": "Device Type",
+    "device_types": "Device Types",
     "device_type_name": "Device Type Name",
     "device_type_code": "Device Type Code"
   },
   "p_bookmark_module": {
     "module_name": "Module Name",
+    "module_names": "Module Names",
     "sort_order": "Sort Order"
   },
   "p_bookmark_sub_module": {
     "sub_module_name": "Sub Module Name",
+    "sub_module_names": "Sub Module Names",
     "sort_order": "Sort Order"
   },
   "p_bookmark_page": {
     "page_name": "Page Name",
+    "page_names": "Page Names",
     "page_icon_name": "Page Icon Name",
     "page_url": "Page URL",
     "sort_order": "Sort Order"
