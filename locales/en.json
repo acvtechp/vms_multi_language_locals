@@ -521,10 +521,10 @@
     "master_bus_semester": "Master Semester",
     "master_bus_stream": "Master Stream",
     "master_bus_year": "Master Year",
-    "master_spare_parts": "Master Spare Parts",
-    "master_spare_parts_category": "Spare Part Category",
-    "master_spare_parts_sub_category": "Spare Part Sub Category",
-    "master_spare_parts_unit": "Spare Part Unit",
+    "master_spare_part": "Master Spare Part",
+    "master_spare_part_category": "Spare Part Category",
+    "master_spare_part_sub_category": "Spare Part Sub Category",
+    "master_spare_part_unit": "Spare Part Unit",
     "master_tyre": "Master Tyre",
     "master_tyre_tyre_make": "Tyre Make",
     "master_tyre_tyre_model": "Tyre Model",
@@ -582,9 +582,9 @@
     "master_organisation_color_desc": "Assign and manage brand colors used across organisational units",
     "master_organisation_tag_desc": "Create tags to categorize and filter organisational entities",
     "master_organisation_group_desc": "Group organisational units for streamlined management and reporting",
-    "master_spare_parts_category_desc": "Define top-level categories for organising spare parts inventory",
-    "master_spare_parts_sub_category_desc": "Create sub-categories under main categories for finer classification",
-    "master_spare_parts_unit_desc": "Configure units of measurement used for spare parts quantities",
+    "master_spare_part_category_desc": "Define top-level categories for organising spare parts inventory",
+    "master_spare_part_sub_category_desc": "Create sub-categories under main categories for finer classification",
+    "master_spare_part_unit_desc": "Configure units of measurement used for spare parts quantities",
     "master_trip_trip_party_type_desc": "Define and manage party types associated with trip assignments",
     "master_tyre_tyre_make_desc": "Manage tyre manufacturers and their brand information",
     "master_tyre_tyre_model_desc": "Define tyre models available under each tyre make",
@@ -898,7 +898,7 @@
     "master_user": "Master User",
     "master_fleet": "Master Fleet",
     "master_bus": "Master Bus",
-    "master_spare_parts": "Master Spare Parts",
+    "master_spare_part": "Master Spare Part",
     "master_tyre": "Master Tyre",
     "master_trip": "Master Trip",
     "master_expense": "Master Expense",
@@ -1917,7 +1917,8 @@
     "user_roles": "User Roles"
   },
   "p_user_status": {
-    "user_status": "User Status"
+    "user_status": "User Status",
+    "user_statuses": "User Statuses"
   },
   "p_fleet_breakdown_type": {
     "fleet_breakdown_type": "Fleet Breakdown Type"
@@ -1963,31 +1964,39 @@
   },
   "p_spare_part_category": {
     "category": "Category",
+    "categories": "Categories",
     "category_name": "Category Name",
     "category_code": "Category Code"
   },
   "p_spare_part_sub_category": {
+    "sub_category": "Sub Category",
+    "sub_categories": "Sub Categories",
     "sub_category_name": "Sub Category Name",
     "sub_category_code": "Sub Category Code"
   },
   "p_spare_part_unit": {
+    "unit": "Unit",
+    "units": "Units",
     "unit_name": "Unit Name",
     "unit_code": "Unit Code"
   },
   "p_tyre_make": {
-    "tyre_make": "Tyre Make"
+    "tyre_make": "Tyre Make",
+    "tyre_makes": "Tyre Makes"
   },
   "p_tyre_model": {
     "tyre_model": "Tyre Model",
+    "tyre_models": "Tyre Models",
     "warranty_months": "Warranty Months",
-    "warranty_kms": "Warranty KMs",
+    "warranty_distance_km": "Warranty Distance (KM)",
     "tyre_size": "Tyre Size",
-    "tread_depth": "Tread Depth",
-    "recommended_min_tread_depth": "Recommended Min Tread Depth",
-    "recommended_max_run_kms": "Recommended Max Run KMs"
+    "tread_depth_mm": "Tread Depth (MM)",
+    "recommended_min_tread_depth_mm": "Recommended Min Tread Depth (MM)",
+    "recommended_max_distance_km": "Recommended Max Distance (KM)"
   },
   "p_tyre_grade": {
-    "tyre_grade": "Tyre Grade"
+    "tyre_grade": "Tyre Grade",
+    "tyre_grades": "Tyre Grades"
   },
   "p_expense_item": {
     "expense_item": "Expense Item"
@@ -2015,11 +2024,12 @@
     "company_name": "Fuel Company",
     "company_names": "Fuel Companies"
   },
-    "p_fuel_removal_reason": {
+  "p_fuel_removal_reason": {
     "fuel_removal_reason": "Fuel Removal Reason"
   },
   "p_trip_party_type": {
-    "trip_party_type": "Trip Party Type"
+    "trip_party_type": "Trip Party Type",
+    "trip_party_types": "Trip Party Types"
   },
   "gps_dashboard": {
     "dashboard": "Dashboard",
