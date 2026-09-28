@@ -973,7 +973,10 @@
     "is_bus_college": "Is Bus College",
     "business_settings": "Business Settings",
     "organisation_address": "Organisation Address",
-    "billing_address": "Billing Address"
+    "billing_address": "Billing Address",
+    "users": "Users",
+    "vehicles": "Vehicles",
+    "drivers": "Drivers"
   },
   "p_user": {
     "user": "User",
@@ -1741,27 +1744,27 @@
     "description": "Description"
   },
   "p_main_industry": {
-    "industry":"Industry",
-    "industries":"Industries",
+    "industry": "Industry",
+    "industries": "Industries",
     "industry_name": "Industry Name"
   },
   "p_main_country": {
-    "country":"Country",
-    "countries":"Countries",
+    "country": "Country",
+    "countries": "Countries",
     "country_name": "Country Name",
     "country_code": "Country Code",
     "country_mobile_code": "Country Mobile Code"
   },
   "p_main_state": {
-    "state":"State",
-    "states":"States",
+    "state": "State",
+    "states": "States",
     "state_name": "State Name",
     "state_names": "States",
     "state_code": "State Code"
   },
   "p_main_currency": {
     "currency": "Currency",
-    "currencies":"Currencies",
+    "currencies": "Currencies",
     "currency_name": "Currency Name",
     "currency_symbol": "Currency Symbol",
     "currency_code": "Currency Code"
@@ -1806,20 +1809,20 @@
   },
   "p_main_fasttag_bank": {
     "bank": "Bank",
-    "banks":"Banks",
+    "banks": "Banks",
     "bank_name": "Bank Name",
     "bank_code": "Bank Code"
   },
   "p_main_ewaybill_provider": {
-    "ewaybill_provider":"Ewaybill Provider",
-    "ewaybill_providers":"Ewaybill Providers",
+    "ewaybill_provider": "Ewaybill Provider",
+    "ewaybill_providers": "Ewaybill Providers",
     "provider_names": "Provider Names",
     "provider_name": "Provider Name",
     "provider_code": "Provider Code"
   },
   "p_main_sim_provider": {
-    "sim_provider":"Sim Provider",
-    "sim_providers":"Sim Providers",
+    "sim_provider": "Sim Provider",
+    "sim_providers": "Sim Providers",
     "provider_names": "Provider Names",
     "provider_name": "Provider Name",
     "country_notes": "Country Notes"
