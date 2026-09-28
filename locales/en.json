@@ -1724,7 +1724,7 @@
     "vehicle_makes": "Vehicle Makes",
     "vehicle_sub_models": "Vehicle Sub Models",
     "vehicle_status": "Vehicle Status",
-    "ownership_types": "Vehicle Ownerships",
+    "vehicle_ownership": "Vehicle Ownership",
     "fuel_types": "Fuel Types",
     "vehicle_associated": "Vehicle Associated",
     "vehicle_type": "Vehicle Type",
@@ -1736,7 +1736,7 @@
     "no_vehicle_makes_found": "No vehicle makes found",
     "no_vehicle_sub_models_found": "No vehicle sub models found",
     "no_vehicle_status_found": "No vehicle status found",
-    "no_vehicle_ownerships_found": "No vehicle ownerships found",
+    "no_vehicle_ownership_found": "No vehicle ownership found",
     "no_vehicle_associated_found": "No associated found",
     "no_fuel_types_found": "No fuel types found"
   },
