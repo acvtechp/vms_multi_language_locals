@@ -1141,7 +1141,8 @@
     "api_data": "Dados de API",
     "prompt_select_and_search": "Selecione um Servidor Traccar, Formato de Data e Fuso Horário, e insira um valor de pesquisa para verificar os dados.",
     "no_records_found": "Nenhum registro encontrado para esta pesquisa.",
-    "vehicle_not_found": "Nenhum registro de veículo está vinculado a este identificador."
+    "vehicle_not_found": "Nenhum registro de veículo está vinculado a este identificador.",
+    "last_gps_date_time": "Data e Hora do Último GPS"
   },
   "p_data_check": {
     "device_unique_id": "ID Único do Dispositivo",

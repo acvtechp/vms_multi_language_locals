@@ -1141,7 +1141,8 @@
     "api_data": "Dữ liệu API",
     "prompt_select_and_search": "Chọn Máy chủ Traccar, Định dạng Ngày và Múi giờ, sau đó nhập giá trị tìm kiếm để kiểm tra dữ liệu.",
     "no_records_found": "Không tìm thấy bản ghi nào cho tìm kiếm này.",
-    "vehicle_not_found": "Không có bản ghi phương tiện nào được liên kết với định danh này."
+    "vehicle_not_found": "Không có bản ghi phương tiện nào được liên kết với định danh này.",
+    "last_gps_date_time": "Ngày giờ GPS lần cuối"
   },
   "p_data_check": {
     "device_unique_id": "ID duy nhất của thiết bị",

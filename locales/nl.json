@@ -1141,7 +1141,8 @@
     "api_data": "API-gegevens",
     "prompt_select_and_search": "Selecteer een Traccar-server, datumnotatie en tijdzone en voer vervolgens een zoekwaarde in om de gegevens te controleren.",
     "no_records_found": "Geen records gevonden voor deze zoekopdracht.",
-    "vehicle_not_found": "Er is geen voertuigrecord gekoppeld aan deze identificatie."
+    "vehicle_not_found": "Er is geen voertuigrecord gekoppeld aan deze identificatie.",
+    "last_gps_date_time": "Laatste GPS-datum en -tijd"
   },
   "p_data_check": {
     "device_unique_id": "Unieke ID apparaat",

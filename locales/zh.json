@@ -1141,7 +1141,8 @@
     "api_data": "API 数据",
     "prompt_select_and_search": "选择 Traccar 服务器、日期格式和时区，然后输入搜索值以检查数据。",
     "no_records_found": "未找到此搜索的记录。",
-    "vehicle_not_found": "没有车辆记录与此标识符关联。"
+    "vehicle_not_found": "没有车辆记录与此标识符关联。",
+    "last_gps_date_time": "最后GPS日期和时间"
   },
   "p_data_check": {
     "device_unique_id": "设备唯一ID",

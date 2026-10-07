@@ -1141,7 +1141,8 @@
     "api_data": "נתוני API",
     "prompt_select_and_search": "בחר שרת Traccar, פורמט תאריך ואזור זמן, ולאחר מכן הזן ערך חיפוש כדי לבדוק נתונים.",
     "no_records_found": "לא נמצאו רשומות עבור חיפוש זה.",
-    "vehicle_not_found": "אין רשומת רכב מקושרת למזהה זה."
+    "vehicle_not_found": "אין רשומת רכב מקושרת למזהה זה.",
+    "last_gps_date_time": "תאריך ושעת GPS אחרונים"
   },
   "p_data_check": {
     "device_unique_id": "מזהה ייחודי של מכשיר",

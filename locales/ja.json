@@ -1141,7 +1141,8 @@
     "api_data": "APIデータ",
     "prompt_select_and_search": "Traccarサーバー、日付形式、タイムゾーンを選択し、検索値を入力してデータを確認してください。",
     "no_records_found": "この検索に一致するレコードは見つかりませんでした。",
-    "vehicle_not_found": "この識別子にリンクされている車両レコードはありません。"
+    "vehicle_not_found": "この識別子にリンクされている車両レコードはありません。",
+    "last_gps_date_time": "最終GPS日時"
   },
   "p_data_check": {
     "device_unique_id": "デバイスユニークID",

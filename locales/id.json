@@ -1141,7 +1141,8 @@
     "api_data": "Data API",
     "prompt_select_and_search": "Pilih Server Traccar, Format Tanggal, dan Zona Waktu, lalu masukkan nilai pencarian untuk memeriksa data.",
     "no_records_found": "Tidak ada catatan yang ditemukan untuk pencarian ini.",
-    "vehicle_not_found": "Tidak ada catatan kendaraan yang ditautkan ke pengenal ini."
+    "vehicle_not_found": "Tidak ada catatan kendaraan yang ditautkan ke pengenal ini.",
+    "last_gps_date_time": "Tanggal & Waktu GPS Terakhir"
   },
   "p_data_check": {
     "device_unique_id": "ID Unik Perangkat",

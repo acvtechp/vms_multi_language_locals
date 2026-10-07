@@ -1141,7 +1141,8 @@
     "api_data": "Data API",
     "prompt_select_and_search": "Pilih Pelayan Traccar, Format Tarikh, dan Zon Waktu, kemudian masukkan nilai carian untuk menyemak data.",
     "no_records_found": "Tiada rekod dijumpai untuk carian ini.",
-    "vehicle_not_found": "Tiada rekod kenderaan dipautkan kepada pengecam ini."
+    "vehicle_not_found": "Tiada rekod kenderaan dipautkan kepada pengecam ini.",
+    "last_gps_date_time": "Tarikh Masa GPS Terakhir"
   },
   "p_data_check": {
     "device_unique_id": "ID Unik Peranti",

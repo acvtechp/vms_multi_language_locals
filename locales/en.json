@@ -1141,7 +1141,8 @@
     "api_data": "API Data",
     "prompt_select_and_search": "Select a Traccar Server, Date Format, and Time Zone, then enter a search value to check data.",
     "no_records_found": "No records found for this search.",
-    "vehicle_not_found": "No vehicle record is linked to this identifier."
+    "vehicle_not_found": "No vehicle record is linked to this identifier.",
+      "last_gps_date_time": "Last GPS Date Time"
   },
   "p_data_check": {
     "device_unique_id": "Device Unique ID",

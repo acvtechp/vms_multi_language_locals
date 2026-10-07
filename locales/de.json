@@ -1141,7 +1141,8 @@
     "api_data": "API-Daten",
     "prompt_select_and_search": "Wählen Sie einen Traccar-Server, ein Datumsformat und eine Zeitzone aus und geben Sie dann einen Suchwert ein, um die Daten zu überprüfen.",
     "no_records_found": "Keine Einträge für diese Suche gefunden.",
-    "vehicle_not_found": "Mit dieser Kennung ist kein Fahrzeugeintrag verknüpft."
+    "vehicle_not_found": "Mit dieser Kennung ist kein Fahrzeugeintrag verknüpft.",
+    "last_gps_date_time": "Letztes GPS-Datum und Uhrzeit"
   },
   "p_data_check": {
     "device_unique_id": "Eindeutige Geräte-ID",

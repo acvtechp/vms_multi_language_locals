@@ -1141,7 +1141,8 @@
     "api_data": "API Verileri",
     "prompt_select_and_search": "Verileri kontrol etmek için bir Traccar Sunucusu, Tarih Formatı ve Saat Dilimi seçin, ardından bir arama değeri girin.",
     "no_records_found": "Bu arama için kayıt bulunamadı.",
-    "vehicle_not_found": "Bu tanımlayıcıya bağlı hiçbir araç kaydı yok."
+    "vehicle_not_found": "Bu tanımlayıcıya bağlı hiçbir araç kaydı yok.",
+    "last_gps_date_time": "Son GPS Tarih Saati"
   },
   "p_data_check": {
     "device_unique_id": "Cihaz Benzersiz ID'si",

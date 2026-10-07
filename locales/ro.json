@@ -1141,7 +1141,8 @@
     "api_data": "Date API",
     "prompt_select_and_search": "Selectați un server Traccar, format de dată și fus orar, apoi introduceți o valoare de căutare pentru a verifica datele.",
     "no_records_found": "Nu s-au găsit înregistrări pentru această căutare.",
-    "vehicle_not_found": "Nicio înregistrare de vehicul nu este asociată cu acest identificator."
+    "vehicle_not_found": "Nicio înregistrare de vehicul nu este asociată cu acest identificator.",
+    "last_gps_date_time": "Ultima dată și ora GPS"
   },
   "p_data_check": {
     "device_unique_id": "ID unic dispozitiv",

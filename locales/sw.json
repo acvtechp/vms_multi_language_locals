@@ -1141,7 +1141,8 @@
     "api_data": "Data ya API",
     "prompt_select_and_search": "Chagua Seva ya Traccar, Umbizo la Tarehe, na Eneo la Saa, kisha uweke thamani ya utafutaji ili kuangalia data.",
     "no_records_found": "Hakuna rekodi zilizopatikana kwa utafutaji huu.",
-    "vehicle_not_found": "Hakuna rekodi ya gari iliyounganishwa na kitambulisho hiki."
+    "vehicle_not_found": "Hakuna rekodi ya gari iliyounganishwa na kitambulisho hiki.",
+    "last_gps_date_time": "Tarehe na Wakati wa Mwisho wa GPS"
   },
   "p_data_check": {
     "device_unique_id": "Kitambulisho cha Kipekee cha Kifaa",

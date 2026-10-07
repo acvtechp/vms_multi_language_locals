@@ -1141,7 +1141,8 @@
     "api_data": "API 데이터",
     "prompt_select_and_search": "Traccar 서버, 날짜 형식 및 시간대를 선택한 다음 검색 값을 입력하여 데이터를 확인하세요.",
     "no_records_found": "이 검색에 대한 기록이 없습니다.",
-    "vehicle_not_found": "이 식별자에 연결된 차량 기록이 없습니다."
+    "vehicle_not_found": "이 식별자에 연결된 차량 기록이 없습니다.",
+    "last_gps_date_time": "마지막 GPS 날짜 및 시간"
   },
   "p_data_check": {
     "device_unique_id": "기기 고유 ID",
