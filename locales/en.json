@@ -1142,7 +1142,7 @@
     "prompt_select_and_search": "Select a Traccar Server, Date Format, and Time Zone, then enter a search value to check data.",
     "no_records_found": "No records found for this search.",
     "vehicle_not_found": "No vehicle record is linked to this identifier.",
-      "last_gps_date_time": "Last GPS Date Time"
+    "last_gps_date_time": "Last GPS Date Time"
   },
   "p_data_check": {
     "device_unique_id": "Device Unique ID",
@@ -2475,6 +2475,10 @@
     "is_full_tank": "Is Full Tank",
     "is_previous_entries_missed": "Is Previous Entries Missed",
     "last_refill_date": "Last Refill Date",
+    "last_odometer_reading": "Last Odometer Reading",
+    "last_refill_quantity": "Last Refill Quantity",
+    "diff_distance": "Diff Distance",
+    "fuel_efficiency": "Fuel Efficiency",
     "fuel_removal_reason_id": "Fuel Removal Reason Id",
     "fuel_removal_reason": "Fuel Removal Reason",
     "refill": "Refill",
