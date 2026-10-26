@@ -1189,6 +1189,7 @@
     "temperature": "Temperature",
     "dual_temperature": "Dual Temperature",
     "fuel_bluetooth": "Fuel Bluetooth",
+    "fuel_analog": "Fuel Analog",
     "fuel_tank_type": "Fuel Tank Type",
     "fuel_tank_size": "Fuel Tank Size",
     "fuel_tank_1_size": "Fuel Tank 1 Size",
