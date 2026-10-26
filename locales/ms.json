@@ -666,6 +666,7 @@
     "vehicle_track_report": "Laporan Jejak Kenderaan",
     "kilometer_analysis_reports": "Laporan Analisis Kilometer",
     "all_vehicles_daily_km_summary_report": "Laporan Ringkasan KM Harian Semua Kenderaan",
+    "all_vehicles_total_km_summary_report": "Laporan Ringkasan KM Jumlah Semua Kenderaan",
     "all_vehicles_last_24_hours_km_report": "Laporan KM 24 Jam Terakhir Semua Kenderaan",
     "vehicle_hourly_km_report": "Laporan KM Sepanjang Jam Kenderaan",
     "monthly_kilometers_summary_report": "Laporan Ringkasan Kilometer Bulanan",

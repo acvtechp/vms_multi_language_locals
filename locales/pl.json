@@ -666,6 +666,7 @@
     "vehicle_track_report": "Raport śledzenia pojazdu",
     "kilometer_analysis_reports": "Raporty analizy kilometrów",
     "all_vehicles_daily_km_summary_report": "Dzienny raport podsumowania kilometrów wszystkich pojazdów",
+    "all_vehicles_total_km_summary_report": "Raport podsumowujący całkowity przebieg w kilometrach dla wszystkich pojazdów",
     "all_vehicles_last_24_hours_km_report": "Raport kilometrów wszystkich pojazdów z ostatnich 24 godzin",
     "vehicle_hourly_km_report": "Godzinowy raport kilometrów pojazdu",
     "monthly_kilometers_summary_report": "Miesięczny raport podsumowania kilometrów",

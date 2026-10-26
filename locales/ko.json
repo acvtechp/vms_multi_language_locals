@@ -666,6 +666,7 @@
     "vehicle_track_report": "차량 추적 보고서",
     "kilometer_analysis_reports": "킬로미터 분석 보고서",
     "all_vehicles_daily_km_summary_report": "전체 차량 일일 주행거리(KM) 요약 보고서",
+    "all_vehicles_total_km_summary_report": "모든 차량 총 주행거리(KM) 요약 보고서",
     "all_vehicles_last_24_hours_km_report": "전체 차량 최근 24시간 주행거리(KM) 보고서",
     "vehicle_hourly_km_report": "차량 시간당 주행거리(KM) 보고서",
     "monthly_kilometers_summary_report": "월간 주행거리 요약 보고서",

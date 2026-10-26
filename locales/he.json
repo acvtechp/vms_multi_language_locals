@@ -666,6 +666,7 @@
     "vehicle_track_report": "דוח מעקב רכב",
     "kilometer_analysis_reports": "דוחות ניתוח קילומטרים",
     "all_vehicles_daily_km_summary_report": "דוח סיכום קילומטרים יומי לכל כלי הרכב",
+    "all_vehicles_total_km_summary_report": "דוח סיכום קילומטרז' כולל לכל כלי הרכב",
     "all_vehicles_last_24_hours_km_report": "דוח קילומטרים 24 שעות אחרונות לכל כלי הרכב",
     "vehicle_hourly_km_report": "דוח קילומטרים שעתי לרכב",
     "monthly_kilometers_summary_report": "דוח סיכום קילומטרים חודשי",

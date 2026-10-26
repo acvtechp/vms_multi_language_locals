@@ -666,6 +666,7 @@
     "vehicle_track_report": "Voertuigvolgrapport",
     "kilometer_analysis_reports": "Kilometeranalyserapporten",
     "all_vehicles_daily_km_summary_report": "Dagelijks KM-samenvattingsrapport alle voertuigen",
+    "all_vehicles_total_km_summary_report": "Totaaloverzicht KM alle voertuigen",
     "all_vehicles_last_24_hours_km_report": "KM-rapport alle voertuigen laatste 24 uur",
     "vehicle_hourly_km_report": "KM-rapport per uur voertuig",
     "monthly_kilometers_summary_report": "Maandelijks kilometerssamenvattingsrapport",

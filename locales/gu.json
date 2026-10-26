@@ -666,6 +666,7 @@
     "vehicle_track_report": "વાહન ટ્રૅક અહેવાલ",
     "kilometer_analysis_reports": "કિલોમીટર વિશ્લેષણ અહેવાલો",
     "all_vehicles_daily_km_summary_report": "બધા વાહનો દૈનિક કિમી સારાંશ અહેવાલ",
+    "all_vehicles_total_km_summary_report": "બધા વાહનોનો કુલ કિમી સારાંશ અહેવાલ",
     "all_vehicles_last_24_hours_km_report": "બધા વાહનો છેલ્લા 24 કલાક કિમી અહેવાલ",
     "vehicle_hourly_km_report": "વાહન કલાકદીઠ કિમી અહેવાલ",
     "monthly_kilometers_summary_report": "માસિક કિલોમીટર સારાંશ અહેવાલ",

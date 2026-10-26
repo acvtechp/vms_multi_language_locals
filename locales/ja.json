@@ -666,6 +666,7 @@
     "vehicle_track_report": "車両トラックレポート",
     "kilometer_analysis_reports": "キロメートル分析レポート",
     "all_vehicles_daily_km_summary_report": "全車両日別KMサマリーレポート",
+    "all_vehicles_total_km_summary_report": "すべての車両の合計走行距離集計レポート",
     "all_vehicles_last_24_hours_km_report": "全車両過去24時間KMレポート",
     "vehicle_hourly_km_report": "車両時間別KMレポート",
     "monthly_kilometers_summary_report": "月間キロメートルサマリーレポート",

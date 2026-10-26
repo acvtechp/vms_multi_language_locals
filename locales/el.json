@@ -666,6 +666,7 @@
     "vehicle_track_report": "Αναφορά Παρακολούθησης Οχήματος",
     "kilometer_analysis_reports": "Αναφορές Ανάλυσης Χιλιομέτρων",
     "all_vehicles_daily_km_summary_report": "Ημερήσια Αναφορά Περίληψης KM Όλων των Οχημάτων",
+    "all_vehicles_total_km_summary_report": "Συνοπτική αναφορά χιλιομέτρων όλων των οχημάτων",
     "all_vehicles_last_24_hours_km_report": "Αναφορά KM Τελευταίων 24 Ωρών Όλων των Οχημάτων",
     "vehicle_hourly_km_report": "Ωριαία Αναφορά KM Οχήματος",
     "monthly_kilometers_summary_report": "Μηνιαία Αναφορά Περίληψης Χιλιομέτρων",

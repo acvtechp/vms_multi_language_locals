@@ -666,6 +666,7 @@
     "vehicle_track_report": "车辆轨迹报告",
     "kilometer_analysis_reports": "公里数分析报告",
     "all_vehicles_daily_km_summary_report": "所有车辆每日公里数汇总报告",
+    "all_vehicles_total_km_summary_report": "所有车辆总公里数汇总报告",
     "all_vehicles_last_24_hours_km_report": "所有车辆过去 24 小时公里数报告",
     "vehicle_hourly_km_report": "车辆每小时公里数报告",
     "monthly_kilometers_summary_report": "每月公里数汇总报告",

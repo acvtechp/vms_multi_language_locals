@@ -666,6 +666,7 @@
     "vehicle_track_report": "Báo cáo theo dõi phương tiện",
     "kilometer_analysis_reports": "Báo cáo phân tích kilômét",
     "all_vehicles_daily_km_summary_report": "Báo cáo tóm tắt KM hàng ngày của tất cả phương tiện",
+    "all_vehicles_total_km_summary_report": "Báo cáo tổng hợp số KM của tất cả phương tiện",
     "all_vehicles_last_24_hours_km_report": "Báo cáo KM 24 giờ qua của tất cả phương tiện",
     "vehicle_hourly_km_report": "Báo cáo KM theo giờ của phương tiện",
     "monthly_kilometers_summary_report": "Báo cáo tóm tắt kilômét hàng tháng",

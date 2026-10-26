@@ -666,6 +666,7 @@
     "vehicle_track_report": "รายงานการติดตามยานพาหนะ",
     "kilometer_analysis_reports": "รายงานการวิเคราะห์กิโลเมตร",
     "all_vehicles_daily_km_summary_report": "รายงานสรุป กม. ประจำวันของยานพาหนะทั้งหมด",
+    "all_vehicles_total_km_summary_report": "รายงานสรุปกิโลวรรัตน์รวมของรถทั้งหมด",
     "all_vehicles_last_24_hours_km_report": "รายงาน กม. 24 ชั่วโมงล่าสุดของยานพาหนะทั้งหมด",
     "vehicle_hourly_km_report": "รายงาน กม. รายชั่วโมงของยานพาหนะ",
     "monthly_kilometers_summary_report": "รายงานสรุปกิโลเมตรรายเดือน",

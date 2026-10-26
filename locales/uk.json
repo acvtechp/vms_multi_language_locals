@@ -666,6 +666,7 @@
     "vehicle_track_report": "Звіт про пересування транспортного засобу",
     "kilometer_analysis_reports": "Звіти аналізу кілометражу",
     "all_vehicles_daily_km_summary_report": "Щоденний звіт зведеного кілометражу всіх транспортних засобів",
+    "all_vehicles_total_km_summary_report": "Звіт за загальним пробігом усіх транспортних засобів",
     "all_vehicles_last_24_hours_km_report": "Звіт кілометражу всіх транспортних засобів за останні 24 години",
     "vehicle_hourly_km_report": "Погодинний звіт кілометражу транспортного засобу",
     "monthly_kilometers_summary_report": "Щомісячний звіт зведеного кілометражу",
