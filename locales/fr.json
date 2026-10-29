@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Véhicules que votre organisation a partagés avec d'autres organisations. Créez, mettez à jour ou supprimez le partage de véhicules par organisation.",
     "from_organisation": "De l'organisation",
     "to_organisation": "À l'organisation",
-    "organisation_identifier": "E-mail, nom ou code de l'organisation",
+    "organisation_identifier": "E-mail, mobile ou code d'organisation",
     "enter_organisation_identifier": "Entrez un e-mail, un nom ou un code d'organisation.",
     "organisation_not_found": "Organisation introuvable.",
     "same_organisation_not_allowed": "L'organisation d'origine et l'organisation destinataire ne peuvent pas être les mêmes.",

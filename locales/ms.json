@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Kenderaan yang telah dikongsi oleh organisasi anda dengan organisasi lain. Buat, kemas kini atau alih keluar perkongsian kenderaan mengikut organisasi.",
     "from_organisation": "Dari Organisasi",
     "to_organisation": "Ke Organisasi",
-    "organisation_identifier": "E-mel, Nama atau Kod Organisasi",
+    "organisation_identifier": "E-mel Organisasi, Mudah Alih atau Kod",
     "enter_organisation_identifier": "Masukkan e-mel, nama atau kod organisasi.",
     "organisation_not_found": "Organisasi tidak dijumpai.",
     "same_organisation_not_allowed": "Dari Organisasi dan Ke Organisasi tidak boleh sama.",

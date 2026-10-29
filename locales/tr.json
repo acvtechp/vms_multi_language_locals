@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Kuruluşunuzun diğer kuruluşlarla paylaştığı araçlar. Kuruluş bazında araç paylaşımı oluşturun, güncelleyin veya kaldırın.",
     "from_organisation": "Kaynak Kuruluş",
     "to_organisation": "Hedef Kuruluş",
-    "organisation_identifier": "Kuruluş E-postası, Adı veya Kodu",
+    "organisation_identifier": "Kurum E-postası, Cep Telefonu veya Kodu",
     "enter_organisation_identifier": "Bir kuruluş e-postası, adı veya kodu girin.",
     "organisation_not_found": "Kuruluş bulunamadı.",
     "same_organisation_not_allowed": "Kaynak Kuruluş ve Hedef Kuruluş aynı olamaz.",

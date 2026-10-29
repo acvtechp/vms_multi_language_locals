@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "ನಿಮ್ಮ ಸಂಸ್ಥೆಯು ಇತರ ಸಂಸ್ಥೆಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ ವಾಹನಗಳು. ಸಂಸ್ಥೆವಾರು ವಾಹನ ಹಂಚಿಕೆಯನ್ನು ರಚಿಸಿ, ನವೀಕರಿಸಿ ಅಥವಾ ತೆಗೆದುಹಾಕಿ.",
     "from_organisation": "ಯಾವ ಸಂಸ್ಥೆಯಿಂದ",
     "to_organisation": "ಯಾವ ಸಂಸ್ಥೆಗೆ",
-    "organisation_identifier": "ಸಂಸ್ಥೆಯ ಇಮೇಲ್, ಹೆಸರು ಅಥವಾ ಕೋಡ್",
+    "organisation_identifier": "संघटना ಇಮೇಲ್, ಮೊಬೈಲ್ ಅಥವಾ ಕೋಡ್",
     "enter_organisation_identifier": "ಸಂಸ್ಥೆಯ ಇಮೇಲ್, ಹೆಸರು ಅಥವಾ ಕೋಡ್ ಅನ್ನು ನಮೂದು ಮಾಡಿ.",
     "organisation_not_found": "ಸಂಸ್ಥೆ ಕಂಡುಬಂದಿಲ್ಲ.",
     "same_organisation_not_allowed": "ಯಾವ ಸಂಸ್ಥೆಯಿಂದ ಮತ್ತು ಯಾವ ಸಂಸ್ಥೆಗೆ ಒಂದೇ ಆಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ.",

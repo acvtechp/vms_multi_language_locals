@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "وسایل نقلیه‌ای که سازمان شما با سایر سازمان‌ها به اشتراک گذاشته است. اشتراک‌گذاری وسیله نقلیه را بر اساس سازمان ایجاد، به‌روزرسانی یا حذف کنید.",
     "from_organisation": "از سازمان",
     "to_organisation": "به سازمان",
-    "organisation_identifier": "ایمیل، نام یا کد سازمان",
+    "organisation_identifier": "ایمیل سازمان، شماره موبایل یا کد",
     "enter_organisation_identifier": "ایمیل، نام یا کد سازمان را وارد کنید.",
     "organisation_not_found": "سازمان پیدا نشد.",
     "same_organisation_not_allowed": "سازمان مبدأ و سازمان مقصد نمی‌توانند یکسان باشند.",

@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Vehicles your organisation has shared with other organisations. Create, update, or remove organisation-wise vehicle sharing.",
     "from_organisation": "From Organisation",
     "to_organisation": "To Organisation",
-    "organisation_identifier": "Organisation Email, Name or Code",
+    "organisation_identifier": "Organisation Email, Mobile or Code",
     "enter_organisation_identifier": "Enter an organisation email, name, or code.",
     "organisation_not_found": "Organisation not found.",
     "same_organisation_not_allowed": "From Organisation and To Organisation cannot be the same.",

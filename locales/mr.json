@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "तुमच्या संस्थेने इतर संस्थांसोबत शेअर केलेली वाहने. संस्था-निहाय वाहन सामायिकरण तयार करा, अद्यतनित करा किंवा काढा.",
     "from_organisation": "संस्थेपासून",
     "to_organisation": "संस्थेपर्यंत",
-    "organisation_identifier": "संस्थेचा ईमेल, नाव किंवा कोड",
+    "organisation_identifier": "संस्थेचा ईमेल, मोबाईल किंवा कोड",
     "enter_organisation_identifier": "संस्थेचा ईमेल, नाव किंवा कोड प्रविष्ट करा.",
     "organisation_not_found": "संस्था आढळली नाही.",
     "same_organisation_not_allowed": "स्त्रोत संस्था आणि गंतव्य संस्था समान असू शकत नाहीत.",

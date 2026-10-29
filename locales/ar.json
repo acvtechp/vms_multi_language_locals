@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "المركبات التي شاركتها مؤسستك مع مؤسسات أخرى. إنشاء أو تحديث أو إزالة مشاركة المركبات حسب المؤسسة.",
     "from_organisation": "من المؤسسة",
     "to_organisation": "إلى المؤسسة",
-    "organisation_identifier": "بريد إلكتروني أو اسم أو كود المؤسسة",
+    "organisation_identifier": "بريد المنظمة أو الجوال أو الرمز",
     "enter_organisation_identifier": "أدخل البريد الإلكتروني أو الاسم أو الكود الخاص بالمؤسسة.",
     "organisation_not_found": "لم يتم العثور على المؤسسة.",
     "same_organisation_not_allowed": "لا يمكن أن تكون مؤسسة المصدر ومؤسسة الوجهة متطابقتين.",

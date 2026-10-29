@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Các phương tiện mà tổ chức của bạn đã chia sẻ với các tổ chức khác. Tạo, cập nhật hoặc xóa việc chia sẻ phương tiện theo tổ chức.",
     "from_organisation": "Từ tổ chức",
     "to_organisation": "Đến tổ chức",
-    "organisation_identifier": "Email, Tên hoặc Mã tổ chức",
+    "organisation_identifier": "Email, Số điện thoại hoặc Mã tổ chức",
     "enter_organisation_identifier": "Nhập email, tên hoặc mã tổ chức.",
     "organisation_not_found": "Không tìm thấy tổ chức.",
     "same_organisation_not_allowed": "Từ tổ chức và Đến tổ chức không được giống nhau.",

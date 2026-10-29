@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Vehicule pe care organizația dvs. le-a partajat cu alte organizații. Creați, actualizați sau eliminați partajarea vehiculelor la nivel de organizație.",
     "from_organisation": "De la organizația",
     "to_organisation": "Către organizația",
-    "organisation_identifier": "E-mail, Nume sau Cod Organizație",
+    "organisation_identifier": "E-mailul organizației, numărul de mobil sau codul",
     "enter_organisation_identifier": "Introduceți un e-mail, nume sau cod de organizație.",
     "organisation_not_found": "Organizația nu a fost găsită.",
     "same_organisation_not_allowed": "Organizația de la și Organizația către nu pot fi aceleași.",

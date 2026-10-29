@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "ଆପଣଙ୍କ ସଂଗଠନ ଅନ୍ୟ ସଂଗଠନଗୁଡ଼ିକ ସହିତ ସେୟାର କରିଥିବା ଯାନଗୁଡ଼ିକ। ସଂଗଠନ ଅନୁଯାୟୀ ଯାନ ସେୟାରିଂ ସୃଷ୍ଟି, ଅପଡେଟ୍ କିମ୍ବା ହଟାନ୍ତୁ।",
     "from_organisation": "ସଂଗଠନରୁ",
     "to_organisation": "ସଂଗଠନକୁ",
-    "organisation_identifier": "ସଂଗଠନ ଇମେଲ୍, ନାମ କିମ୍ବା କୋଡ୍",
+    "organisation_identifier": "ସଂଗଠନ ଇମେଲ୍, ମୋବାଇଲ୍ କିମ୍ବା କୋଡ୍",
     "enter_organisation_identifier": "ଏକ ସଂଗଠନ ଇମେଲ୍, ନାମ, କିମ୍ବା କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ।",
     "organisation_not_found": "ସଂଗଠନ ମିଳିଲା ନାହିଁ।",
     "same_organisation_not_allowed": "ସଂଗଠନରୁ ଏବଂ ସଂଗଠନକୁ ସମାନ ହୋଇପାରିବ ନାହିଁ।",

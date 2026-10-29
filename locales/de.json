@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Fahrzeuge, die Ihre Organisation mit anderen Organisationen geteilt hat. Erstellen, aktualisieren oder entfernen Sie die organisationsübergreifende Fahrzeugfreigabe.",
     "from_organisation": "Von Organisation",
     "to_organisation": "An Organisation",
-    "organisation_identifier": "Unternehmens-E-Mail, Name oder Code",
+    "organisation_identifier": "Organisations-E-Mail, Handynummer oder Code",
     "enter_organisation_identifier": "Geben Sie eine Unternehmens-E-Mail, einen Namen oder einen Code ein.",
     "organisation_not_found": "Organisation nicht gefunden.",
     "same_organisation_not_allowed": "Quellorganisation und Zielorganisation dürfen nicht identisch sein.",

@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "वाहन जे अहाँक संस्था अन्य संस्थासभ संग साझा केनए अछि। संस्था-वार वाहन साझाकरण बनाउ, अपडेट करू, वा हटाउ।",
     "from_organisation": "संस्था सं",
     "to_organisation": "संस्था धरि",
-    "organisation_identifier": "संस्था ईमेल, नाम वा कोड",
+    "organisation_identifier": "संस्थाक ईमेल, मोबाइल अथवा कोड",
     "enter_organisation_identifier": "एकटा संस्था ईमेल, नाम, वा कोड प्रविष्ट करू।",
     "organisation_not_found": "संस्था नै भेटल।",
     "same_organisation_not_allowed": "संस्था सं आ संस्था धरि एकहि नै भ सकैछ।",

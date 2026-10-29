@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "あなたの組織が他の組織と共有している車両です。組織ごとの車両共有の作成、更新、または削除を行います。",
     "from_organisation": "送信元組織",
     "to_organisation": "宛先組織",
-    "organisation_identifier": "組織のメールアドレス、名前、またはコード",
+    "organisation_identifier": "組織のメールアドレス、携帯電話番号、またはコード",
     "enter_organisation_identifier": "組織のメールアドレス、名前、またはコードを入力してください。",
     "organisation_not_found": "組織が見つかりません。",
     "same_organisation_not_allowed": "送信元組織と宛先組織を同じにすることはできません。",

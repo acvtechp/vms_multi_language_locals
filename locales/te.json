@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "మీ సంస్థ ఇతర సంస్థలతో షేర్ చేసిన వాహనాలు. సంస్థ వారీగా వాహన షేరింగ్‌ను సృష్టించండి, నవీకరించండి లేదా తీసివేయండి.",
     "from_organisation": "సంస్థ నుండి",
     "to_organisation": "సంస్థకు",
-    "organisation_identifier": "సంస్థ ఇమెయిల్, పేరు లేదా కోడ్",
+    "organisation_identifier": "సంస్థ ఇమెయిల్, మొబైల్ లేదా కోడ్",
     "enter_organisation_identifier": "సంస్థ ఇమెయిల్, పేరు లేదా కోడ్‌ను నమోదు చేయండి.",
     "organisation_not_found": "సంస్థ కనుగొనబడలేదు.",
     "same_organisation_not_allowed": "సంస్థ నుండి మరియు సంస్థకు అనేవి ఒకేలా ఉండకూడదు.",

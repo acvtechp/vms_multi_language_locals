@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Kendaraan yang telah dibagikan organisasi Anda ke organisasi lain. Buat, perbarui, atau hapus pembagian kendaraan antar-organisasi.",
     "from_organisation": "Dari Organisasi",
     "to_organisation": "Ke Organisasi",
-    "organisation_identifier": "Email, Nama, atau Kode Organisasi",
+    "organisation_identifier": "Organisation Email, Mobile or Code",
     "enter_organisation_identifier": "Masukkan email, nama, atau kode organisasi.",
     "organisation_not_found": "Organisasi tidak ditemukan.",
     "same_organisation_not_allowed": "Dari Organisasi dan Ke Organisasi tidak boleh sama.",

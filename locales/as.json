@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "আপোনাৰ সংগঠনে অন্যান্য সংগঠনসমূহৰ সৈতে ভাগ বতৰা কৰা বাহনসমূহ। সংগঠনভিত্তিক বাহনৰ ভাগ বতৰা সৃষ্টি, আপডেট বা আঁতৰাওক।",
     "from_organisation": "কোন সংগঠনৰ পৰা",
     "to_organisation": "কোন সংগঠনলৈ",
-    "organisation_identifier": "সংগঠনৰ ইমেইল, নাম বা ক’ড",
+    "organisation_identifier": "সংগঠনৰ ইমেইল, ম'বাইল বা ক'ড",
     "enter_organisation_identifier": "এটা সংগঠনৰ ইমেইল, নাম বা ক’ড প্ৰবেশ কৰক।",
     "organisation_not_found": "সংগঠন পোৱা নগ’ল।",
     "same_organisation_not_allowed": "সংগঠনৰ পৰা আৰু সংগঠনলৈ একে হ’ব নোৱাৰে।",

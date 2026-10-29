@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "আপনার সংস্থা অন্যান্য সংস্থার সাথে যে গাড়িগুলি শেয়ার করেছে। সংস্থাভিত্তিক গাড়ি শেয়ারিং তৈরি, আপডেট বা সরিয়ে দিন।",
     "from_organisation": "উৎস সংস্থা",
     "to_organisation": "গন্তব্য সংস্থা",
-    "organisation_identifier": "সংস্থার ইমেল, নাম বা কোড",
+    "organisation_identifier": "সংস্থার ইমেল, মোবাইল বা কোড",
     "enter_organisation_identifier": "একটি সংস্থার ইমেল, নাম বা কোড লিখুন।",
     "organisation_not_found": "সংস্থা পাওয়া যায়নি।",
     "same_organisation_not_allowed": "উৎস সংস্থা এবং গন্তব্য সংস্থা একই হতে পারে না।",

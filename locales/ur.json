@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "وہ گاڑیاں جو آپ کی تنظیم نے دوسری تنظیموں کے ساتھ شیئر کی ہیں۔ تنظیم کے لحاظ سے گاڑیوں کا اشتراک بنائیں، اپ ڈیٹ کریں، یا ہٹائیں۔",
     "from_organisation": "متعلقہ تنظیم سے",
     "to_organisation": "متعلقہ تنظیم تک",
-    "organisation_identifier": "تنظیم کا ای میل، نام یا کوڈ",
+    "organisation_identifier": "تنظیم کا ای میل، موبائل یا کوڈ",
     "enter_organisation_identifier": "تنظیم کا ای میل، نام یا کوڈ درج کریں۔",
     "organisation_not_found": "تنظیم نہیں ملی۔",
     "same_organisation_not_allowed": "از تنظیم اور تا تنظیم ایک جیسی نہیں ہو سکتیں۔",

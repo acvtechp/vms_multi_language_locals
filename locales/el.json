@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Οχήματα που ο οργανισμός σας έχει κοινοποιήσει σε άλλους οργανισμούς. Δημιουργήστε, ενημερώστε ή καταργήστε την κοινή χρήση οχημάτων ανά οργανισμό.",
     "from_organisation": "Από Οργανισμό",
     "to_organisation": "Προς Οργανισμό",
-    "organisation_identifier": "Email, Όνομα ή Κωδικός Οργανισμού",
+    "organisation_identifier": "Email οργανισμού, κινητό ή κωδικός",
     "enter_organisation_identifier": "Εισαγάγετε ένα email, όνομα ή κωδικό οργανισμού.",
     "organisation_not_found": "Ο οργανισμός δεν βρέθηκε.",
     "same_organisation_not_allowed": "Ο οργανισμός προέλευσης και ο οργανισμός προορισμού δεν μπορούν να είναι ίδιοι.",

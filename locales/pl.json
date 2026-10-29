@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Pojazdy, które Twoja organizacja udostępniła innym organizacjom. Twórz, aktualizuj lub usuwaj udostępnianie pojazdów dla poszczególnych organizacji.",
     "from_organisation": "Od organizacji",
     "to_organisation": "Do organizacji",
-    "organisation_identifier": "E-mail, nazwa lub kod organizacji",
+    "organisation_identifier": "E-mail organizacji, numer komórkowy lub kod",
     "enter_organisation_identifier": "Wprowadź e-mail, nazwę lub kod organizacji.",
     "organisation_not_found": "Nie znaleziono organizacji.",
     "same_organisation_not_allowed": "Organizacja źródłowa i docelowa nie mogą być takie same.",

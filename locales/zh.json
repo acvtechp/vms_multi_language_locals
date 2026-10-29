@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "您的组织与其他组织共享的车辆。创建、更新或移除按组织划分的车辆共享。",
     "from_organisation": "从组织",
     "to_organisation": "至组织",
-    "organisation_identifier": "组织邮箱、名称或代码",
+    "organisation_identifier": "组织邮箱、手机号或代码",
     "enter_organisation_identifier": "输入组织邮箱、名称或代码。",
     "organisation_not_found": "未找到组织。",
     "same_organisation_not_allowed": "来源组织和目标组织不能相同。",

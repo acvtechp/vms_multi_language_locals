@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "ยานพาหนะที่องค์กรของคุณแชร์ให้กับองค์กรอื่น สร้าง อัปเดต หรือลบการแชร์ยานพาหนะระดับองค์กร",
     "from_organisation": "จากองค์กร",
     "to_organisation": "ถึงองค์กร",
-    "organisation_identifier": "อีเมล ชื่อ หรือรหัสองค์กร",
+    "organisation_identifier": "อีเมลองค์กร, เบอร์มือถือ หรือรหัส",
     "enter_organisation_identifier": "ป้อนอีเมล ชื่อ หรือรหัสองค์กร",
     "organisation_not_found": "ไม่พบองค์กร",
     "same_organisation_not_allowed": "จากองค์กรและถึงองค์กรต้องไม่เหมือนกัน",

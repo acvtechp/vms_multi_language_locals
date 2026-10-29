@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "Voertuigen die uw organisatie heeft gedeeld met andere organisaties. Maak, update of verwijder voertuigdelingen per organisatie.",
     "from_organisation": "Van organisatie",
     "to_organisation": "Naar organisatie",
-    "organisation_identifier": "E-mailadres, naam of code van organisatie",
+    "organisation_identifier": "Organisatie e-mail, mobiel of code",
     "enter_organisation_identifier": "Voer een e-mailadres, naam of code van een organisatie in.",
     "organisation_not_found": "Organisatie niet gevonden.",
     "same_organisation_not_allowed": "Van organisatie en Naar organisatie mogen niet hetzelfde zijn.",

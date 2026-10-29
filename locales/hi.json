@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "आपके संगठन द्वारा अन्य संगठनों के साथ साझा किए गए वाहन। संगठन-वार वाहन साझाकरण बनाएं, अपडेट करें या हटाएं।",
     "from_organisation": "संगठन से",
     "to_organisation": "संगठन तक",
-    "organisation_identifier": "संगठन ईमेल, नाम या कोड",
+    "organisation_identifier": "Organisation Email, Mobile or Code",
     "enter_organisation_identifier": "संगठन का ईमेल, नाम या कोड दर्ज करें।",
     "organisation_not_found": "संगठन नहीं मिला।",
     "same_organisation_not_allowed": "संगठन से और संगठन तक समान नहीं हो सकते।",

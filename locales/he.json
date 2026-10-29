@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "רכבים שהארגון שלך שיתף עם ארגונים אחרים. צור, עדכן או הסר שיתוף רכבים לפי ארגון.",
     "from_organisation": "מארגון",
     "to_organisation": "לארגון",
-    "organisation_identifier": "דוא\"ל, שם או קוד ארגון",
+    "organisation_identifier": "דוא\"ל ארגוני, נייד או קוד",
     "enter_organisation_identifier": "הכנס דוא\"ל, שם או קוד של ארגון.",
     "organisation_not_found": "הארגון לא נמצא.",
     "same_organisation_not_allowed": "ארגון מקור וארגון יעד לא יכולים להיות זהים.",

@@ -1114,7 +1114,7 @@
     "shared_by_me_description": "વાહનો જે તમારી સંસ્થાએ અન્ય સંસ્થાઓ સાથે શેર કર્યા છે. સંસ્થા મુજબ વાહન શેરિંગ બનાવો, અપડેટ કરો અથવા દૂર કરો.",
     "from_organisation": "સંસ્થાથી",
     "to_organisation": "સંસ્થા સુધી",
-    "organisation_identifier": "સંસ્થા ઇમેઇલ, નામ અથવા કોડ",
+    "organisation_identifier": "સંસ્થાનું ઇમેઇલ, મોબાઇલ અથવા કોડ",
     "enter_organisation_identifier": "સંસ્થા ઇમેઇલ, નામ અથવા કોડ દાખલ કરો.",
     "organisation_not_found": "સંસ્થા મળી નથી.",
     "same_organisation_not_allowed": "સંસ્થાથી અને સંસ્થા સુધી સમાન હોઈ શકે નહીં.",
