@@ -44,7 +44,8 @@
     "assigning": "Назначение...",
     "select_all": "Выбрать все",
     "deselect_all": "Отменить выбор всех",
-    "back": "Назад"
+    "back": "Назад",
+    "reset_password": "Сбросить пароль"
   },
   "forms": {
     "label": "Метка",

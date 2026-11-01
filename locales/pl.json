@@ -44,7 +44,8 @@
     "assigning": "Przypisieranie...",
     "select_all": "Zaznacz wszystko",
     "deselect_all": "Odznacz wszystko",
-    "back": "Wstecz"
+    "back": "Wstecz",
+    "reset_password": "Zresetuj hasło"
   },
   "forms": {
     "label": "Etykieta",

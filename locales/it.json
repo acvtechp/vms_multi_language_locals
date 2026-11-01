@@ -44,7 +44,8 @@
     "assigning": "Assegnazione in corso...",
     "select_all": "Seleziona tutto",
     "deselect_all": "Deseleziona tutto",
-    "back": "Indietro"
+    "back": "Indietro",
+    "reset_password": "Reimposta password"
   },
   "forms": {
     "label": "Etichetta",

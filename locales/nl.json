@@ -44,7 +44,8 @@
     "assigning": "Toewijzen...",
     "select_all": "Alles selecteren",
     "deselect_all": "Selectie opheffen",
-    "back": "Terug"
+    "back": "Terug",
+    "reset_password": "Wachtwoord opnieuw instellen"
   },
   "forms": {
     "label": "Label",

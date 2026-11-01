@@ -44,7 +44,8 @@
     "assigning": "Призначення...",
     "select_all": "Вибрати все",
     "deselect_all": "Зняти виділення",
-    "back": "Назад"
+    "back": "Назад",
+    "reset_password": "Скинути пароль"
   },
   "forms": {
     "label": "Мітка",

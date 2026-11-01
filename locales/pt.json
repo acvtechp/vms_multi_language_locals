@@ -44,7 +44,8 @@
     "assigning": "Atribuindo...",
     "select_all": "Selecionar tudo",
     "deselect_all": "Desmarcar tudo",
-    "back": "Voltar"
+    "back": "Voltar",
+    "reset_password": "Redefinir senha"
   },
   "forms": {
     "label": "Rótulo",

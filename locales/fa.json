@@ -44,7 +44,8 @@
     "assigning": "در حال اختصاص...",
     "select_all": "انتخاب همه",
     "deselect_all": "لغو انتخاب همه",
-    "back": "بازگشت"
+    "back": "بازگشت",
+    "reset_password": "بازنشانی رمز عبور"
   },
   "forms": {
     "label": "برچسب",

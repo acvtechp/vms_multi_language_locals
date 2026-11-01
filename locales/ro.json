@@ -44,7 +44,8 @@
     "assigning": "Se atribuie...",
     "select_all": "Selectează tot",
     "deselect_all": "Deselectează tot",
-    "back": "Înapoi"
+    "back": "Înapoi",
+    "reset_password": "Resetează parola"
   },
   "forms": {
     "label": "Etichetă",

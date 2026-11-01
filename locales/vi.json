@@ -44,7 +44,8 @@
     "assigning": "Đang phân bổ...",
     "select_all": "Chọn tất cả",
     "deselect_all": "Bỏ chọn tất cả",
-    "back": "Quay lại"
+    "back": "Quay lại",
+    "reset_password": "Đặt lại mật khẩu"
   },
   "forms": {
     "label": "Nhãn",

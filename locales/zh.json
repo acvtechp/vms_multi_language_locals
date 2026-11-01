@@ -44,7 +44,8 @@
     "assigning": "正在分配...",
     "select_all": "全选",
     "deselect_all": "取消全选",
-    "back": "返回"
+    "back": "返回",
+    "reset_password": "重置密码"
   },
   "forms": {
     "label": "标签",

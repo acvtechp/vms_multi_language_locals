@@ -44,7 +44,8 @@
     "assigning": "Menetapkan...",
     "select_all": "Pilih Semua",
     "deselect_all": "Batalkan Pilihan Semua",
-    "back": "Kembali"
+    "back": "Kembali",
+    "reset_password": "Atur Ulang Kata Sandi"
   },
   "forms": {
     "label": "Label",

@@ -44,7 +44,8 @@
     "assigning": "جاري التعيين...",
     "select_all": "تحديد الكل",
     "deselect_all": "إلغاء تحديد الكل",
-    "back": "رجوع"
+    "back": "رجوع",
+    "reset_password": "إعادة تعيين كلمة المرور"
   },
   "forms": {
     "label": "تسمية",

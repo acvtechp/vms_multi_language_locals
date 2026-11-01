@@ -44,7 +44,8 @@
     "assigning": "Inapeana...",
     "select_all": "Chagua Zote",
     "deselect_all": "Ondoa Uteuzi Wote",
-    "back": "Rudi"
+    "back": "Rudi",
+    "reset_password": "Weka upya nenosiri"
   },
   "forms": {
     "label": "Lebo",

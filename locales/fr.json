@@ -44,7 +44,8 @@
     "assigning": "Assignation en cours...",
     "select_all": "Tout sélectionner",
     "deselect_all": "Tout désélectionner",
-    "back": "Retour"
+    "back": "Retour",
+    "reset_password": "Réinitialiser le mot de passe"
   },
   "forms": {
     "label": "Libellé",

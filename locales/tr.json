@@ -44,7 +44,8 @@
     "assigning": "Atanıyor...",
     "select_all": "Tümünü Seç",
     "deselect_all": "Tüm Seçimleri Kaldır",
-    "back": "Geri"
+    "back": "Geri",
+    "reset_password": "Şifreyi Sıfırla"
   },
   "forms": {
     "label": "Etiket",

@@ -44,7 +44,8 @@
     "assigning": "असाइन किया जा रहा है...",
     "select_all": "सभी चुनें",
     "deselect_all": "सभी का चयन हटाएं",
-    "back": "वापस"
+    "back": "वापस",
+    "reset_password": "पासवर्ड रीसेट करें"
   },
   "forms": {
     "label": "लेबल",

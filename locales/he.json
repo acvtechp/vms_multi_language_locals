@@ -44,7 +44,8 @@
     "assigning": "מבצע הקצאה...",
     "select_all": "בחר הכל",
     "deselect_all": "בטל בחירת הכל",
-    "back": "חזרה"
+    "back": "חזרה",
+    "reset_password": "איפוס סיסמה"
   },
   "forms": {
     "label": "תווית",

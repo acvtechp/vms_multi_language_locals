@@ -44,7 +44,8 @@
     "assigning": "સોંપી રહ્યા છીએ...",
     "select_all": "બધા પસંદ કરો",
     "deselect_all": "બધા નાપસંદ કરો",
-    "back": "પાછળ"
+    "back": "પાછળ",
+    "reset_password": "પાસવર્ડ રીસેટ કરો"
   },
   "forms": {
     "label": "લેબલ",

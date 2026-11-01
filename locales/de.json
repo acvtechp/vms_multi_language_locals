@@ -44,7 +44,8 @@
     "assigning": "Wird zugewiesen...",
     "select_all": "Alle auswählen",
     "deselect_all": "Auswahl aufheben",
-    "back": "Zurück"
+    "back": "Zurück",
+    "reset_password": "Passwort zurücksetzen"
   },
   "forms": {
     "label": "Beschriftung",

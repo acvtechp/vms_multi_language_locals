@@ -44,7 +44,8 @@
     "assigning": "ਸੌਂਪਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
     "select_all": "ਸਭ ਚੁਣੋ",
     "deselect_all": "ਸਭ ਅਣ-ਚੁਣੋ",
-    "back": "ਪਿੱਛੇ"
+    "back": "ਪਿੱਛੇ",
+    "reset_password": "ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰੋ"
   },
   "forms": {
     "label": "ਲੇਬਲ",

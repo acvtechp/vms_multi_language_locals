@@ -44,7 +44,8 @@
     "assigning": "割り当て中...",
     "select_all": "すべて選択",
     "deselect_all": "すべての選択を解除",
-    "back": "戻る"
+    "back": "戻る",
+    "reset_password": "パスワードをリセット"
   },
   "forms": {
     "label": "ラベル",

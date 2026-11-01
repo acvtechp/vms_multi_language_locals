@@ -44,7 +44,8 @@
     "assigning": "Asignando...",
     "select_all": "Seleccionar todo",
     "deselect_all": "Deseleccionar todo",
-    "back": "Atrás"
+    "back": "Atrás",
+    "reset_password": "Restablecer contraseña"
   },
   "forms": {
     "label": "Etiqueta",

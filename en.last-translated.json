@@ -44,7 +44,8 @@
     "assigning": "Assigning...",
     "select_all": "Select All",
     "deselect_all": "Deselect All",
-    "back": "Back"
+    "back": "Back",
+    "reset_password": "Reset Password"
   },
   "forms": {
     "label": "Label",

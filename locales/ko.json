@@ -44,7 +44,8 @@
     "assigning": "할당 중...",
     "select_all": "모두 선택",
     "deselect_all": "모두 선택 해제",
-    "back": "뒤로"
+    "back": "뒤로",
+    "reset_password": "비밀번호 재설정"
   },
   "forms": {
     "label": "라벨",
