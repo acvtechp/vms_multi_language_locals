@@ -364,6 +364,22 @@
     "fasttag_keys": "Chei FASTag",
     "fasttag_keys_description": "Configurați acreditările de integrare FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Detalii aviz de însoțire a mărfii (E-Way Bill)",
+    "provider": "Furnizor",
+    "api_client_id": "ID client API",
+    "api_key": "Cheie API",
+    "api_secret": "Secret API",
+    "description": "Descriere"
+  },
+  "p_fasttag_details": {
+    "title": "Detalii FASTag",
+    "bank": "Bancă",
+    "customer_id": "ID client",
+    "client_id": "ID client",
+    "client_secret": "Secret client",
+    "api_key": "Cheie API"
+  },
   "exclusive_feature": {
     "title": "Acces la funcții exclusive",
     "description": "Vă rugăm să contactați echipa noastră de asistență pentru a activa accesul.",

@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag કી",
     "fasttag_keys_description": "FASTag એકીકરણ ઓળખપત્રો ગોઠવો"
   },
+  "p_eway_bill_details": {
+    "title": "ઇ-વે બિલની વિગતો",
+    "provider": "પ્રદાતા",
+    "api_client_id": "API ક્લાયંટ ID",
+    "api_key": "API કી",
+    "api_secret": "API સિક્રેટ",
+    "description": "વર્ણન"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag વિગતો",
+    "bank": "બેંક",
+    "customer_id": "ગ્રાહક ID",
+    "client_id": "ક્લાયંટ ID",
+    "client_secret": "ક્લાયંટ સિક્રેટ",
+    "api_key": "API કી"
+  },
   "exclusive_feature": {
     "title": "વિશિષ્ટ સુવિધાની ઍક્સેસ",
     "description": "ઍક્સેસ સક્ષમ કરવા માટે કૃપા કરીને અમારી સપોર્ટ ટીમનો સંપર્ક કરો.",

@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag 密钥",
     "fasttag_keys_description": "配置 FASTag 集成凭据"
   },
+  "p_eway_bill_details": {
+    "title": "电子运单详情",
+    "provider": "提供商",
+    "api_client_id": "API 客户端 ID",
+    "api_key": "API 密钥",
+    "api_secret": "API 密钥密码",
+    "description": "描述"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag 详情",
+    "bank": "银行",
+    "customer_id": "客户 ID",
+    "client_id": "客户端 ID",
+    "client_secret": "客户端密钥",
+    "api_key": "API 密钥"
+  },
   "exclusive_feature": {
     "title": "专属功能访问",
     "description": "请联系我们的支持团队以启用访问权限。",

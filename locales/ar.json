@@ -364,6 +364,22 @@
     "fasttag_keys": "مفاتيح FASTag",
     "fasttag_keys_description": "تكوين بيانات اعتماد تكامل FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "تفاصيل فاتورة الطريق الإلكترونية",
+    "provider": "المزود",
+    "api_client_id": "معرف عميل API",
+    "api_key": "مفتاح API",
+    "api_secret": "الرمز السري لـ API",
+    "description": "الوصف"
+  },
+  "p_fasttag_details": {
+    "title": "تفاصيل FASTag",
+    "bank": "البنك",
+    "customer_id": "معرف العميل",
+    "client_id": "معرف العميل",
+    "client_secret": "الرمز السري للعميل",
+    "api_key": "مفتاح API"
+  },
   "exclusive_feature": {
     "title": "الوصول إلى ميزة حصرية",
     "description": "يرجى الاتصال بفريق الدعم لدينا لتفعيل الوصول.",

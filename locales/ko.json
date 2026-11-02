@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag 키",
     "fasttag_keys_description": "FASTag 연동 자격 증명 설정"
   },
+  "p_eway_bill_details": {
+    "title": "전자 길 번호(E-Way Bill) 세부 정보",
+    "provider": "제공자",
+    "api_client_id": "API 클라이언트 ID",
+    "api_key": "API 키",
+    "api_secret": "API 시크릿",
+    "description": "설명"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag 세부 정보",
+    "bank": "은행",
+    "customer_id": "고객 ID",
+    "client_id": "클라이언트 ID",
+    "client_secret": "클라이언트 시크릿",
+    "api_key": "API 키"
+  },
   "exclusive_feature": {
     "title": "독점 기능 액세스",
     "description": "액세스를 활성화하려면 지원 팀에 문의하세요.",

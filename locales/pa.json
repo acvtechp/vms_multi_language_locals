@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag ਕੁੰਜੀਆਂ",
     "fasttag_keys_description": "FASTag ਏਕੀਕਰਣ ਪ੍ਰਮਾਣ ਪੱਤਰ ਕੌਂਫਿਗਰ ਕਰੋ"
   },
+  "p_eway_bill_details": {
+    "title": "ਈ-ਵੇਅ ਬਿੱਲ ਵੇਰਵੇ",
+    "provider": "ਪ੍ਰਦਾਤਾ",
+    "api_client_id": "API ਕਲਾਇੰਟ ID",
+    "api_key": "API ਕੁੰਜੀ",
+    "api_secret": "API ਗੁਪਤ",
+    "description": "ਵੇਰਵਾ"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag ਵੇਰਵੇ",
+    "bank": "ਬੈਂਕ",
+    "customer_id": "ਗਾਹਕ ID",
+    "client_id": "ਕਲਾਇੰਟ ID",
+    "client_secret": "ਕਲਾਇੰਟ ਗੁਪਤ",
+    "api_key": "API ਕੁੰਜੀ"
+  },
   "exclusive_feature": {
     "title": "ਵਿਸ਼ੇਸ਼ ਫੀਚਰ ਐਕਸੈਸ",
     "description": "ਪਹੁੰਚ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਸਹਾਇਤਾ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",

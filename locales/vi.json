@@ -364,6 +364,22 @@
     "fasttag_keys": "Khóa FASTag",
     "fasttag_keys_description": "Cấu hình thông tin đăng nhập tích hợp FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Chi tiết hóa đơn điện tử (E-Way Bill)",
+    "provider": "Nhà cung cấp",
+    "api_client_id": "ID khách hàng API",
+    "api_key": "Khóa API",
+    "api_secret": "Mật khẩu bí mật API",
+    "description": "Mô tả"
+  },
+  "p_fasttag_details": {
+    "title": "Chi tiết FASTag",
+    "bank": "Ngân hàng",
+    "customer_id": "ID khách hàng",
+    "client_id": "ID khách hàng",
+    "client_secret": "Mật khẩu bí mật của khách hàng",
+    "api_key": "Khóa API"
+  },
   "exclusive_feature": {
     "title": "Quyền truy cập tính năng độc quyền",
     "description": "Vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi để bật quyền truy cập.",

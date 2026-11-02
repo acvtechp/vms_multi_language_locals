@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag Anahtarları",
     "fasttag_keys_description": "FASTag entegrasyon kimlik bilgilerini yapılandırın"
   },
+  "p_eway_bill_details": {
+    "title": "E-Way Fatura Detayları",
+    "provider": "Sağlayıcı",
+    "api_client_id": "API İstemci Kimliği",
+    "api_key": "API Anahtarı",
+    "api_secret": "API Gizli Anahtarı",
+    "description": "Açıklama"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag Detayları",
+    "bank": "Banka",
+    "customer_id": "Müşteri Kimliği",
+    "client_id": "İstemci Kimliği",
+    "client_secret": "İstemci Gizli Anahtarı",
+    "api_key": "API Anahtarı"
+  },
   "exclusive_feature": {
     "title": "Özel Özellik Erişimi",
     "description": "Erişimi etkinleştirmek için lütfen destek ekibimizle iletişime geçin.",

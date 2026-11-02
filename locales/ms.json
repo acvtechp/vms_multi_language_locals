@@ -364,6 +364,22 @@
     "fasttag_keys": "Kunci FASTag",
     "fasttag_keys_description": "Konfigurasikan kelayakan integrasi FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Butiran E-Way Bill",
+    "provider": "Penyedia",
+    "api_client_id": "ID Pelanggan API",
+    "api_key": "Kunci API",
+    "api_secret": "Rahsia API",
+    "description": "Penerangan"
+  },
+  "p_fasttag_details": {
+    "title": "Butiran FASTag",
+    "bank": "Bank",
+    "customer_id": "ID Pelanggan",
+    "client_id": "ID Klien",
+    "client_secret": "Rahsia Klien",
+    "api_key": "Kunci API"
+  },
   "exclusive_feature": {
     "title": "Akses Ciri Eksklusif",
     "description": "Sila hubungi pasukan sokongan kami untuk mendayakan akses.",

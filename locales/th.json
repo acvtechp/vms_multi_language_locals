@@ -364,6 +364,22 @@
     "fasttag_keys": "คีย์ FASTag",
     "fasttag_keys_description": "กำหนดค่าข้อมูลรับรองการบูรณาการ FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "รายละเอียดบิล E-Way",
+    "provider": "ผู้ให้บริการ",
+    "api_client_id": "รหัสลูกค้า API",
+    "api_key": "คีย์ API",
+    "api_secret": "รหัสลับ API",
+    "description": "คำอธิบาย"
+  },
+  "p_fasttag_details": {
+    "title": "รายละเอียด FASTag",
+    "bank": "ธนาคาร",
+    "customer_id": "รหัสลูกค้า",
+    "client_id": "รหัสลูกค้า",
+    "client_secret": "รหัสลับของไคลเอนต์",
+    "api_key": "คีย์ API"
+  },
   "exclusive_feature": {
     "title": "การเข้าถึงฟีเจอร์พิเศษ",
     "description": "โปรดติดต่อทีมสนับสนุนของเราเพื่อเปิดใช้งานการเข้าถึง",

@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag कुंजियाँ",
     "fasttag_keys_description": "FASTag एकीकरण क्रेडेंशियल कॉन्फ़िगर करें"
   },
+  "p_eway_bill_details": {
+    "title": "ई-वे बिल विवरण",
+    "provider": "प्रदाता",
+    "api_client_id": "API क्लाइंट आईडी",
+    "api_key": "API कुंजी",
+    "api_secret": "API गुप्त",
+    "description": "विवरण"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag विवरण",
+    "bank": "बैंक",
+    "customer_id": "ग्राहक आईडी",
+    "client_id": "क्लाइंट आईडी",
+    "client_secret": "क्लाइंट गुप्त",
+    "api_key": "API कुंजी"
+  },
   "exclusive_feature": {
     "title": "विशेष फ़ीचर एक्सेस",
     "description": "एक्सेस सक्षम करने के लिए कृपया हमारी सहायता टीम से संपर्क करें।",

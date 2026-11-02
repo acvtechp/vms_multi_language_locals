@@ -364,6 +364,22 @@
     "fasttag_keys": "Kunci FASTag",
     "fasttag_keys_description": "Konfigurasikan kredensial integrasi FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Detail E-Way Bill",
+    "provider": "Penyedia",
+    "api_client_id": "ID Klien API",
+    "api_key": "Kunci API",
+    "api_secret": "Rahasia API",
+    "description": "Deskripsi"
+  },
+  "p_fasttag_details": {
+    "title": "Detail FASTag",
+    "bank": "Bank",
+    "customer_id": "ID Pelanggan",
+    "client_id": "ID Klien",
+    "client_secret": "Rahasia Klien",
+    "api_key": "Kunci API"
+  },
   "exclusive_feature": {
     "title": "Akses Fitur Eksklusif",
     "description": "Silakan hubungi tim dukungan kami untuk mengaktifkan akses.",

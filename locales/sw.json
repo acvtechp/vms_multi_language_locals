@@ -364,6 +364,22 @@
     "fasttag_keys": "Funguo za FASTag",
     "fasttag_keys_description": "Sanidi stakabadhi za ujumuishaji wa FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Maelezo ya Bili ya E-Way",
+    "provider": "Mtoa huduma",
+    "api_client_id": "Kitambulisho cha Mteja cha API",
+    "api_key": "Ufunguo wa API",
+    "api_secret": "Siri ya API",
+    "description": "Maelezo"
+  },
+  "p_fasttag_details": {
+    "title": "Maelezo ya FASTag",
+    "bank": "Benki",
+    "customer_id": "Kitambulisho cha Mteja",
+    "client_id": "Kitambulisho cha Mteja",
+    "client_secret": "Siri ya Mteja",
+    "api_key": "Ufunguo wa API"
+  },
   "exclusive_feature": {
     "title": "Upatikanaji wa Kipengele Maalum",
     "description": "Tafadhali wasiliana na timu yetu ya usaidizi ili kuwezesha upatikanaji.",

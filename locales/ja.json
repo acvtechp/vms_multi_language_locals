@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTagキー",
     "fasttag_keys_description": "FASTag統合認証情報を構成します"
   },
+  "p_eway_bill_details": {
+    "title": "E-Way Billの詳細",
+    "provider": "プロバイダー",
+    "api_client_id": "API クライアント ID",
+    "api_key": "API キー",
+    "api_secret": "API シークレット",
+    "description": "説明"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag の詳細",
+    "bank": "銀行",
+    "customer_id": "顧客 ID",
+    "client_id": "クライアント ID",
+    "client_secret": "クライアント シークレット",
+    "api_key": "API キー"
+  },
   "exclusive_feature": {
     "title": "限定機能アクセス",
     "description": "アクセスを有効にするには、サポートチームにお問い合わせください。",

@@ -364,6 +364,22 @@
     "fasttag_keys": "Ключі FASTag",
     "fasttag_keys_description": "Налаштування облікових даних інтеграції FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Деталі електронної накладної (E-Way Bill)",
+    "provider": "Постачальник",
+    "api_client_id": "Ідентифікатор клієнта API",
+    "api_key": "Ключ API",
+    "api_secret": "Секретний ключ API",
+    "description": "Опис"
+  },
+  "p_fasttag_details": {
+    "title": "Деталі FASTag",
+    "bank": "Банк",
+    "customer_id": "Ідентифікатор клієнта",
+    "client_id": "Ідентифікатор клієнта",
+    "client_secret": "Секретний ключ клієнта",
+    "api_key": "Ключ API"
+  },
   "exclusive_feature": {
     "title": "Доступ до ексклюзивних функцій",
     "description": "Зверніться до нашої служби підтримки, щоб увімкнути доступ.",

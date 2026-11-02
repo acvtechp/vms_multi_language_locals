@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag ಕೀಗಳು",
     "fasttag_keys_description": "FASTag ಏಕೀಕರಣ ರುಜುವಾತುಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
   },
+  "p_eway_bill_details": {
+    "title": "ಇ-ವೇ ಬಿಲ್ ವಿವರಗಳು",
+    "provider": "ಒದಗಿಸುವವರು",
+    "api_client_id": "API ಕ್ಲೈಂಟ್ ಐಡಿ",
+    "api_key": "API ಕೀ",
+    "api_secret": "API ಸೀಕ್ರೆಟ್",
+    "description": "ವಿವರಣೆ"
+  },
+  "p_fasttag_details": {
+    "title": "ಫಾಸ್ಟ್ಯಾಗ್ ವಿವರಗಳು",
+    "bank": "ಬ್ಯಾಂಕ್",
+    "customer_id": "ಗ್ರಾಹಕ ID",
+    "client_id": "ಕ್ಲೈಂಟ್ ID",
+    "client_secret": "ಕ್ಲೈಂಟ್ ಸೀಕ್ರೆಟ್",
+    "api_key": "API ಕೀ"
+  },
   "exclusive_feature": {
     "title": "ವಿಶೇಷ ವೈಶಿಷ್ಟ್ಯ ಪ್ರವೇಶ",
     "description": "ಪ್ರವೇಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ದಯವಿಟ್ಟು ನಮ್ಮ ಬೆಂಬಲ ತಂಡವನ್ನು ಸಂಪರ್ಕಿಸಿ.",

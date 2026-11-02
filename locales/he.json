@@ -364,6 +364,22 @@
     "fasttag_keys": "מפתחות FASTag",
     "fasttag_keys_description": "הגדר פרטי התחברות לשילוב FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "פרטי שטר E-Way",
+    "provider": "ספק",
+    "api_client_id": "מזהה לקוח API",
+    "api_key": "מפתח API",
+    "api_secret": "סודיות API",
+    "description": "תיאור"
+  },
+  "p_fasttag_details": {
+    "title": "פרטי FASTag",
+    "bank": "בנק",
+    "customer_id": "מזהה לקוח",
+    "client_id": "מזהה לקוח",
+    "client_secret": "סודיות הלקוח",
+    "api_key": "מפתח API"
+  },
   "exclusive_feature": {
     "title": "גישה לתכונות בלעדיות",
     "description": "אנא צור קשר עם צוות התמיכה שלנו כדי לאפשר גישה.",

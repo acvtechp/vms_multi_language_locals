@@ -364,6 +364,22 @@
     "fasttag_keys": "ফাস্টট্যাগ কি",
     "fasttag_keys_description": "ফাস্টট্যাগ ইন্টিগ্রেশন শংসাপত্র কনফিগার করুন"
   },
+  "p_eway_bill_details": {
+    "title": "ই-ওয়ে বিলের বিবরণ",
+    "provider": "প্রদানকারী",
+    "api_client_id": "এপিআই ক্লায়েন্ট আইডি",
+    "api_key": "এপিআই কি",
+    "api_secret": "এপিআই সিক্রেট",
+    "description": "বিবরণ"
+  },
+  "p_fasttag_details": {
+    "title": "ফাস্টট্যাগ বিবরণ",
+    "bank": "ব্যাংক",
+    "customer_id": "গ্রাহক আইডি",
+    "client_id": "ক্লায়েন্ট আইডি",
+    "client_secret": "ক্লায়েন্ট সিক্রেট",
+    "api_key": "এপিআই কি"
+  },
   "exclusive_feature": {
     "title": "এক্সক্লুসিভ ফিচারের অ্যাক্সেস",
     "description": "অ্যাক্সেস সক্ষম করতে আমাদের সহায়তা দলের সাথে যোগাযোগ করুন।",

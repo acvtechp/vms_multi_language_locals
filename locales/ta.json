@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag விசைகள்",
     "fasttag_keys_description": "FASTag ஒருங்கிணைப்பு நற்சான்றிதழ்களை உள்ளமைக்கவும்"
   },
+  "p_eway_bill_details": {
+    "title": "இ-வே பில் விவரங்கள்",
+    "provider": "வழங்குநர்",
+    "api_client_id": "API கிளையன்ட் ஐடி",
+    "api_key": "API விசை",
+    "api_secret": "API இரகசியம்",
+    "description": "விளக்கம்"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag விவரங்கள்",
+    "bank": "வங்கி",
+    "customer_id": "வாடிக்கையாளர் ஐடி",
+    "client_id": "கிளையன்ட் ஐடி",
+    "client_secret": "கிளையன்ட் இரகசியம்",
+    "api_key": "API விசை"
+  },
   "exclusive_feature": {
     "title": "பிரத்தியேக அம்சம் அணுகல்",
     "description": "அணுகலை இயக்க தயவுசெய்து எங்கள் ஆதரவுக் குழுவைத் தொடர்பு கொள்ளவும்.",

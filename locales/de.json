@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag-Schlüssel",
     "fasttag_keys_description": "FASTag-Integrationsanmeldeinformationen konfigurieren"
   },
+  "p_eway_bill_details": {
+    "title": "E-Way-Bill-Details",
+    "provider": "Anbieter",
+    "api_client_id": "API-Client-ID",
+    "api_key": "API-Schlüssel",
+    "api_secret": "API-Geheimnis",
+    "description": "Beschreibung"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag-Details",
+    "bank": "Bank",
+    "customer_id": "Kunden-ID",
+    "client_id": "Client-ID",
+    "client_secret": "Client-Geheimnis",
+    "api_key": "API-Schlüssel"
+  },
   "exclusive_feature": {
     "title": "Exklusiver Funktionszugriff",
     "description": "Bitte kontaktieren Sie unser Support-Team, um den Zugriff zu aktivieren.",

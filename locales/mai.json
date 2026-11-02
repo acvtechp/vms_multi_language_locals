@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag कुञ्जी",
     "fasttag_keys_description": "FASTag इन्टिग्रेशन क्रेडेंशियल्स कन्फिगर करू"
   },
+  "p_eway_bill_details": {
+    "title": "इ-वे बिल विवरण",
+    "provider": "प्रदाता",
+    "api_client_id": "API क्लाइन्ट आइडी",
+    "api_key": "API कुञ्जी",
+    "api_secret": "API गुप्त",
+    "description": "विवरण"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag विवरण",
+    "bank": "बैंक",
+    "customer_id": "ग्राहक आइडी",
+    "client_id": "क्लाइन्ट आइडी",
+    "client_secret": "क्लाइन्ट गुप्त",
+    "api_key": "API कुञ्जी"
+  },
   "exclusive_feature": {
     "title": "विशेष सुविधा पहुँच",
     "description": "पहुँच सक्षम करय लेल कृपया हमर सपोर्ट टिम सँ संपर्क करू।",

@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag-sleutels",
     "fasttag_keys_description": "Configureer FASTag-integratiereferenties"
   },
+  "p_eway_bill_details": {
+    "title": "E-Way Bill-gegevens",
+    "provider": "Provider",
+    "api_client_id": "API-client-ID",
+    "api_key": "API-sleutel",
+    "api_secret": "API Secret",
+    "description": "Beschrijving"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag-gegevens",
+    "bank": "Bank",
+    "customer_id": "Klant-ID",
+    "client_id": "Client-ID",
+    "client_secret": "Client Secret",
+    "api_key": "API-sleutel"
+  },
   "exclusive_feature": {
     "title": "Toegang tot exclusieve functies",
     "description": "Neem contact op met ons supportteam om toegang in te schakelen.",

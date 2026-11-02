@@ -364,6 +364,22 @@
     "fasttag_keys": "Ключи FASTag",
     "fasttag_keys_description": "Настройка учетных данных интеграции FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Детали электронного счета-фактуры",
+    "provider": "Поставщик",
+    "api_client_id": "Идентификатор API-клиента",
+    "api_key": "Ключ API",
+    "api_secret": "Секрет API",
+    "description": "Описание"
+  },
+  "p_fasttag_details": {
+    "title": "Детали FASTag",
+    "bank": "Банк",
+    "customer_id": "Идентификатор клиента",
+    "client_id": "Идентификатор клиента",
+    "client_secret": "Секрет клиента",
+    "api_key": "Ключ API"
+  },
   "exclusive_feature": {
     "title": "Доступ к эксклюзивным функциям",
     "description": "Пожалуйста, обратитесь в нашу службу поддержки для активации доступа.",

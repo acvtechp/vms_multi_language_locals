@@ -364,6 +364,22 @@
     "fasttag_keys": "کلیدهای FASTag",
     "fasttag_keys_description": "پیکربندی اعتبارنامه‌های ادغام FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "جزئیات قبض الکترونیکی (E-Way Bill)",
+    "provider": "ارائه‌دهنده",
+    "api_client_id": "شناسه کلاینت API",
+    "api_key": "کلید API",
+    "api_secret": "رمز مخفی API",
+    "description": "توضیحات"
+  },
+  "p_fasttag_details": {
+    "title": "جزئیات FASTag",
+    "bank": "بانک",
+    "customer_id": "شناسه مشتری",
+    "client_id": "شناسه کلاینت",
+    "client_secret": "رمز مخفی کلاینت",
+    "api_key": "کلید API"
+  },
   "exclusive_feature": {
     "title": "دسترسی به ویژگی‌های انحصاری",
     "description": "لطفاً برای فعال‌سازی دسترسی با تیم پشتیبانی ما تماس بگیرید.",

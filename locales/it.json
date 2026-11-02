@@ -364,6 +364,22 @@
     "fasttag_keys": "Chiavi FASTag",
     "fasttag_keys_description": "Configura le credenziali di integrazione FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Dettagli E-Way Bill",
+    "provider": "Fornitore",
+    "api_client_id": "ID client API",
+    "api_key": "Chiave API",
+    "api_secret": "Segreto API",
+    "description": "Descrizione"
+  },
+  "p_fasttag_details": {
+    "title": "Dettagli FASTag",
+    "bank": "Banca",
+    "customer_id": "ID cliente",
+    "client_id": "ID client",
+    "client_secret": "Segreto client",
+    "api_key": "Chiave API"
+  },
   "exclusive_feature": {
     "title": "Accesso a funzioni esclusive",
     "description": "Contatta il nostro team di supporto per abilitare l'accesso.",

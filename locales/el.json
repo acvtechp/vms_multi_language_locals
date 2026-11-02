@@ -364,6 +364,22 @@
     "fasttag_keys": "Κλειδιά FASTag",
     "fasttag_keys_description": "Διαμόρφωση διαπιστευτηρίων ενσωμάτωσης FASTag"
   },
+  "p_eway_bill_details": {
+    "title": "Λεπτομέρειες E-Way Bill",
+    "provider": "Προμηθευτής",
+    "api_client_id": "API Client ID",
+    "api_key": "API Key",
+    "api_secret": "API Secret",
+    "description": "Περιγραφή"
+  },
+  "p_fasttag_details": {
+    "title": "Λεπτομέρειες FASTag",
+    "bank": "Τράπεζα",
+    "customer_id": "ID Πελάτη",
+    "client_id": "Client ID",
+    "client_secret": "Client Secret",
+    "api_key": "API Key"
+  },
   "exclusive_feature": {
     "title": "Πρόσβαση σε Αποκλειστική Λειτουργία",
     "description": "Επικοινωνήστε με την ομάδα υποστήριξής μας για να ενεργοποιήσετε την πρόσβαση.",

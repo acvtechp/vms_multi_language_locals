@@ -364,6 +364,22 @@
     "fasttag_keys": "ফাষ্টেগ কীজ",
     "fasttag_keys_description": "ফাষ্টেগ ইন্টিগ্ৰেচন ক্ৰেডেঞ্চিয়েল কনফিগাৰ কৰক"
   },
+  "p_eway_bill_details": {
+    "title": "ই-ৱে' বিলৰ বিৱৰণ",
+    "provider": "প্ৰদানকাৰী",
+    "api_client_id": "এপিআই ক্লায়েণ্ট আইডি",
+    "api_key": "এপিআই কী",
+    "api_secret": "এপিআই ছিক্ৰেট",
+    "description": "বিৱৰণ"
+  },
+  "p_fasttag_details": {
+    "title": "ফাষ্টটেগৰ বিৱৰণ",
+    "bank": "বেংক",
+    "customer_id": "গ্ৰাহক আইডি",
+    "client_id": "ক্লায়েণ্ট আইডি",
+    "client_secret": "ক্লায়েণ্ট ছিক্ৰেট",
+    "api_key": "এপিআই কী"
+  },
   "exclusive_feature": {
     "title": "বিশেষ ফিচাৰ প্ৰৱেশ",
     "description": "প্ৰৱেশ সক্ষম কৰিবলৈ অনুগ্ৰহ কৰি আমাৰ সহায়ক দলৰ সৈতে যোগাযোগ কৰক।",

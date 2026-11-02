@@ -364,6 +364,22 @@
     "fasttag_keys": "ഫാസ്ടാഗ് കീകൾ",
     "fasttag_keys_description": "FASTag സംയോജന ക്രെഡൻഷ്യലുകൾ കോൺഫിഗർ ചെയ്യുക"
   },
+  "p_eway_bill_details": {
+    "title": "ഇ-വേ ബിൽ വിശദാംശങ്ങൾ",
+    "provider": "ദാതാവ്",
+    "api_client_id": "എപിഐ ക്ലയന്റ് ഐഡി",
+    "api_key": "എപിഐ കീ",
+    "api_secret": "എപിഐ സീക്രട്ട്",
+    "description": "വിവരണം"
+  },
+  "p_fasttag_details": {
+    "title": "ഫാസ്ടാഗ് വിശദാംശങ്ങൾ",
+    "bank": "ബാങ്ക്",
+    "customer_id": "ഉപഭോക്തൃ ഐഡി",
+    "client_id": "ക്ലയന്റ് ഐഡി",
+    "client_secret": "ക്ലയന്റ് സീക്രട്ട്",
+    "api_key": "എപിഐ കീ"
+  },
   "exclusive_feature": {
     "title": "എക്സ്ക്ലൂസീവ് ഫീച്ചർ ആക്സസ്",
     "description": "ആക്സസ് പ്രവർത്തനക്ഷമമാക്കാൻ ഞങ്ങളുടെ പിന്തുണാ ടീമുമായി ബന്ധപ്പെടുക.",

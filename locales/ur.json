@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag کیز",
     "fasttag_keys_description": "FASTag انٹیگریشن کینادشات کو ترتیب دیں۔"
   },
+  "p_eway_bill_details": {
+    "title": "ای-وے بل کی تفصیلات",
+    "provider": "فراہم کنندہ",
+    "api_client_id": "API کلائنٹ ID",
+    "api_key": "API کلید",
+    "api_secret": "API سیک्रेट",
+    "description": "تفصیل"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag کی تفصیلات",
+    "bank": "بینک",
+    "customer_id": "کسٹمر ID",
+    "client_id": "کلائنٹ ID",
+    "client_secret": "کلائنٹ سیک्रेट",
+    "api_key": "API کلید"
+  },
   "exclusive_feature": {
     "title": "خصوصی فیچر تک رسائی",
     "description": "رسائی کو فعال کرنے کے لیے براہ کرم ہماری سپورٹ ٹیم سے رابطہ کریں۔",

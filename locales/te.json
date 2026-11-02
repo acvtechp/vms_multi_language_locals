@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag కీలు",
     "fasttag_keys_description": "FASTag ఇంటిగ్రేషన్ ఆధారాలను కాన్ఫిగర్ చేయండి"
   },
+  "p_eway_bill_details": {
+    "title": "ఈ-వే బిల్ వివరాలు",
+    "provider": "ప్రొవైడర్",
+    "api_client_id": "API క్లయంట్ ఐడి",
+    "api_key": "API కీ",
+    "api_secret": "API సీక్రెట్",
+    "description": "వివరణ"
+  },
+  "p_fasttag_details": {
+    "title": "ఫాస్టాగ్ వివరాలు",
+    "bank": "బ్యాంక్",
+    "customer_id": "కస్టమర్ ఐడి",
+    "client_id": "క్లయంట్ ఐడి",
+    "client_secret": "క్లయంట్ సీక్రెట్",
+    "api_key": "API కీ"
+  },
   "exclusive_feature": {
     "title": "ప్రత్యేక ఫీచర్ యాక్సెస్",
     "description": "యాక్సెస్‌ని ప్రారంభించడానికి దయచేసి మా మద్దతు బృందాన్ని సంప్రదించండి.",

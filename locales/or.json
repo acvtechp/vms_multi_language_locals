@@ -364,6 +364,22 @@
     "fasttag_keys": "FASTag କି'ଜ୍",
     "fasttag_keys_description": "FASTag ଇଣ୍ଟିଗ୍ରେସନ୍ କ୍ରେଡେନ୍ସିଆଲ୍ସ କନଫିଗର୍ କରନ୍ତୁ"
   },
+  "p_eway_bill_details": {
+    "title": "ଇ-ୱେ ବିଲ୍ ବିବରଣୀ",
+    "provider": "ପ୍ରଦାନକାରୀ",
+    "api_client_id": "API କ୍ଲାଏଣ୍ଟ ID",
+    "api_key": "API କି",
+    "api_secret": "API ସିକ୍ରେଟ୍",
+    "description": "ବର୍ଣ୍ଣନା"
+  },
+  "p_fasttag_details": {
+    "title": "FASTag ବିବରଣୀ",
+    "bank": "ବ୍ୟାଙ୍କ",
+    "customer_id": "ଗ୍ରାହକ ID",
+    "client_id": "କ୍ଲାଏଣ୍ଟ ID",
+    "client_secret": "କ୍ଲାଏଣ୍ଟ ସିକ୍ରେଟ୍",
+    "api_key": "API କି"
+  },
   "exclusive_feature": {
     "title": "ବିଶେଷ ଫିଚର୍ ପ୍ରବେଶ",
     "description": "ପ୍ରବେଶ ସକ୍ଷମ କରିବାକୁ ଦୟାକରି ଆମର ସପୋର୍ଟ ଟିମ୍ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
