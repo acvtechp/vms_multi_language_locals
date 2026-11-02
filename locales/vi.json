@@ -350,6 +350,7 @@
     "static_pages_description": "Quản lý và cập nhật các trang tĩnh cho trang web của bạn."
   },
   "organisation_profile": {
+    "organisation_settings": "Cài đặt tổ chức",
     "organisation_profile": "Hồ sơ tổ chức",
     "organisation_profile_description": "Quản lý thông tin cơ bản của tổ chức bạn",
     "alert_management": "Quản lý cảnh báo",

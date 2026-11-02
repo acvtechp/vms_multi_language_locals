@@ -350,6 +350,7 @@
     "static_pages_description": "จัดการและอัปเดตหน้าคงที่สำหรับเว็บไซต์ของคุณ"
   },
   "organisation_profile": {
+    "organisation_settings": "การตั้งค่าองค์กร",
     "organisation_profile": "โปรไฟล์องค์กร",
     "organisation_profile_description": "จัดการข้อมูลพื้นฐานขององค์กรของคุณ",
     "alert_management": "การจัดการการแจ้งเตือน",

@@ -350,6 +350,7 @@
     "static_pages_description": "ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਲਈ ਆਪਣੇ ਸਥਿਰ ਪੰਨਿਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਅਤੇ ਅੱਪਡੇਟ ਕਰੋ।"
   },
   "organisation_profile": {
+    "organisation_settings": "संठन ਸੈਟਿੰਗਾਂ",
     "organisation_profile": "ਸੰਸਥਾ ਪ੍ਰੋਫਾਈਲ",
     "organisation_profile_description": "ਆਪਣੀ ਸੰਸਥਾ ਦੀ ਮූਢੀ ਜਾਣਕਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
     "alert_management": "ਚੇਤਾਵਨੀ ਪ੍ਰਬੰਧਨ",

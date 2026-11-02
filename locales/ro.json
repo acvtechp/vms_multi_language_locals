@@ -350,6 +350,7 @@
     "static_pages_description": "Gestionați și actualizați paginile statice pentru site-ul dvs. web."
   },
   "organisation_profile": {
+    "organisation_settings": "Setări organizație",
     "organisation_profile": "Profilul organizației",
     "organisation_profile_description": "Gestionați informațiile de bază ale organizației dvs.",
     "alert_management": "Gestionare alerte",

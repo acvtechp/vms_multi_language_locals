@@ -350,6 +350,7 @@
     "static_pages_description": "웹사이트의 정적 페이지를 관리하고 업데이트합니다."
   },
   "organisation_profile": {
+    "organisation_settings": "조직 설정",
     "organisation_profile": "조직 프로필",
     "organisation_profile_description": "조직의 기본 정보를 관리합니다.",
     "alert_management": "알림 관리",

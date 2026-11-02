@@ -350,6 +350,7 @@
     "static_pages_description": "Διαχείριση και ενημέρωση των στατικών σελίδων για τον ιστότοπό σας."
   },
   "organisation_profile": {
+    "organisation_settings": "Ρυθμίσεις Οργανισμού",
     "organisation_profile": "Προφίλ Οργανισμού",
     "organisation_profile_description": "Διαχείριση των βασικών πληροφοριών του οργανισμού σας",
     "alert_management": "Διαχείριση Ειδοποιήσεων",

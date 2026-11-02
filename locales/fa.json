@@ -350,6 +350,7 @@
     "static_pages_description": "مدیریت و به‌روزرسانی صفحات ایستا برای وب‌سایت."
   },
   "organisation_profile": {
+    "organisation_settings": "تنظیمات سازمان",
     "organisation_profile": "پروفایل سازمان",
     "organisation_profile_description": "مدیریت اطلاعات پایه سازمان",
     "alert_management": "مدیریت هشدارها",

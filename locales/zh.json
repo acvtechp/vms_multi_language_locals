@@ -350,6 +350,7 @@
     "static_pages_description": "管理和更新您网站的静态页面。"
   },
   "organisation_profile": {
+    "organisation_settings": "组织设置",
     "organisation_profile": "组织概况",
     "organisation_profile_description": "管理您组织的基本信息",
     "alert_management": "警报管理",

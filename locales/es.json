@@ -350,6 +350,7 @@
     "static_pages_description": "Gestiona y actualiza las páginas estáticas de tu sitio web."
   },
   "organisation_profile": {
+    "organisation_settings": "Configuración de la organización",
     "organisation_profile": "Perfil de la organización",
     "organisation_profile_description": "Gestiona la información básica de tu organización",
     "alert_management": "Gestión de alertas",

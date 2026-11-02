@@ -350,6 +350,7 @@
     "static_pages_description": "আপনার ওয়েবসাইটের জন্য স্ট্যাটিক পেজগুলি পরিচালনা এবং আপডেট করুন।"
   },
   "organisation_profile": {
+    "organisation_settings": "সংস্থার সেটিংস",
     "organisation_profile": "সংস্থার প্রোফাইল",
     "organisation_profile_description": "আপনার সংস্থার মৌলিক তথ্য পরিচালনা করুন",
     "alert_management": "সতর্কতা ব্যবস্থাপনা",

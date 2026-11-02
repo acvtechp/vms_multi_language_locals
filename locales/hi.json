@@ -350,6 +350,7 @@
     "static_pages_description": "अपनी वेबसाइट के लिए अपने स्थिर पेज प्रबंधित और अपडेट करें।"
   },
   "organisation_profile": {
+    "organisation_settings": "संगठन सेटिंग्स",
     "organisation_profile": "संगठन प्रोफाइल",
     "organisation_profile_description": "अपने संगठन की मूल जानकारी प्रबंधित करें",
     "alert_management": "अलर्ट प्रबंधन",

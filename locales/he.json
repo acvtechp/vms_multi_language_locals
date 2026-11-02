@@ -350,6 +350,7 @@
     "static_pages_description": "נהל ועדכן את הדפים הסטטיים של האתר שלך."
   },
   "organisation_profile": {
+    "organisation_settings": "הגדרות הארגון",
     "organisation_profile": "פרופיל ארגון",
     "organisation_profile_description": "נהל את המידע הבסיסי של הארגון שלך",
     "alert_management": "ניהול התראות",

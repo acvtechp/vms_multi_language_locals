@@ -350,6 +350,7 @@
     "static_pages_description": "Zarządzaj statycznymi stronami witryny i aktualizuj je."
   },
   "organisation_profile": {
+    "organisation_settings": "Ustawienia organizacji",
     "organisation_profile": "Profil organizacji",
     "organisation_profile_description": "Zarządzaj podstawowymi informacjami o organizacji",
     "alert_management": "Zarządzanie alertami",

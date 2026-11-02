@@ -350,6 +350,7 @@
     "static_pages_description": "Kelola dan perbarui halaman statis untuk situs web Anda."
   },
   "organisation_profile": {
+    "organisation_settings": "Pengaturan Organisasi",
     "organisation_profile": "Profil Organisasi",
     "organisation_profile_description": "Kelola informasi dasar organisasi Anda",
     "alert_management": "Manajemen Peringatan",

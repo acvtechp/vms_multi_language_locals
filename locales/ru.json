@@ -350,6 +350,7 @@
     "static_pages_description": "Управление статическими страницами вашего веб-сайта и их обновление."
   },
   "organisation_profile": {
+    "organisation_settings": "Настройки организации",
     "organisation_profile": "Профиль организации",
     "organisation_profile_description": "Управление основной информацией вашей организации",
     "alert_management": "Управление оповещениями",

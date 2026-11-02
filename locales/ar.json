@@ -350,6 +350,7 @@
     "static_pages_description": "إدارة وتحديث صفحاتك الثابتة لموقعك الإلكتروني."
   },
   "organisation_profile": {
+    "organisation_settings": "إعدادات المؤسسة",
     "organisation_profile": "ملف المنظمة",
     "organisation_profile_description": "إدارة المعلومات الأساسية لمنظمتك",
     "alert_management": "إدارة التنبيهات",

@@ -350,6 +350,7 @@
     "static_pages_description": "अपन वेबसाइट लेल स्टेटिक पेजक प्रबन्ध आ अपडेट करू।"
   },
   "organisation_profile": {
+    "organisation_settings": "संस्थाक सेटिंग्स",
     "organisation_profile": "संस्था प्रोफाइल",
     "organisation_profile_description": "अपन संस्थाक बुनियादी जानकारीक प्रबन्ध करू",
     "alert_management": "अलर्ट प्रबन्ध",

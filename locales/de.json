@@ -350,6 +350,7 @@
     "static_pages_description": "Verwalten und aktualisieren Sie Ihre statischen Seiten für Ihre Website."
   },
   "organisation_profile": {
+    "organisation_settings": "Organisationseinstellungen",
     "organisation_profile": "Unternehmensprofil",
     "organisation_profile_description": "Verwalten Sie die grundlegenden Informationen Ihres Unternehmens",
     "alert_management": "Alarmverwaltung",

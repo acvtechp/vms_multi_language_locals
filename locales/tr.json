@@ -350,6 +350,7 @@
     "static_pages_description": "Web siteniz için statik sayfaları yönetin ve güncelleyin."
   },
   "organisation_profile": {
+    "organisation_settings": "Organizasyon Ayarları",
     "organisation_profile": "Kuruluş Profili",
     "organisation_profile_description": "Kuruluşunuzun temel bilgilerini yönetin",
     "alert_management": "Uyarı Yönetimi",

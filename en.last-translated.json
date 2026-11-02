@@ -350,6 +350,7 @@
     "static_pages_description": "Manage and update your static pages for your website."
   },
   "organisation_profile": {
+    "organisation_settings": "Organisation Settings",
     "organisation_profile": "Organisation Profile",
     "organisation_profile_description": "Manage your organisation's basic information",
     "alert_management": "Alert Management",

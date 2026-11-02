@@ -350,6 +350,7 @@
     "static_pages_description": "ウェブサイトの静的ページの管理と更新を行います。"
   },
   "organisation_profile": {
+    "organisation_settings": "組織設定",
     "organisation_profile": "組織プロフィール",
     "organisation_profile_description": "組織の基本情報を管理します",
     "alert_management": "アラート管理",
