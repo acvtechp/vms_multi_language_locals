@@ -720,7 +720,10 @@
     "fuel_removal_report": "Rapporto Prelievo Carburante",
     "daily_fuel_consumption_report": "Rapporto Consumo Carburante Giornaliero",
     "monthly_fuel_consumption_report": "Rapporto Consumo Carburante Mensile",
-    "bus_management": "Gestione Autobus"
+    "bus_management": "Gestione Autobus",
+    "students": "Studenti",
+    "noticeboard": "Bacheca",
+    "holidays": "Vacanze"
   },
   "menu_fleet": {
     "fleet_menu": "Menu Flotta",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Rapporto sull'uso dei pezzi di ricambio",
     "school_management": "Gestione scolastica",
     "school_dashboard": "Dashboard scolastica",
-    "school_noticeboard": "Bacheca scolastica",
-    "noticeboard": "Bacheca",
-    "school_holidays": "Vacanze scolastiche",
-    "holiday": "Vacanze",
-    "students_list": "Elenco studenti",
-    "student": "Studente",
     "leave_requests": "Richieste di permesso",
     "leave_request": "Richiesta di permesso",
     "route_change_requests": "Richieste di modifica del percorso",

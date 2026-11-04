@@ -720,7 +720,10 @@
     "fuel_removal_report": "इंधन काढणे अहवाल",
     "daily_fuel_consumption_report": "दैनिक इंधन वापर अहवाल",
     "monthly_fuel_consumption_report": "मासिक इंधन वापर अहवाल",
-    "bus_management": "बस व्यवस्थापन"
+    "bus_management": "बस व्यवस्थापन",
+    "students": "विद्यार्थी",
+    "noticeboard": "सूचनाफलक",
+    "holidays": "सुट्ट्या"
   },
   "menu_fleet": {
     "fleet_menu": "फ्लिट मेनू",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "टेहचाऱ्यांचे सुटे भाग वापर अहवाल",
     "school_management": "शाळा व्यवस्थापन",
     "school_dashboard": "शाळा डॅशबोर्ड",
-    "school_noticeboard": "शाळेचा सूचना फलक",
-    "noticeboard": "सूचना फलक",
-    "school_holidays": "शाळेच्या सुट्ट्या",
-    "holiday": "सुट्टी",
-    "students_list": "विद्यार्थ्यांची यादी",
-    "student": "विद्यार्थी",
     "leave_requests": "रजेचे अर्ज",
     "leave_request": "रजेचा अर्ज",
     "route_change_requests": "मार्ग बदल विनंत्या",

@@ -720,7 +720,10 @@
     "fuel_removal_report": "Ripoti ya Kuondoa Mafuta",
     "daily_fuel_consumption_report": "Ripoti ya Matumizi ya Mafuta ya Kila Siku",
     "monthly_fuel_consumption_report": "Ripoti ya Matumizi ya Mafuta ya Kila Mwezi",
-    "bus_management": "Usimamizi wa Mabasi"
+    "bus_management": "Usimamizi wa Mabasi",
+    "students": "Wanafunzi",
+    "noticeboard": "Ubao wa Matangazo",
+    "holidays": "Likizo"
   },
   "menu_fleet": {
     "fleet_menu": "Menyu ya Meli",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Ripoti ya Matumizi ya Vipuri",
     "school_management": "Usimamizi wa Shule",
     "school_dashboard": "Dashibodi ya Shule",
-    "school_noticeboard": "Ubao wa Matangazo wa Shule",
-    "noticeboard": "Ubao wa Matangazo",
-    "school_holidays": "Likizo za Shule",
-    "holiday": "Likizo",
-    "students_list": "Orodha ya Wanafunzi",
-    "student": "Mwanafunzi",
     "leave_requests": "Maombi ya Likizo",
     "leave_request": "Ombi la Likizo",
     "route_change_requests": "Maombi ya Kubadilisha Njia",

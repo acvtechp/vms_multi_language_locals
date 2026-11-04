@@ -720,7 +720,10 @@
     "fuel_removal_report": "Rapport brandstofverwijdering",
     "daily_fuel_consumption_report": "Dagelijks brandstofverbruiksrapport",
     "monthly_fuel_consumption_report": "Maandelijks brandstofverbruiksrapport",
-    "bus_management": "Busbeheer"
+    "bus_management": "Busbeheer",
+    "students": "Studenten",
+    "noticeboard": "Prikbord",
+    "holidays": "Vakanties"
   },
   "menu_fleet": {
     "fleet_menu": "Wagenparkmenu",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Gebruiksrapport reserveonderdelen",
     "school_management": "Schoolbeheer",
     "school_dashboard": "School-dashboard",
-    "school_noticeboard": "Schoolprikbord",
-    "noticeboard": "Prikbord",
-    "school_holidays": "Schoolvakanties",
-    "holiday": "Vakantie",
-    "students_list": "Studentenlijst",
-    "student": "Student",
     "leave_requests": "Verlofaanvragen",
     "leave_request": "Verlofaanvraag",
     "route_change_requests": "Route-wijzigingsaanvragen",

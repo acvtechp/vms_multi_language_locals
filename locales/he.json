@@ -720,7 +720,10 @@
     "fuel_removal_report": "דוח הוצאת דלק",
     "daily_fuel_consumption_report": "דוח צריכת דלק יומי",
     "monthly_fuel_consumption_report": "דוח צריכת דלק חודשי",
-    "bus_management": "ניהול אוטובוסים"
+    "bus_management": "ניהול אוטובוסים",
+    "students": "תלמידים",
+    "noticeboard": "לוח מודעות",
+    "holidays": "חגים"
   },
   "menu_fleet": {
     "fleet_menu": "תפריט ציי רכב",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "דוח שימוש בחלקי חילוף",
     "school_management": "ניהול בתי ספר",
     "school_dashboard": "לוח בקרה בית ספרי",
-    "school_noticeboard": "לוח מודעות בית ספרי",
-    "noticeboard": "לוח מודעות",
-    "school_holidays": "חופשות בית ספר",
-    "holiday": "חופשה",
-    "students_list": "רשימת תלמידים",
-    "student": "תלמיד",
     "leave_requests": "בקשות חופשה",
     "leave_request": "בקשת חופשה",
     "route_change_requests": "בקשות לשינוי מסלול",

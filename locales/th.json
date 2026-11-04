@@ -720,7 +720,10 @@
     "fuel_removal_report": "รายงานการดูดน้ำมันออก",
     "daily_fuel_consumption_report": "รายงานการใช้น้ำมันเชื้อเพลิงรายวัน",
     "monthly_fuel_consumption_report": "รายงานการใช้น้ำมันเชื้อเพลิงรายเดือน",
-    "bus_management": "การจัดการรถบัส"
+    "bus_management": "การจัดการรถบัส",
+    "students": "นักเรียน",
+    "noticeboard": "บอร์ดประกาศ",
+    "holidays": "วันหยุด"
   },
   "menu_fleet": {
     "fleet_menu": "เมนูกองยานพาหนะ",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "รายงานการใช้อะไหล่",
     "school_management": "การจัดการโรงเรียน",
     "school_dashboard": "แผงควบคุมโรงเรียน",
-    "school_noticeboard": "บอร์ดประกาศโรงเรียน",
-    "noticeboard": "บอร์ดประกาศ",
-    "school_holidays": "วันหยุดโรงเรียน",
-    "holiday": "วันหยุด",
-    "students_list": "รายชื่อนักเรียน",
-    "student": "นักเรียน",
     "leave_requests": "คำขอลา",
     "leave_request": "คำขอลา",
     "route_change_requests": "คำขอเปลี่ยนเส้นทาง",

@@ -720,7 +720,10 @@
     "fuel_removal_report": "Raport eliminare combustibil",
     "daily_fuel_consumption_report": "Raport consum combustibil zilnic",
     "monthly_fuel_consumption_report": "Raport consum combustibil lunar",
-    "bus_management": "Management autobuze"
+    "bus_management": "Management autobuze",
+    "students": "Studenți",
+    "noticeboard": "Panou de anunțuri",
+    "holidays": "Vacanțe"
   },
   "menu_fleet": {
     "fleet_menu": "Meniu flotă",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Raport privind utilizarea pieselor de schimb",
     "school_management": "Managementul școlilor",
     "school_dashboard": "Panou de control școlar",
-    "school_noticeboard": "Panou de anunțuri școlare",
-    "noticeboard": "Panou de anunțuri",
-    "school_holidays": "Vacanțe școlare",
-    "holiday": "Vacanță",
-    "students_list": "Lista elevilor",
-    "student": "Elev",
     "leave_requests": "Cereri de concediu",
     "leave_request": "Cerere de concediu",
     "route_change_requests": "Cereri de schimbare a rutei",

@@ -720,7 +720,10 @@
     "fuel_removal_report": "ఇంధన తొలగింపు నివేదిక",
     "daily_fuel_consumption_report": "రోజువారీ ఇంధన వినియోగ నివేదిక",
     "monthly_fuel_consumption_report": "నెలవారీ ఇంధన వినియోగ నివేదిక",
-    "bus_management": "బస్సు నిర్వహణ"
+    "bus_management": "బస్సు నిర్వహణ",
+    "students": "విద్యార్థులు",
+    "noticeboard": "నోటీసు బోర్డు",
+    "holidays": "సెలవులు"
   },
   "menu_fleet": {
     "fleet_menu": "ఫ్లీట్ మెను",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "స్పేర్ పార్ట్స్ వినియోగ నివేదిక",
     "school_management": "పాఠశాల నిర్వహణ",
     "school_dashboard": "పాఠశాల డ్యాష్‌బోర్డ్",
-    "school_noticeboard": "పాఠశాల నోటీసు బోర్డు",
-    "noticeboard": "నోటీసు బోర్డు",
-    "school_holidays": "పాఠశాల సెలవులు",
-    "holiday": "సెలవు",
-    "students_list": "విద్యార్థుల జాబితా",
-    "student": "విద్యార్థి",
     "leave_requests": "రెలవ్‌ అభ్యర్థనలు",
     "leave_request": "రెలవ్ అభ్యర్థన",
     "route_change_requests": "రూట్ మార్పు అభ్యర్థనలు",

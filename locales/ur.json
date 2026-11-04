@@ -720,7 +720,10 @@
     "fuel_removal_report": "ایندھن ہٹانے کی رپورٹ",
     "daily_fuel_consumption_report": "روزانہ ایندھن کی کھپت کی رپورٹ",
     "monthly_fuel_consumption_report": "ماہانہ ایندھن کی کھپت کی رپورٹ",
-    "bus_management": "بس مینجمنٹ"
+    "bus_management": "بس مینجمنٹ",
+    "students": "طلبہ",
+    "noticeboard": "نوٹس بورڈ",
+    "holidays": "تعطیلات"
   },
   "menu_fleet": {
     "fleet_menu": "فلیٹ مینو",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "اسپیئر پارٹس کے استعمال کی رپورٹ",
     "school_management": "اسکول مینجمنٹ",
     "school_dashboard": "اسکول ڈیش بورڈ",
-    "school_noticeboard": "اسکول نوٹس بورڈ",
-    "noticeboard": "نوٹس بورڈ",
-    "school_holidays": "اسکول کی چھٹیاں",
-    "holiday": "چھٹی",
-    "students_list": "طلباء کی فہرست",
-    "student": "طالب علم",
     "leave_requests": "رخصت کی درخواستیں",
     "leave_request": "رخصت کی درخواست",
     "route_change_requests": "روٹ تبدیل کرنے کی درخواستیں",

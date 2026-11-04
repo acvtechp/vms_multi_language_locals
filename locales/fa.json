@@ -720,7 +720,10 @@
     "fuel_removal_report": "گزارش تخلیه سوخت",
     "daily_fuel_consumption_report": "گزارش مصرف سوخت روزانه",
     "monthly_fuel_consumption_report": "گزارش مصرف سوخت ماهانه",
-    "bus_management": "مدیریت اتوبوس"
+    "bus_management": "مدیریت اتوبوس",
+    "students": "دانش‌آموزان",
+    "noticeboard": "تابلو اعلانات",
+    "holidays": "تعطیلات"
   },
   "menu_fleet": {
     "fleet_menu": "منوی ناوگان",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "گزارش مصرف قطعات یدکی",
     "school_management": "مدیریت مدرسه",
     "school_dashboard": "داشبورد مدرسه",
-    "school_noticeboard": "تابلو اعلانات مدرسه",
-    "noticeboard": "تابلو اعلانات",
-    "school_holidays": "تعطیلات مدرسه",
-    "holiday": "تعطیلی",
-    "students_list": "لیست دانش‌آموزان",
-    "student": "دانش‌آموز",
     "leave_requests": "درخواست‌های مرخصی",
     "leave_request": "درخواست مرخصی",
     "route_change_requests": "درخواست‌های تغییر مسیر",

@@ -720,7 +720,10 @@
     "fuel_removal_report": "燃料抜取レポート",
     "daily_fuel_consumption_report": "日別燃料消費レポート",
     "monthly_fuel_consumption_report": "月間燃料消費レポート",
-    "bus_management": "バス管理"
+    "bus_management": "バス管理",
+    "students": "学生",
+    "noticeboard": "お知らせ",
+    "holidays": "休日"
   },
   "menu_fleet": {
     "fleet_menu": "フリートメニュー",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "スペアパーツ使用状況レポート",
     "school_management": "学校管理",
     "school_dashboard": "学校ダッシュボード",
-    "school_noticeboard": "学校掲示板",
-    "noticeboard": "掲示板",
-    "school_holidays": "学校の休日",
-    "holiday": "休日",
-    "students_list": "学生リスト",
-    "student": "学生",
     "leave_requests": "休暇申請",
     "leave_request": "休暇申請",
     "route_change_requests": "路線変更申請",

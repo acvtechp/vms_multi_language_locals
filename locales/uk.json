@@ -720,7 +720,10 @@
     "fuel_removal_report": "Звіт про злив палива",
     "daily_fuel_consumption_report": "Щоденний звіт про споживання палива",
     "monthly_fuel_consumption_report": "Щомісячний звіт про споживання палива",
-    "bus_management": "Керування автобусами"
+    "bus_management": "Керування автобусами",
+    "students": "Студенти",
+    "noticeboard": "Дошка оголошень",
+    "holidays": "Свята"
   },
   "menu_fleet": {
     "fleet_menu": "Меню автопарку",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Звіт про використання запасних частин",
     "school_management": "Керування школою",
     "school_dashboard": "Шкільна панель приладів",
-    "school_noticeboard": "Шкільна дошка оголошень",
-    "noticeboard": "Дошка оголошень",
-    "school_holidays": "Шкільні канікули",
-    "holiday": "Канікули",
-    "students_list": "Список учнів",
-    "student": "Учень",
     "leave_requests": "Запити на відпустку",
     "leave_request": "Запит на відпустку",
     "route_change_requests": "Запити на зміну маршруту",

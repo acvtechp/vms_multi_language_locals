@@ -720,7 +720,10 @@
     "fuel_removal_report": "抽油报告",
     "daily_fuel_consumption_report": "每日燃油消耗报告",
     "monthly_fuel_consumption_report": "每月燃油消耗报告",
-    "bus_management": "公交车管理"
+    "bus_management": "公交车管理",
+    "students": "学生",
+    "noticeboard": "公告栏",
+    "holidays": "假期"
   },
   "menu_fleet": {
     "fleet_menu": "车队菜单",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "备件使用报告",
     "school_management": "学校管理",
     "school_dashboard": "学校仪表盘",
-    "school_noticeboard": "学校公告栏",
-    "noticeboard": "公告栏",
-    "school_holidays": "学校假期",
-    "holiday": "假期",
-    "students_list": "学生列表",
-    "student": "学生",
     "leave_requests": "请假申请",
     "leave_request": "请假申请",
     "route_change_requests": "路线更改申请",

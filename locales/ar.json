@@ -720,7 +720,10 @@
     "fuel_removal_report": "تقرير سحب الوقود",
     "daily_fuel_consumption_report": "تقرير استهلاك الوقود اليومي",
     "monthly_fuel_consumption_report": "تقرير استهلاك الوقود الشهري",
-    "bus_management": "إدارة الحافلات"
+    "bus_management": "إدارة الحافلات",
+    "students": "الطلاب",
+    "noticeboard": "لوحة الإعلانات",
+    "holidays": "العطلات"
   },
   "menu_fleet": {
     "fleet_menu": "قائمة الأسطول",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "تقرير استخدام قطع الغيار",
     "school_management": "إدارة المدرسة",
     "school_dashboard": "لوحة تحكم المدرسة",
-    "school_noticeboard": "لوحة إعلانات المدرسة",
-    "noticeboard": "لوحة الإعلانات",
-    "school_holidays": "عطلات المدرسة",
-    "holiday": "عطلة",
-    "students_list": "قائمة الطلاب",
-    "student": "طالب",
     "leave_requests": "طلبات الإجازة",
     "leave_request": "طلب الإجازة",
     "route_change_requests": "طلبات تغيير المسار",

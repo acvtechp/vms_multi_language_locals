@@ -720,7 +720,10 @@
     "fuel_removal_report": "எரிபொருள் அகற்றுதல் அறிக்கை",
     "daily_fuel_consumption_report": "தினசரி எரிபொருள் நுகர்வு அறிக்கை",
     "monthly_fuel_consumption_report": "மாதாந்திர எரிபொருள் நுகர்வு அறிக்கை",
-    "bus_management": "பேருந்து மேலாண்மை"
+    "bus_management": "பேருந்து மேலாண்மை",
+    "students": "மாணவர்கள்",
+    "noticeboard": "அறிவிப்பு பலகை",
+    "holidays": "விடுமுறைகள்"
   },
   "menu_fleet": {
     "fleet_menu": "கடற்படை மெனு",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "உப்பு பாகங்கள் பயன்பாட்டு அறிக்கை",
     "school_management": "பள்ளி மேலாண்மை",
     "school_dashboard": "பள்ளி டாஷ்போர்டு",
-    "school_noticeboard": "பள்ளி அறிவிப்பு பலகை",
-    "noticeboard": "அறிவிப்பு பலகை",
-    "school_holidays": "பள்ளி விடுமுறைகள்",
-    "holiday": "விடுமுறை",
-    "students_list": "மாணவர்கள் பட்டியல்",
-    "student": "மாணவர்",
     "leave_requests": "விடுப்பு கோரிக்கைகள்",
     "leave_request": "விடுப்பு கோரிக்கை",
     "route_change_requests": "வழித்தட மாற்ற கோரிக்கைகள்",

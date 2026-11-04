@@ -720,7 +720,10 @@
     "fuel_removal_report": "Laporan Pembuangan Bahan Api",
     "daily_fuel_consumption_report": "Laporan Penggunaan Bahan Api Harian",
     "monthly_fuel_consumption_report": "Laporan Penggunaan Bahan Api Bulanan",
-    "bus_management": "Pengurusan Bas"
+    "bus_management": "Pengurusan Bas",
+    "students": "Pelajar",
+    "noticeboard": "Papan Kenyataan",
+    "holidays": "Cuti"
   },
   "menu_fleet": {
     "fleet_menu": "Menu Armada",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Laporan Penggunaan Alat Ganti",
     "school_management": "Pengurusan Sekolah",
     "school_dashboard": "Papan Pemuka Sekolah",
-    "school_noticeboard": "Papan Kenyataan Sekolah",
-    "noticeboard": "Papan Kenyataan",
-    "school_holidays": "Cuti Sekolah",
-    "holiday": "Cuti",
-    "students_list": "Senarai Pelajar",
-    "student": "Pelajar",
     "leave_requests": "Permohonan Cuti",
     "leave_request": "Permohonan Cuti",
     "route_change_requests": "Permohonan Perubahan Laluan",

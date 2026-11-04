@@ -720,7 +720,10 @@
     "fuel_removal_report": "연료 제거 보고서",
     "daily_fuel_consumption_report": "일일 연료 소비 보고서",
     "monthly_fuel_consumption_report": "월간 연료 소비 보고서",
-    "bus_management": "버스 관리"
+    "bus_management": "버스 관리",
+    "students": "학생",
+    "noticeboard": "공지사항",
+    "holidays": "휴일"
   },
   "menu_fleet": {
     "fleet_menu": "차량군(플릿) 메뉴",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "예비 부품 사용 보고서",
     "school_management": "학교 관리",
     "school_dashboard": "학교 대시보드",
-    "school_noticeboard": "학교 알림판",
-    "noticeboard": "알림판",
-    "school_holidays": "학교 휴일",
-    "holiday": "휴일",
-    "students_list": "학생 목록",
-    "student": "학생",
     "leave_requests": "휴가 요청",
     "leave_request": "휴가 요청",
     "route_change_requests": "노선 변경 요청",

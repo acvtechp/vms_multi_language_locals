@@ -720,7 +720,10 @@
     "fuel_removal_report": "Báo cáo rút nhiên liệu",
     "daily_fuel_consumption_report": "Báo cáo tiêu thụ nhiên liệu hàng ngày",
     "monthly_fuel_consumption_report": "Báo cáo tiêu thụ nhiên liệu hàng tháng",
-    "bus_management": "Quản lý xe buýt"
+    "bus_management": "Quản lý xe buýt",
+    "students": "Học sinh",
+    "noticeboard": "Bảng thông báo",
+    "holidays": "Ngày lễ"
   },
   "menu_fleet": {
     "fleet_menu": "Menu đội xe",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Báo cáo sử dụng phụ tùng",
     "school_management": "Quản lý trường học",
     "school_dashboard": "Bảng điều khiển trường học",
-    "school_noticeboard": "Bảng thông báo trường học",
-    "noticeboard": "Bảng thông báo",
-    "school_holidays": "Ngày nghỉ của trường",
-    "holiday": "Ngày nghỉ",
-    "students_list": "Danh sách học sinh",
-    "student": "Học sinh",
     "leave_requests": "Yêu cầu nghỉ phép",
     "leave_request": "Yêu cầu nghỉ phép",
     "route_change_requests": "Yêu cầu đổi tuyến đường",

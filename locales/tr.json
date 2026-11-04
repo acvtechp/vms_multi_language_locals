@@ -720,7 +720,10 @@
     "fuel_removal_report": "Yakıt Çekim Raporu",
     "daily_fuel_consumption_report": "Günlük Yakıt Tüketimi Raporu",
     "monthly_fuel_consumption_report": "Aylık Yakıt Tüketimi Raporu",
-    "bus_management": "Otobüs Yönetimi"
+    "bus_management": "Otobüs Yönetimi",
+    "students": "Öğrenciler",
+    "noticeboard": "Duyuru Panosu",
+    "holidays": "Tatiller"
   },
   "menu_fleet": {
     "fleet_menu": "Filo Menüsü",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Yedek Parça Kullanım Raporu",
     "school_management": "Okul Yönetimi",
     "school_dashboard": "Okul Paneli",
-    "school_noticeboard": "Okul Duyuru Panosu",
-    "noticeboard": "Duyuru Panosu",
-    "school_holidays": "Okul Tatilleri",
-    "holiday": "Tatil",
-    "students_list": "Öğrenci Listesi",
-    "student": "Öğrenci",
     "leave_requests": "İzin Talepleri",
     "leave_request": "İzin Talebi",
     "route_change_requests": "Güzergah Değişikliği Talepleri",

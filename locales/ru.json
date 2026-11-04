@@ -720,7 +720,10 @@
     "fuel_removal_report": "Отчет о сливе топлива",
     "daily_fuel_consumption_report": "Ежедневный отчет о расходе топлива",
     "monthly_fuel_consumption_report": "Ежемесячный отчет о расходе топлива",
-    "bus_management": "Управление автобусами"
+    "bus_management": "Управление автобусами",
+    "students": "Студенты",
+    "noticeboard": "Доска объявлений",
+    "holidays": "Праздники"
   },
   "menu_fleet": {
     "fleet_menu": "Меню автопарка",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Отчет об использовании запасных частей",
     "school_management": "Управление школой",
     "school_dashboard": "Панель управления школы",
-    "school_noticeboard": "Доска объявлений школы",
-    "noticeboard": "Доска объявлений",
-    "school_holidays": "Школьные каникулы",
-    "holiday": "Праздник",
-    "students_list": "Список учеников",
-    "student": "Ученик",
     "leave_requests": "Запросы на отгул",
     "leave_request": "Запрос на отгул",
     "route_change_requests": "Запросы на изменение маршрута",

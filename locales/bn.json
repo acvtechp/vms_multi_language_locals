@@ -720,7 +720,10 @@
     "fuel_removal_report": "জ্বালানি অপসারণ রিপোর্ট",
     "daily_fuel_consumption_report": "দৈনিক জ্বালানি খরচ রিপোর্ট",
     "monthly_fuel_consumption_report": "মাসিক জ্বালানি খরচ রিপোর্ট",
-    "bus_management": "বাস ব্যবস্থাপনা"
+    "bus_management": "বাস ব্যবস্থাপনা",
+    "students": "ছাত্রছাত্রী",
+    "noticeboard": "বিজ্ঞপ্তি বোর্ড",
+    "holidays": "ছুটির দিন"
   },
   "menu_fleet": {
     "fleet_menu": "ফ্লিট মেনু",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "স্পেয়ার পার্টস ব্যবহারের প্রতিবেদন",
     "school_management": "স্কুল ম্যানেজমেন্ট",
     "school_dashboard": "স্কুল ড্যাশবোর্ড",
-    "school_noticeboard": "স্কুল নোটিশবোর্ড",
-    "noticeboard": "নোটিশবোর্ড",
-    "school_holidays": "স্কুলের ছুটি",
-    "holiday": "ছুটি",
-    "students_list": "ছাত্রছাত্রীর তালিকা",
-    "student": "ছাত্র/ছাত্রী",
     "leave_requests": "ছুটির আবেদনপত্র",
     "leave_request": "ছুটির আবেদন",
     "route_change_requests": "রুট পরিবর্তনের আবেদন",

@@ -720,7 +720,10 @@
     "fuel_removal_report": "Relatório de Remoção de Combustível",
     "daily_fuel_consumption_report": "Relatório Diário de Consumo de Combustível",
     "monthly_fuel_consumption_report": "Relatório Mensal de Consumo de Combustível",
-    "bus_management": "Gerenciamento de Ônibus"
+    "bus_management": "Gerenciamento de Ônibus",
+    "students": "Estudantes",
+    "noticeboard": "Quadro de Avisos",
+    "holidays": "Feriados"
   },
   "menu_fleet": {
     "fleet_menu": "Menu da Frota",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Relatório de Uso de Peças de Reposição",
     "school_management": "Gestão Escolar",
     "school_dashboard": "Painel Escolar",
-    "school_noticeboard": "Quadro de Avisos Escolar",
-    "noticeboard": "Quadro de Avisos",
-    "school_holidays": "Feriados Escolares",
-    "holiday": "Feriado",
-    "students_list": "Lista de Alunos",
-    "student": "Aluno",
     "leave_requests": "Pedidos de Licença",
     "leave_request": "Pedido de Licença",
     "route_change_requests": "Pedidos de Alteração de Rota",

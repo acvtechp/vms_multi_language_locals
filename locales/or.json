@@ -720,7 +720,10 @@
     "fuel_removal_report": "ଇନ୍ଧନ ଅପସାରଣ ରିପୋର୍ଟ",
     "daily_fuel_consumption_report": "ଦୈନନ୍ଦିନ ଇନ୍ଧନ ବ୍ୟବହାର ରିପୋର୍ଟ",
     "monthly_fuel_consumption_report": "ମାସିକ ଇନ୍ଧନ ବ୍ୟବହାର ରିପୋର୍ଟ",
-    "bus_management": "ବସ୍ ପରିଚଳନା"
+    "bus_management": "ବସ୍ ପରିଚଳନା",
+    "students": "ଛାତ୍ରଛାତ୍ରୀମାନେ",
+    "noticeboard": "ନୋଟିସବୋର୍ଡ",
+    "holidays": "ଛୁଟିଦିନ"
   },
   "menu_fleet": {
     "fleet_menu": "ଫ୍ଲିଟ୍ ମେନ୍ୟୁ",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "ଖାଲି ଅଂଶ ବ୍ୟବହାର ରିପୋର୍ଟ",
     "school_management": "ସ୍କୁଲ ପରିଚାଳନା",
     "school_dashboard": "ସ୍କୁଲ ଡ୍ୟାସବୋର୍ଡ",
-    "school_noticeboard": "ସ୍କୁଲ ବିଜ୍ଞପ୍ତି ବୋର୍ଡ",
-    "noticeboard": "ବିଜ୍ଞପ୍ତି ବୋର୍ଡ",
-    "school_holidays": "ସ୍କୁଲ ଛୁଟିଦିନ",
-    "holiday": "ଛୁଟିଦିନ",
-    "students_list": "ଛାତ୍ରଛାତ୍ରୀ ତାଲିକା",
-    "student": "ଛାତ୍ର/ଛାତ୍ରୀ",
     "leave_requests": "ଛୁଟି ଆବେଦନ",
     "leave_request": "ଛୁଟି ଆବେଦନ",
     "route_change_requests": "ରୁଟ୍ ପରିବର୍ତ୍ତନ ଆବେଦନ",

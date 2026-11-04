@@ -720,7 +720,10 @@
     "fuel_removal_report": "Fuel Removal Report",
     "daily_fuel_consumption_report": "Daily Fuel Consumption Report",
     "monthly_fuel_consumption_report": "Monthly Fuel Consumption Report",
-    "bus_management": "Bus Management"
+    "bus_management": "Bus Management",
+    "students": "Students",
+    "noticeboard": "Noticeboard",
+    "holidays": "Holidays"
   },
   "menu_fleet": {
     "fleet_menu": "Fleet Menu",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Spare Parts Usage Report",
     "school_management": "School Management",
     "school_dashboard": "School Dashboard",
-    "school_noticeboard": "School Noticeboard",
-    "noticeboard": "Noticeboard",
-    "school_holidays": "School Holidays",
-    "holiday": "Holiday",
-    "students_list": "Students List",
-    "student": "Student",
     "leave_requests": "Levae Requests",
     "leave_request": "Levae Request",
     "route_change_requests": "Route Change Requests",

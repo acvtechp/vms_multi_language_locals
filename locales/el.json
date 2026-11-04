@@ -720,7 +720,10 @@
     "fuel_removal_report": "Αναφορά Αφαίρεσης Καυσίμου",
     "daily_fuel_consumption_report": "Ημερήσια Αναφορά Κατανάλωσης Καυσίμου",
     "monthly_fuel_consumption_report": "Μηνιαία Αναφορά Κατανάλωσης Καυσίμου",
-    "bus_management": "Διαχείριση Λεωφορείων"
+    "bus_management": "Διαχείριση Λεωφορείων",
+    "students": "Μθητές",
+    "noticeboard": "Πίνακας ανακοινώσεων",
+    "holidays": "Αργίες"
   },
   "menu_fleet": {
     "fleet_menu": "Μενού Στόλου",
@@ -810,12 +813,6 @@
     "spare_parts_usage_report": "Anafora Χρήσης Ανταλλακτικών",
     "school_management": "Διαχείριση Σχολείου",
     "school_dashboard": "Πίνακας Ελέγχου Σχολείου",
-    "school_noticeboard": "Πίνακας Ανακοινώσεων Σχολείου",
-    "noticeboard": "Πίνακας Ανακοινώσεων",
-    "school_holidays": "Σχολικές Αργίες",
-    "holiday": "Αργία",
-    "students_list": "Λίστα Μαθητών",
-    "student": "Μαθητής",
     "leave_requests": "Αιτήσεις Αδειών",
     "leave_request": "Αίτηση Άδειας",
     "route_change_requests": "Αιτήσεις Αλλαγής Διαδρομής",
