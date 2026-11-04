@@ -843,7 +843,8 @@
     "bus_management_desc": "ردیابی اتوبوس‌ها، مسیرها و وضعیت لحظه‌ای وسایل نقلیه",
     "workshop_management_desc": "مدیریت کارگاه‌ها، تعمیرات و جریان‌های کاری خدمات",
     "tyre_management_desc": "پیگیری چرخه عمر، استفاده و تعویض لاستیک‌ها",
-    "spare_parts_management_desc": "مدیریت موجودی قطعات یدکی و جابجایی انبار"
+    "spare_parts_management_desc": "مدیریت موجودی قطعات یدکی و جابجایی انبار",
+    "transport_management": "مدیریت حمل و نقل"
   },
   "menu_trips": {
     "main_module": "ماژول اصلی",

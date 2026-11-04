@@ -843,7 +843,8 @@
     "bus_management_desc": "Jejak bas, laluan, dan status kenderaan masa nyata",
     "workshop_management_desc": "Urus bengkel, pembaikan, dan alur kerja servis",
     "tyre_management_desc": "Jejak kitaran hayat tayar, penggunaan, dan penggantian",
-    "spare_parts_management_desc": "Urus inventori alat ganti dan pergerakan stok"
+    "spare_parts_management_desc": "Urus inventori alat ganti dan pergerakan stok",
+    "transport_management": "Pengurusan Pengangkutan"
   },
   "menu_trips": {
     "main_module": "Modul Utama",

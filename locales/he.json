@@ -843,7 +843,8 @@
     "bus_management_desc": "מעקב אחר אוטובוסים, מסלולים ומצב רכב בזמן אמת",
     "workshop_management_desc": "ניהול סדנאות, תיקונים ותהליכי עבודה של שירות",
     "tyre_management_desc": "מעקב אחר מחזור חיים של צמיגים, שימוש והחלפות",
-    "spare_parts_management_desc": "ניהול מלאי חלקי חילוף ותנועות מלאי"
+    "spare_parts_management_desc": "ניהול מלאי חלקי חילוף ותנועות מלאי",
+    "transport_management": "ניהול תחבורה"
   },
   "menu_trips": {
     "main_module": "מודול ראשי",

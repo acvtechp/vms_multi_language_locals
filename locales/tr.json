@@ -843,7 +843,8 @@
     "bus_management_desc": "Otobüsleri, güzergahları ve gerçek zamanlı araç durumunu takip edin",
     "workshop_management_desc": "Atölyeleri, onarımları ve servis iş akışlarını yönetin",
     "tyre_management_desc": "Lastik yaşam döngüsünü, kullanımını ve değişimlerini takip edin",
-    "spare_parts_management_desc": "Yedek parça envanterini ve stok hareketlerini yönetin"
+    "spare_parts_management_desc": "Yedek parça envanterini ve stok hareketlerini yönetin",
+    "transport_management": "Ulaşım Yönetimi"
   },
   "menu_trips": {
     "main_module": "Ana Modül",

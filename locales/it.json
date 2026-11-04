@@ -843,7 +843,8 @@
     "bus_management_desc": "Traccia autobus, percorsi e stato dei veicoli in tempo reale",
     "workshop_management_desc": "Gestisci officine, riparazioni e flussi di lavoro di servizio",
     "tyre_management_desc": "Traccia ciclo di vita, utilizzo e sostituzioni dei pneumatici",
-    "spare_parts_management_desc": "Gestisci inventario dei pezzi di ricambio e movimenti di stock"
+    "spare_parts_management_desc": "Gestisci inventario dei pezzi di ricambio e movimenti di stock",
+    "transport_management": "Gestione dei trasporti"
   },
   "menu_trips": {
     "main_module": "Modulo principale",

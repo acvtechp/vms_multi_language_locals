@@ -843,7 +843,8 @@
     "bus_management_desc": "Lacak bus, rute, dan status kendaraan secara waktu nyata",
     "workshop_management_desc": "Kelola bengkel, perbaikan, dan alur kerja servis",
     "tyre_management_desc": "Lacak siklus hidup ban, penggunaan, dan penggantian",
-    "spare_parts_management_desc": "Kelola inventaris suku cadang dan pergerakan stok"
+    "spare_parts_management_desc": "Kelola inventaris suku cadang dan pergerakan stok",
+    "transport_management": "Manajemen Transportasi"
   },
   "menu_trips": {
     "main_module": "Modul Utama",

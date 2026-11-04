@@ -843,7 +843,8 @@
     "bus_management_desc": "버스, 노선 및 실시간 차량 상태 추적",
     "workshop_management_desc": "작업장, 수리 및 서비스 워크플로 관리",
     "tyre_management_desc": "타이어 수명 주기, 사용량 및 교체 추적",
-    "spare_parts_management_desc": "예비 부품 재고 및 재고 이동 관리"
+    "spare_parts_management_desc": "예비 부품 재고 및 재고 이동 관리",
+    "transport_management": "운송 관리"
   },
   "menu_trips": {
     "main_module": "주요 모듈",

@@ -843,7 +843,8 @@
     "bus_management_desc": "Busse, Routen und Fahrzeugstatus in Echtzeit verfolgen",
     "workshop_management_desc": "Werkstätten, Reparaturen und Service-Workflows verwalten",
     "tyre_management_desc": "Reifenlebenszyklus, Nutzung und Ersetzungen verfolgen",
-    "spare_parts_management_desc": "Ersatzteillager und Bestandsbewegungen verwalten"
+    "spare_parts_management_desc": "Ersatzteillager und Bestandsbewegungen verwalten",
+    "transport_management": "Transportmanagement"
   },
   "menu_trips": {
     "main_module": "Hauptmodul",

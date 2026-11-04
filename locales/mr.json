@@ -843,7 +843,8 @@
     "bus_management_desc": "बस, मार्ग आणि रीअल-टाइम वाहन स्थिती ट्रॅक करा",
     "workshop_management_desc": "कार्यशाळा, दुरुस्ती आणि सेवा कार्यप्रवाह व्यवस्थापित करा",
     "tyre_management_desc": "टायरचे जीवनचक्र, वापर आणि बदल ट्रॅक करा",
-    "spare_parts_management_desc": "सुटे भाग इन्व्हेंटरी आणि स्टॉक हालचाली व्यवस्थापित करा"
+    "spare_parts_management_desc": "सुटे भाग इन्व्हेंटरी आणि स्टॉक हालचाली व्यवस्थापित करा",
+    "transport_management": "वाहतूक व्यवस्थापन"
   },
   "menu_trips": {
     "main_module": "मुख्य मॉड्युल",

@@ -843,7 +843,8 @@
     "bus_management_desc": "Rastrear autocarros, rotas e estado dos veículos em tempo real",
     "workshop_management_desc": "Gerir oficinas, reparações e fluxos de trabalho de serviço",
     "tyre_management_desc": "Rastrear o ciclo de vida, uso e substituições de pneus",
-    "spare_parts_management_desc": "Gerir inventário de peças de reposição e movimentos de stock"
+    "spare_parts_management_desc": "Gerir inventário de peças de reposição e movimentos de stock",
+    "transport_management": "Gestão de Transporte"
   },
   "menu_trips": {
     "main_module": "Módulo Principal",

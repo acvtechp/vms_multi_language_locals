@@ -843,7 +843,8 @@
     "bus_management_desc": "Urmăriți autobuzele, rutele și starea vehiculelor în timp real",
     "workshop_management_desc": "Gestionați atelierele, reparațiile și fluxurile de lucru pentru service",
     "tyre_management_desc": "Urmăriți ciclul de viață al anvelopelor, utilizarea și înlocuirile",
-    "spare_parts_management_desc": "Gestionați inventarul de piese de schimb și mișcările stocului"
+    "spare_parts_management_desc": "Gestionați inventarul de piese de schimb și mișcările stocului",
+    "transport_management": "Managementul Transportului"
   },
   "menu_trips": {
     "main_module": "Modulul principal",

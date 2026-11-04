@@ -843,7 +843,8 @@
     "bus_management_desc": "バス、路線、およびリアルタイムの車両ステータスの追跡",
     "workshop_management_desc": "ワークショップ、修理、およびサービスワークフローの管理",
     "tyre_management_desc": "タイヤのライフサイクル、使用状況、および交換の追跡",
-    "spare_parts_management_desc": "スペアパーツの在庫と在庫移動の管理"
+    "spare_parts_management_desc": "スペアパーツの在庫と在庫移動の管理",
+    "transport_management": "輸送管理"
   },
   "menu_trips": {
     "main_module": "メインモジュール",

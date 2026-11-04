@@ -843,7 +843,8 @@
     "bus_management_desc": "Track buses, routes, and real-time vehicle status",
     "workshop_management_desc": "Manage workshops, repairs, and service workflows",
     "tyre_management_desc": "Track tyre lifecycle, usage, and replacements",
-    "spare_parts_management_desc": "Manage spare parts inventory and stock movements"
+    "spare_parts_management_desc": "Manage spare parts inventory and stock movements",
+    "transport_management": "Transport Management"
   },
   "menu_trips": {
     "main_module": "Main Module",

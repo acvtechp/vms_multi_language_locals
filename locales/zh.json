@@ -843,7 +843,8 @@
     "bus_management_desc": "追踪校车、路线和实时车辆状态",
     "workshop_management_desc": "管理车间、维修和服务工作流程",
     "tyre_management_desc": "追踪轮胎生命周期、使用情况和更换",
-    "spare_parts_management_desc": "管理备件库存和库存流转"
+    "spare_parts_management_desc": "管理备件库存和库存流转",
+    "transport_management": "运输管理"
   },
   "menu_trips": {
     "main_module": "主模块",

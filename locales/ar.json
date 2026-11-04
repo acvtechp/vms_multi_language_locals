@@ -843,7 +843,8 @@
     "bus_management_desc": "تتبع الحافلات والمسارات وحالة المركبات في الوقت الفعلي",
     "workshop_management_desc": "إدارة ورش العمل والإصلاحات وسير عمل الخدمة",
     "tyre_management_desc": "تتبع دورة حياة الإطارات والاستخدام والاستبدال",
-    "spare_parts_management_desc": "إدارة مخزون قطع الغيار وحركات المخزون"
+    "spare_parts_management_desc": "إدارة مخزون قطع الغيار وحركات المخزون",
+    "transport_management": "إدارة النقل"
   },
   "menu_trips": {
     "main_module": "الوحدة الرئيسية",

@@ -843,7 +843,8 @@
     "bus_management_desc": "বাছ, ৰুট, আৰু ৰিয়েল-টাইম বাহনৰ স্থিতি ট্ৰেক কৰক",
     "workshop_management_desc": "ৱৰ্কশ্বপ, মেৰামতি, আৰু চাৰ্ভিচ ৱৰ্কফ্লো পৰিচালনা কৰক",
     "tyre_management_desc": "টায়াৰৰ জীৱনকাল, ব্যৱহাৰ, আৰু সলনি কৰা কাম ট্ৰেক কৰক",
-    "spare_parts_management_desc": "স্পেয়াৰ পাৰ্টছৰ ইনভেণ্টৰী আৰু ষ্টক চলাচল পৰিচালনা কৰক"
+    "spare_parts_management_desc": "স্পেয়াৰ পাৰ্টছৰ ইনভেণ্টৰী আৰু ষ্টক চলাচল পৰিচালনা কৰক",
+    "transport_management": "পৰিবহণ ব্যৱস্থাপনা"
   },
   "menu_trips": {
     "main_module": "মুখ্য মডিউল",

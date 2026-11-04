@@ -843,7 +843,8 @@
     "bus_management_desc": "Theo dõi xe buýt, tuyến đường và trạng thái xe theo thời gian thực",
     "workshop_management_desc": "Quản lý xưởng, sửa chữa và quy trình dịch vụ",
     "tyre_management_desc": "Theo dõi vòng đời, mức sử dụng và thay thế lốp xe",
-    "spare_parts_management_desc": "Quản lý kho phụ tùng và luân chuyển hàng tồn kho"
+    "spare_parts_management_desc": "Quản lý kho phụ tùng và luân chuyển hàng tồn kho",
+    "transport_management": "Quản lý Vận tải"
   },
   "menu_trips": {
     "main_module": "Mô-đun chính",

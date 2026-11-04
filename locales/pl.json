@@ -843,7 +843,8 @@
     "bus_management_desc": "Śledź autobusy, trasy i status pojazdów w czasie rzeczywistym",
     "workshop_management_desc": "Zarządzaj warsztatami, naprawami i przepływami pracy serwisu",
     "tyre_management_desc": "Śledź cykl życia opon, ich zużycie i wymiany",
-    "spare_parts_management_desc": "Zarządzaj zapasami części zamiennych i ruchem magazynowym"
+    "spare_parts_management_desc": "Zarządzaj zapasami części zamiennych i ruchem magazynowym",
+    "transport_management": "Zarządzanie transportem"
   },
   "menu_trips": {
     "main_module": "Moduł główny",

@@ -843,7 +843,8 @@
     "bus_management_desc": "Volg bussen, routes en realtime voertuigstatus",
     "workshop_management_desc": "Beheer werkplaatsen, reparaties en serviceworkflows",
     "tyre_management_desc": "Volg de levenscyclus, het gebruik en de vervanging van banden",
-    "spare_parts_management_desc": "Beheer de voorraad reserveonderdelen en voorraadbewegingen"
+    "spare_parts_management_desc": "Beheer de voorraad reserveonderdelen en voorraadbewegingen",
+    "transport_management": "Transportbeheer"
   },
   "menu_trips": {
     "main_module": "Hoofdmodule",

@@ -843,7 +843,8 @@
     "bus_management_desc": "ติดตามรถบัส เส้นทาง และสถานะยานพาหนะแบบเรียลไทม์",
     "workshop_management_desc": "จัดการเวิร์กช็อป การซ่อมแซม และขั้นตอนการบริการ",
     "tyre_management_desc": "ติดตามวงจรชีวิตยาง การใช้งาน และการเปลี่ยนยาง",
-    "spare_parts_management_desc": "จัดการสินค้าคงคลังอะไหล่และการเคลื่อนย้ายสต็อก"
+    "spare_parts_management_desc": "จัดการสินค้าคงคลังอะไหล่และการเคลื่อนย้ายสต็อก",
+    "transport_management": "การจัดการการขนส่ง"
   },
   "menu_trips": {
     "main_module": "โมดูลหลัก",

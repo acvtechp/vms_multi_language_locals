@@ -843,7 +843,8 @@
     "bus_management_desc": "Fuatilia mabasi, njia, na hali ya gari kwa wakati halisi",
     "workshop_management_desc": "Dhibiti gereji, ukarabati, na mtiririko wa kazi wa huduma",
     "tyre_management_desc": "Fuatilia mzunguko wa maisha ya tairi, matumizi, na uingizwaji",
-    "spare_parts_management_desc": "Dhibiti hesabu ya vipuri na mienendo ya hisa"
+    "spare_parts_management_desc": "Dhibiti hesabu ya vipuri na mienendo ya hisa",
+    "transport_management": "Usimamizi wa Usafiri"
   },
   "menu_trips": {
     "main_module": "Moduli Kuu",
