@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ایندھن کی کھپت کی رپورٹ ایڈمن",
     "fuel_refills_report": "ایندھن دوبارہ بھرنے کی رپورٹ",
     "fuel_removal_report": "ایندھن ہٹانے کی رپورٹ",
+    "fuel_refills_live_report": "ایندھن بھرنے کی لائیو رپورٹ",
+    "fuel_removal_live_report": "ایندھن نکالنے کی لائیو رپورٹ",
     "daily_fuel_consumption_report": "روزانہ ایندھن کی کھپت کی رپورٹ",
     "monthly_fuel_consumption_report": "ماہانہ ایندھن کی کھپت کی رپورٹ",
     "bus_management": "بس مینجمنٹ",

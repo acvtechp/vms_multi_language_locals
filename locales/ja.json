@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "燃料消費レポート管理者",
     "fuel_refills_report": "燃料給油レポート",
     "fuel_removal_report": "燃料抜取レポート",
+    "fuel_refills_live_report": "燃料補給ライブレポート",
+    "fuel_removal_live_report": "燃料排出ライブレポート",
     "daily_fuel_consumption_report": "日別燃料消費レポート",
     "monthly_fuel_consumption_report": "月間燃料消費レポート",
     "bus_management": "バス管理",

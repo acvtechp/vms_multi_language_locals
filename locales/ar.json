@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "تقرير استهلاك الوقود للمسؤول",
     "fuel_refills_report": "تقرير تعبئة الوقود",
     "fuel_removal_report": "تقرير سحب الوقود",
+    "fuel_refills_live_report": "تقرير تعبئة الوقود المباشر",
+    "fuel_removal_live_report": "تقرير سحب الوقود المباشر",
     "daily_fuel_consumption_report": "تقرير استهلاك الوقود اليومي",
     "monthly_fuel_consumption_report": "تقرير استهلاك الوقود الشهري",
     "bus_management": "إدارة الحافلات",

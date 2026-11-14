@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "연료 소비 보고서(관리자)",
     "fuel_refills_report": "주유 보고서",
     "fuel_removal_report": "연료 제거 보고서",
+    "fuel_refills_live_report": "연료 보충 실시간 보고서",
+    "fuel_removal_live_report": "연료 제거 실시간 보고서",
     "daily_fuel_consumption_report": "일일 연료 소비 보고서",
     "monthly_fuel_consumption_report": "월간 연료 소비 보고서",
     "bus_management": "버스 관리",

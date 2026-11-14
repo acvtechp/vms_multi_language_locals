@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "דוח צריכת דלק למנהל מערכת",
     "fuel_refills_report": "דוח תדלוקים",
     "fuel_removal_report": "דוח הוצאת דלק",
+    "fuel_refills_live_report": "דוח חי של תדלוקים",
+    "fuel_removal_live_report": "דוח חי של שאיבת דלק",
     "daily_fuel_consumption_report": "דוח צריכת דלק יומי",
     "monthly_fuel_consumption_report": "דוח צריכת דלק חודשי",
     "bus_management": "ניהול אוטובוסים",

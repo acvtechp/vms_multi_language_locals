@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ఇంధన వినియోగ నివేదిక అడ్మిన్",
     "fuel_refills_report": "ఇంధన రీఫిల్స్ నివేదిక",
     "fuel_removal_report": "ఇంధన తొలగింపు నివేదిక",
+    "fuel_refills_live_report": "ఇంధన రీఫిల్‌ల లైవ్ నివేదిక",
+    "fuel_removal_live_report": "ఇంధన తొలగింపు లైవ్ నివేదిక",
     "daily_fuel_consumption_report": "రోజువారీ ఇంధన వినియోగ నివేదిక",
     "monthly_fuel_consumption_report": "నెలవారీ ఇంధన వినియోగ నివేదిక",
     "bus_management": "బస్సు నిర్వహణ",

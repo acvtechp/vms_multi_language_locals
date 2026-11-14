@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Kraftstoffverbrauchsbericht Admin",
     "fuel_refills_report": "Kraftstoffnachfüllbericht",
     "fuel_removal_report": "Kraftstoffentnahmebericht",
+    "fuel_refills_live_report": "Live-Bericht über Kraftstoffnachfüllungen",
+    "fuel_removal_live_report": "Live-Bericht über Kraftstoffentnahmen",
     "daily_fuel_consumption_report": "Täglicher Kraftstoffverbrauchsbericht",
     "monthly_fuel_consumption_report": "Monatlicher Kraftstoffverbrauchsbericht",
     "bus_management": "Busmanagement",

@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Raport consum combustibil administrator",
     "fuel_refills_report": "Raport alimentări cu combustibil",
     "fuel_removal_report": "Raport eliminare combustibil",
+    "fuel_refills_live_report": "Raport în direct privind realimentările cu combustibil",
+    "fuel_removal_live_report": "Raport în direct privind eliminarea combustibilului",
     "daily_fuel_consumption_report": "Raport consum combustibil zilnic",
     "monthly_fuel_consumption_report": "Raport consum combustibil lunar",
     "bus_management": "Management autobuze",

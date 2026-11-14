@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Rapport de consommation de carburant administrateur",
     "fuel_refills_report": "Rapport de remplissage de carburant",
     "fuel_removal_report": "Rapport de retrait de carburant",
+    "fuel_refills_live_report": "Rapport en direct des ravitaillements en carburant",
+    "fuel_removal_live_report": "Rapport en direct des retraits de carburant",
     "daily_fuel_consumption_report": "Rapport de consommation de carburant quotidien",
     "monthly_fuel_consumption_report": "Rapport de consommation de carburant mensuel",
     "bus_management": "Gestion des bus",

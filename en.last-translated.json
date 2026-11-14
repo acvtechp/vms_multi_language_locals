@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Fuel Consumption Report Admin",
     "fuel_refills_report": "Fuel Refills Report",
     "fuel_removal_report": "Fuel Removal Report",
+    "fuel_refills_live_report": "Fuel Refills Live Report",
+    "fuel_removal_live_report": "Fuel Removal Live Report",
     "daily_fuel_consumption_report": "Daily Fuel Consumption Report",
     "monthly_fuel_consumption_report": "Monthly Fuel Consumption Report",
     "bus_management": "Bus Management",

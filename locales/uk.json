@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Звіт про споживання палива (адмін)",
     "fuel_refills_report": "Звіт про заправку палива",
     "fuel_removal_report": "Звіт про злив палива",
+    "fuel_refills_live_report": "Живий звіт про заправку палива",
+    "fuel_removal_live_report": "Живий звіт про злив палива",
     "daily_fuel_consumption_report": "Щоденний звіт про споживання палива",
     "monthly_fuel_consumption_report": "Щомісячний звіт про споживання палива",
     "bus_management": "Керування автобусами",

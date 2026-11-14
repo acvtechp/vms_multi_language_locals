@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Отчет о расходе топлива (Админ)",
     "fuel_refills_report": "Отчет о заправках топливом",
     "fuel_removal_report": "Отчет о сливе топлива",
+    "fuel_refills_live_report": "Отчет по заправкам топлива в реальном времени",
+    "fuel_removal_live_report": "Отчет по сливу топлива в реальном времени",
     "daily_fuel_consumption_report": "Ежедневный отчет о расходе топлива",
     "monthly_fuel_consumption_report": "Ежемесячный отчет о расходе топлива",
     "bus_management": "Управление автобусами",

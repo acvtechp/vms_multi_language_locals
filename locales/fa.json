@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "گزارش مصرف سوخت مدیر",
     "fuel_refills_report": "گزارش سوخت‌گیری‌ها",
     "fuel_removal_report": "گزارش تخلیه سوخت",
+    "fuel_refills_live_report": "گزارش زنده سوخت‌گیری",
+    "fuel_removal_live_report": "گزارش زنده تخلیه سوخت",
     "daily_fuel_consumption_report": "گزارش مصرف سوخت روزانه",
     "monthly_fuel_consumption_report": "گزارش مصرف سوخت ماهانه",
     "bus_management": "مدیریت اتوبوس",

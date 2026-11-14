@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "इंधन वापर अहवाल प्रशासक",
     "fuel_refills_report": "इंधन रिफिल अहवाल",
     "fuel_removal_report": "इंधन काढणे अहवाल",
+    "fuel_refills_live_report": "इंधन रिफिल लाइव रिपोर्ट",
+    "fuel_removal_live_report": "इंधन काढणी लाइव्ह अहवाल",
     "daily_fuel_consumption_report": "दैनिक इंधन वापर अहवाल",
     "monthly_fuel_consumption_report": "मासिक इंधन वापर अहवाल",
     "bus_management": "बस व्यवस्थापन",

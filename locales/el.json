@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Αναφορά Κατανάλωσης Καυσίμου Διαχειριστή",
     "fuel_refills_report": "Αναφορά Ανεφοδιασμού Καυσίμου",
     "fuel_removal_report": "Αναφορά Αφαίρεσης Καυσίμου",
+    "fuel_refills_live_report": "Ζωντανή αναφορά ανεφοδιασμού καυσίμων",
+    "fuel_removal_live_report": "Ζωντανή αναφορά αφαίρεσης καυσίμων",
     "daily_fuel_consumption_report": "Ημερήσια Αναφορά Κατανάλωσης Καυσίμου",
     "monthly_fuel_consumption_report": "Μηνιαία Αναφορά Κατανάλωσης Καυσίμου",
     "bus_management": "Διαχείριση Λεωφορείων",

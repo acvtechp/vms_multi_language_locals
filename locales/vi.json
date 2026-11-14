@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Báo cáo quản trị tiêu thụ nhiên liệu",
     "fuel_refills_report": "Báo cáo đổ nhiên liệu",
     "fuel_removal_report": "Báo cáo rút nhiên liệu",
+    "fuel_refills_live_report": "Báo cáo trực tiếp bổ sung nhiên liệu",
+    "fuel_removal_live_report": "Báo cáo trực tiếp hút nhiên liệu",
     "daily_fuel_consumption_report": "Báo cáo tiêu thụ nhiên liệu hàng ngày",
     "monthly_fuel_consumption_report": "Báo cáo tiêu thụ nhiên liệu hàng tháng",
     "bus_management": "Quản lý xe buýt",

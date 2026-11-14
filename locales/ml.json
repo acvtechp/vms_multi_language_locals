@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ഇന്ധന ഉപഭോഗ റിപ്പോർട്ട് അഡ്മിൻ",
     "fuel_refills_report": "ഇന്ധന റീഫില്ലിംഗ് റിപ്പോർട്ട്",
     "fuel_removal_report": "ഇന്ധനം നീക്കം ചെയ്ത റിപ്പോർട്ട്",
+    "fuel_refills_live_report": "ഇന്ധന റീഫില്ലുകൾ തത്സമയ റിപ്പോർട്ട്",
+    "fuel_removal_live_report": "ഇന്ധനം നീക്കംചെയ്യൽ തത്സമയ റിപ്പോർട്ട്",
     "daily_fuel_consumption_report": "പ്രതിദിന ഇന്ധന ഉപഭോഗ റിപ്പോർട്ട്",
     "monthly_fuel_consumption_report": "പ്രതിമാസ ഇന്ധന ഉപഭോഗ റിപ്പോർട്ട്",
     "bus_management": "ബസ് മാനേജ്മെന്റ്",

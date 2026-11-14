@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Raport zużycia paliwa (administrator)",
     "fuel_refills_report": "Raport tankowań paliwa",
     "fuel_removal_report": "Raport usunięcia paliwa",
+    "fuel_refills_live_report": "Raport na żywo dotyczący tankowania paliwa",
+    "fuel_removal_live_report": "Raport na żywo dotyczący usuwania paliwa",
     "daily_fuel_consumption_report": "Codzienny raport zużycia paliwa",
     "monthly_fuel_consumption_report": "Miesięczny raport zużycia paliwa",
     "bus_management": "Zarządzanie autobusami",

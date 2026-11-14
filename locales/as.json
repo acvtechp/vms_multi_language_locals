@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ইন্ধন κατανোঁৱা প্ৰতিবেদন এডমিন",
     "fuel_refills_report": "ইন্ধন ৰিফিল প্ৰতিবেদন",
     "fuel_removal_report": "ইন্ধন অপসাৰণ প্ৰতিবেদন",
+    "fuel_refills_live_report": "ইন্ধন পুনৰ ভৰ্তিৰ লাইভ প্ৰতিবেদন",
+    "fuel_removal_live_report": "ইন্ধন অপসাৰণৰ লাইভ প্ৰতিবেদন",
     "daily_fuel_consumption_report": "দৈনিক ইন্ধন κατανোঁৱা প্ৰতিবেদন",
     "monthly_fuel_consumption_report": "প্ৰতিমাহৰ ইন্ধন κατανোঁৱা প্ৰতিবেদন",
     "bus_management": "বাছ পৰিচালনা",

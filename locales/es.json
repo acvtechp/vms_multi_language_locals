@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Informe de Consumo de Combustible Admin",
     "fuel_refills_report": "Informe de Reabastecimiento de Combustible",
     "fuel_removal_report": "Informe de Extracción de Combustible",
+    "fuel_refills_live_report": "Informe en vivo de recargas de combustible",
+    "fuel_removal_live_report": "Informe en vivo de extracción de combustible",
     "daily_fuel_consumption_report": "Informe Diario de Consumo de Combustible",
     "monthly_fuel_consumption_report": "Informe Mensual de Consumo de Combustible",
     "bus_management": "Gestión de Autobuses",

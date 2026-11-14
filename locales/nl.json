@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Brandstofverbruiksrapport beheerder",
     "fuel_refills_report": "Rapport brandstofbijvullingen",
     "fuel_removal_report": "Rapport brandstofverwijdering",
+    "fuel_refills_live_report": "Live-rapport Brandstofbijvulling",
+    "fuel_removal_live_report": "Live-rapport Brandstofverwijdering",
     "daily_fuel_consumption_report": "Dagelijks brandstofverbruiksrapport",
     "monthly_fuel_consumption_report": "Maandelijks brandstofverbruiksrapport",
     "bus_management": "Busbeheer",

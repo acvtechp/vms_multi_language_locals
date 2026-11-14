@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Pentadbir Laporan Penggunaan Bahan Api",
     "fuel_refills_report": "Laporan Pengisian Semula Bahan Api",
     "fuel_removal_report": "Laporan Pembuangan Bahan Api",
+    "fuel_refills_live_report": "Laporan Langsung Pengisian Bahan Api",
+    "fuel_removal_live_report": "Laporan Langsung Pembuangan Bahan Api",
     "daily_fuel_consumption_report": "Laporan Penggunaan Bahan Api Harian",
     "monthly_fuel_consumption_report": "Laporan Penggunaan Bahan Api Bulanan",
     "bus_management": "Pengurusan Bas",

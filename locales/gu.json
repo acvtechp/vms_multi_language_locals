@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "બળતણ વપરાશ અહેવાલ સંચાલક",
     "fuel_refills_report": "બળતણ રિફિલ્સ અહેવાલ",
     "fuel_removal_report": "બળતણ દૂર કરવાનો અહેવાલ",
+    "fuel_refills_live_report": "ફ્યુઅલ રિફિલ્સ લાઇવ રિપોર્ટ",
+    "fuel_removal_live_report": "ફ્યુઅલ રિમૂવલ લાઇવ રિપોર્ટ",
     "daily_fuel_consumption_report": "દૈનિક બળતણ વપરાશ અહેવાલ",
     "monthly_fuel_consumption_report": "માસિક બળતણ વપરાશ અહેવાલ",
     "bus_management": "બસ સંચાલન",

@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "জ্বালানি খরচ রিপোর্ট অ্যাডমিন",
     "fuel_refills_report": "জ্বালানি রিফিল রিপোর্ট",
     "fuel_removal_report": "জ্বালানি অপসারণ রিপোর্ট",
+    "fuel_refills_live_report": "জ্বালানি রিফিল লাইভ রিপোর্ট",
+    "fuel_removal_live_report": "জ্বালানি অপসারণ লাইভ রিপোর্ট",
     "daily_fuel_consumption_report": "দৈনিক জ্বালানি খরচ রিপোর্ট",
     "monthly_fuel_consumption_report": "মাসিক জ্বালানি খরচ রিপোর্ট",
     "bus_management": "বাস ব্যবস্থাপনা",

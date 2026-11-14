@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "எரிபொருள் நுகர்வு அறிக்கை நிர்வாகி",
     "fuel_refills_report": "எரிபொருள் நிரப்புதல் அறிக்கை",
     "fuel_removal_report": "எரிபொருள் அகற்றுதல் அறிக்கை",
+    "fuel_refills_live_report": "எரிபொருள் நிரப்புதல் நேரலை அறிக்கை",
+    "fuel_removal_live_report": "எரிபொருள் அகற்றுதல் நேரலை அறிக்கை",
     "daily_fuel_consumption_report": "தினசரி எரிபொருள் நுகர்வு அறிக்கை",
     "monthly_fuel_consumption_report": "மாதாந்திர எரிபொருள் நுகர்வு அறிக்கை",
     "bus_management": "பேருந்து மேலாண்மை",

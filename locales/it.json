@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Rapporto Consumo Carburante Admin",
     "fuel_refills_report": "Rapporto Rifornimenti Carburante",
     "fuel_removal_report": "Rapporto Prelievo Carburante",
+    "fuel_refills_live_report": "Rapporto in tempo reale sui rifornimenti di carburante",
+    "fuel_removal_live_report": "Rapporto in tempo reale sulla rimozione di carburante",
     "daily_fuel_consumption_report": "Rapporto Consumo Carburante Giornaliero",
     "monthly_fuel_consumption_report": "Rapporto Consumo Carburante Mensile",
     "bus_management": "Gestione Autobus",

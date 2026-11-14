@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ਬਾਲਣ ਦੀ ਖਪਤ ਦੀ ਰਿਪੋਰਟ ਐਡਮਿਨ",
     "fuel_refills_report": "ਬਾਲਣ ਰੀਫਿਲ ਰਿਪੋਰਟ",
     "fuel_removal_report": "ਬਾਲਣ ਹਟਾਉਣ ਦੀ ਰਿਪੋਰਟ",
+    "fuel_refills_live_report": "ਈਂਧਨ ਰੀਫਿਲ ਲਾਈਵ ਰਿਪੋਰਟ",
+    "fuel_removal_live_report": "ਈਂਧਨ ਹਟਾਉਣ ਦੀ ਲਾਈਵ ਰਿਪੋਰਟ",
     "daily_fuel_consumption_report": "ਰੋਜ਼ਾਨਾ ਬਾਲਣ ਦੀ ਖਪਤ ਦੀ ਰਿਪੋਰਟ",
     "monthly_fuel_consumption_report": "ਮਾਸਿਕ ਬਾਲਣ ਦੀ ਖਪਤ ਦੀ ਰਿਪੋਰਟ",
     "bus_management": "ਬੱਸ ਪ੍ਰਬੰਧਨ",

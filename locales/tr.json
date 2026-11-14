@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Yakıt Tüketimi Raporu Yönetici",
     "fuel_refills_report": "Yakıt Dolum Raporu",
     "fuel_removal_report": "Yakıt Çekim Raporu",
+    "fuel_refills_live_report": "Canlı Yakıt Dolum Raporu",
+    "fuel_removal_live_report": "Canlı Yakıt Çekim Raporu",
     "daily_fuel_consumption_report": "Günlük Yakıt Tüketimi Raporu",
     "monthly_fuel_consumption_report": "Aylık Yakıt Tüketimi Raporu",
     "bus_management": "Otobüs Yönetimi",

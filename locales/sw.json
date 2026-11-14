@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "Msimamizi wa Ripoti ya Matumizi ya Mafuta",
     "fuel_refills_report": "Ripoti ya Kujaza Mafuta",
     "fuel_removal_report": "Ripoti ya Kuondoa Mafuta",
+    "fuel_refills_live_report": "Ripoti ya Moja kwa Moja ya Kujaza Mafuta",
+    "fuel_removal_live_report": "Ripoti ya Moja kwa Moja ya Kuondoa Mafuta",
     "daily_fuel_consumption_report": "Ripoti ya Matumizi ya Mafuta ya Kila Siku",
     "monthly_fuel_consumption_report": "Ripoti ya Matumizi ya Mafuta ya Kila Mwezi",
     "bus_management": "Usimamizi wa Mabasi",

@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "รายงานการใช้น้ำมันเชื้อเพลิงสำหรับผู้ดูแลระบบ",
     "fuel_refills_report": "รายงานการเติมน้ำมัน",
     "fuel_removal_report": "รายงานการดูดน้ำมันออก",
+    "fuel_refills_live_report": "รายงานสดการเติมน้ำมัน",
+    "fuel_removal_live_report": "รายงานสดการดูดน้ำมันออก",
     "daily_fuel_consumption_report": "รายงานการใช้น้ำมันเชื้อเพลิงรายวัน",
     "monthly_fuel_consumption_report": "รายงานการใช้น้ำมันเชื้อเพลิงรายเดือน",
     "bus_management": "การจัดการรถบัส",

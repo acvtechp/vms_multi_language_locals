@@ -718,6 +718,8 @@
     "fuel_consumption_report_admin": "ಇಂಧನ ಬಳಕೆ ವರದಿ ನಿರ್ವಾಹಕ",
     "fuel_refills_report": "ಇಂಧನ ತುಂಬಿಸುವಿಕೆ ವರದಿ",
     "fuel_removal_report": "ಇಂಧನ ತೆಗೆದುಹಾಕುವಿಕೆ ವರದಿ",
+    "fuel_refills_live_report": "ಇಂಧನ ಮರುಪೂರಣಗಳ ಲೈವ್ ವರದಿ",
+    "fuel_removal_live_report": "ಇಂಧನ ತೆಗೆದುಹಾಕುವಿಕೆಯ ಲೈವ್ ವರದಿ",
     "daily_fuel_consumption_report": "ದೈನಂದಿನ ಇಂಧನ ಬಳಕೆ ವರದಿ",
     "monthly_fuel_consumption_report": "ಮಾಸಿಕ ಇಂಧನ ಬಳಕೆ ವರದಿ",
     "bus_management": "ಬಸ್ ನಿರ್ವಹಣೆ",
