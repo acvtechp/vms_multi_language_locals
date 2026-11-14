@@ -2187,7 +2187,9 @@
     "request_type": "अनुरोध प्रकार",
     "is_success": "सफलता",
     "command": "कमान",
-    "response": "प्रतिसाद"
+    "response": "प्रतिसाद",
+    "caution_today_refills_live": "آئل کُھچ دِنکڑہ کُھچک کُھچک کُھچک...",
+    "caution_today_removals_live": "آئل کُھچ دِنکڑہ کُھچک کُھچک کُھچک..."
   },
   "live_track": {
     "refresh": "ताजा करू",

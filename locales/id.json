@@ -2187,7 +2187,9 @@
     "request_type": "Jenis Permintaan",
     "is_success": "Berhasil",
     "command": "Perintah",
-    "response": "Respon"
+    "response": "Respon",
+    "caution_today_refills_live": "Menampilkan data pengisian bahan bakar langsung untuk hari ini, dari pukul 12.00 AM hingga waktu saat ini.",
+    "caution_today_removals_live": "Menampilkan data penyedotan bahan bakar langsung untuk hari ini, dari pukul 12.00 AM hingga waktu saat ini."
   },
   "live_track": {
     "refresh": "Segarkan",

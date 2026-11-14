@@ -2187,7 +2187,9 @@
     "request_type": "Typ żądania",
     "is_success": "Sukces",
     "command": "Polecenie",
-    "response": "Odpowiedź"
+    "response": "Odpowiedź",
+    "caution_today_refills_live": "Pokazywanie danych na żywo dotyczących tankowania paliwa na dzisiaj, od godziny 12:00 w nocy do bieżącego czasu.",
+    "caution_today_removals_live": "Pokazywanie danych na żywo dotyczących spuszczania paliwa na dzisiaj, od godziny 12:00 w nocy do bieżącego czasu."
   },
   "live_track": {
     "refresh": "Odśwież",

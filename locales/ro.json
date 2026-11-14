@@ -2187,7 +2187,9 @@
     "request_type": "Tip cerere",
     "is_success": "Succes",
     "command": "Comandă",
-    "response": "Răspuns"
+    "response": "Răspuns",
+    "caution_today_refills_live": "Se afișează datele live despre alimentarea cu combustibil pentru astăzi, de la ora 12:00 AM și până în prezent.",
+    "caution_today_removals_live": "Se afișează datele live despre scoaterea de combustibil pentru astăzi, de la ora 12:00 AM și până în prezent."
   },
   "live_track": {
     "refresh": "Reîmprospătare",

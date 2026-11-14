@@ -2187,7 +2187,9 @@
     "request_type": "요청 유형",
     "is_success": "성공",
     "command": "명령",
-    "response": "응답"
+    "response": "응답",
+    "caution_today_refills_live": "오늘 오전 12시부터 현재 시간까지의 실시간 연료 주유 데이터를 표시합니다.",
+    "caution_today_removals_live": "오늘 오전 12시부터 현재 시간까지의 실시간 연료 추출 데이터를 표시합니다."
   },
   "live_track": {
     "refresh": "새로 고침",

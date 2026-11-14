@@ -2187,7 +2187,9 @@
     "request_type": "Type aanvraag",
     "is_success": "Geslaagd",
     "command": "Commando",
-    "response": "Reactie"
+    "response": "Reactie",
+    "caution_today_refills_live": "Live brandstofbijvudgegevens van vandaag worden weergegeven, van 12:00 uur tot de huidige tijd.",
+    "caution_today_removals_live": "Live brandstofafvoergegevens van vandaag worden weergegeven, van 12:00 uur tot de huidige tijd."
   },
   "live_track": {
     "refresh": "Vernieuwen",

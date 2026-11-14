@@ -2187,7 +2187,9 @@
     "request_type": "リクエストタイプ",
     "is_success": "成功",
     "command": "コマンド",
-    "response": "レスポンス"
+    "response": "レスポンス",
+    "caution_today_refills_live": "本日の午前0時から現在までのリアルタイムの燃料給油データを表示しています。",
+    "caution_today_removals_live": "本日の午前0時から現在までのリアルタイムの燃料抜取データを表示しています。"
   },
   "live_track": {
     "refresh": "更新",

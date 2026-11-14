@@ -2187,7 +2187,9 @@
     "request_type": "Request Type",
     "is_success": "Success",
     "command": "Command",
-    "response": "Response"
+    "response": "Response",
+    "caution_today_refills_live": "Showing live fuel refill data for today, from 12:00 AM up to the current time.",
+    "caution_today_removals_live": "Showing live fuel removal data for today, from 12:00 AM up to the current time."
   },
   "live_track": {
     "refresh": "Refresh",

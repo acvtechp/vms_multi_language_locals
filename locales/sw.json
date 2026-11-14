@@ -2187,7 +2187,9 @@
     "request_type": "Aina ya Ombi",
     "is_success": "Mafanikio",
     "command": "Amri",
-    "response": "Jibu"
+    "response": "Jibu",
+    "caution_today_refills_live": "Inaonyesha data ya moja kwa moja ya kujaza mafuta kwa leo, kuanzia saa 6:00 Usiku hadi wakati huu wa sasa.",
+    "caution_today_removals_live": "Inaonyesha data ya moja kwa moja ya kuondoa mafuta kwa leo, kuanzia saa 6:00 Usiku hadi wakati huu wa sasa."
   },
   "live_track": {
     "refresh": "Weka upya",

@@ -2187,7 +2187,9 @@
     "request_type": "Tipo di richiesta",
     "is_success": "Successo",
     "command": "Comando",
-    "response": "Risposta"
+    "response": "Risposta",
+    "caution_today_refills_live": "Visualizzazione dei dati in tempo reale sul rifornimento di carburante per oggi, dalle 00:00 fino all'ora corrente.",
+    "caution_today_removals_live": "Visualizzazione dei dati in tempo reale sulla rimozione di carburante per oggi, dalle 00:00 fino all'ora corrente."
   },
   "live_track": {
     "refresh": "Aggiorna",

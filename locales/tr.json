@@ -2187,7 +2187,9 @@
     "request_type": "İstek Türü",
     "is_success": "Başarılı",
     "command": "Komut",
-    "response": "Yanıt"
+    "response": "Yanıt",
+    "caution_today_refills_live": "Bugün gece 12:00'den şu ana kadarki canlı yakıt ikmali verileri gösteriliyor.",
+    "caution_today_removals_live": "Bugün gece 12:00'den şu ana kadarki canlı yakıt çekimi verileri gösteriliyor."
   },
   "live_track": {
     "refresh": "Yenile",

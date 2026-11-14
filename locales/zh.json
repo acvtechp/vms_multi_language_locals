@@ -2187,7 +2187,9 @@
     "request_type": "请求类型",
     "is_success": "成功",
     "command": "命令",
-    "response": "响应"
+    "response": "响应",
+    "caution_today_refills_live": "显示今天从凌晨 12:00 到当前时间的实时燃油加注数据。",
+    "caution_today_removals_live": "显示今天从凌晨 12:00 到当前时间的实时燃油抽出数据。"
   },
   "live_track": {
     "refresh": "刷新",

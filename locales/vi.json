@@ -2187,7 +2187,9 @@
     "request_type": "Loại yêu cầu",
     "is_success": "Thành công",
     "command": "Lệnh",
-    "response": "Phản hồi"
+    "response": "Phản hồi",
+    "caution_today_refills_live": "Hiển thị dữ liệu đổ nhiên liệu trực tiếp trong ngày hôm nay, từ 00:00 đến thời gian hiện tại.",
+    "caution_today_removals_live": "Hiển thị dữ liệu rút nhiên liệu trực tiếp trong ngày hôm nay, từ 00:00 đến thời gian hiện tại."
   },
   "live_track": {
     "refresh": "Làm mới",

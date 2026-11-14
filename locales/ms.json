@@ -2187,7 +2187,9 @@
     "request_type": "Jenis Permintaan",
     "is_success": "Berjaya",
     "command": "Perintah",
-    "response": "Respons"
+    "response": "Respons",
+    "caution_today_refills_live": "Menunjukkan data pengisian bahan api langsung untuk hari ini, dari 12:00 tengah malam hingga masa semasa.",
+    "caution_today_removals_live": "Menunjukkan data penyingkiran bahan api langsung untuk hari ini, dari 12:00 tengah malam hingga masa semasa."
   },
   "live_track": {
     "refresh": "Muat Semula",

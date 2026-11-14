@@ -2187,7 +2187,9 @@
     "request_type": "Anfragetyp",
     "is_success": "Erfolgreich",
     "command": "Befehl",
-    "response": "Antwort"
+    "response": "Antwort",
+    "caution_today_refills_live": "Heutige Live-Daten zur Kraftstoffbetankung werden angezeigt, von 00:00 Uhr bis zur aktuellen Uhrzeit.",
+    "caution_today_removals_live": "Heutige Live-Daten zur Kraftstoffentnahme werden angezeigt, von 00:00 Uhr bis zur aktuellen Uhrzeit."
   },
   "live_track": {
     "refresh": "Aktualisieren",

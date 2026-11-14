@@ -2187,7 +2187,9 @@
     "request_type": "סוג בקשה",
     "is_success": "הצלחה",
     "command": "פקודה",
-    "response": "תגובה"
+    "response": "תגובה",
+    "caution_today_refills_live": "מציג נתוני תדלוק דלק בזמן אמת להיום, החל מהחצות (12:00 AM) ועד לשעה הנוכחיות.",
+    "caution_today_removals_live": "מציג נתוני שאיבת דלק בזמן אמת להיום, החל מהחצות (12:00 AM) ועד לשעה הנוכחיות."
   },
   "live_track": {
     "refresh": "רענן",

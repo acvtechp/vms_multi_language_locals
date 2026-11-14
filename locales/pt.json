@@ -2187,7 +2187,9 @@
     "request_type": "Tipo de Solicitação",
     "is_success": "Sucesso",
     "command": "Comando",
-    "response": "Resposta"
+    "response": "Resposta",
+    "caution_today_refills_live": "Mostrando dados ao vivo de abastecimento de combustível de hoje, das 00:00 até o horário atual.",
+    "caution_today_removals_live": "Mostrando dados ao vivo de retirada de combustível de hoje, das 00:00 até o horário atual."
   },
   "live_track": {
     "refresh": "Atualizar",
