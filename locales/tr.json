@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "Yolculuk Özeti",
     "total_distance": "Toplam Mesafe",
+    "diatnce": "Mesafe",
     "sensors": "Sensörler",
     "fuel": "Yakıt",
     "temperature": "Sıcaklık",

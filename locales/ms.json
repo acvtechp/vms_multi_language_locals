@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "Ringkasan Perjalanan",
     "total_distance": "Jumlah Jarak",
+    "diatnce": "Jarak",
     "sensors": "Penderia",
     "fuel": "Bahan Api",
     "temperature": "Suhu",

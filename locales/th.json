@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "สรุปการเดินทาง",
     "total_distance": "ระยะทางรวม",
+    "diatnce": "ระยะทาง",
     "sensors": "เซนเซอร์",
     "fuel": "เชื้อเพลิง",
     "temperature": "อุณหภูมิ",

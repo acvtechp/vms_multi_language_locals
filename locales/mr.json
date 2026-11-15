@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "ट्रिप सारांश",
     "total_distance": "एकूण अंतर",
+    "diatnce": "अंतर",
     "sensors": "सेन्सर्स",
     "fuel": "इंधन",
     "temperature": "तापमान",

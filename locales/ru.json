@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "Сводка поездки",
     "total_distance": "Общее расстояние",
+    "diatnce": "Расстояние",
     "sensors": "Датчики",
     "fuel": "Топливо",
     "temperature": "Температура",

@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "பயண சுருக்கம்",
     "total_distance": "மொத்த தூரம்",
+    "diatnce": "தூரம்",
     "sensors": "சென்சார்கள்",
     "fuel": "எரிபொருள்",
     "temperature": "வெப்பநிலை",

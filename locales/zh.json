@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "行程摘要",
     "total_distance": "总距离",
+    "diatnce": "距离",
     "sensors": "传感器",
     "fuel": "燃油",
     "temperature": "温度",
