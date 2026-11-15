@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Instans DB",
     "db_group": "Grup DB",
+    "distance_correction": "Koreksi Jarak",
     "locality": "Lokasi",
     "state": "Provinsi",
     "company_cin": "CIN Perusahaan",

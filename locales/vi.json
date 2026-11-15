@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Phiên bản cơ sở dữ liệu",
     "db_group": "Nhóm cơ sở dữ liệu",
+    "distance_correction": "Hiệu chỉnh khoảng cách",
     "locality": "Khu vực",
     "state": "Tỉnh/Bang",
     "company_cin": "Mã doanh nghiệp (CIN)",

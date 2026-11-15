@@ -981,6 +981,7 @@
     "organisation_utrack_id": "Идентификатор UTrack",
     "db_instance": "Экземпляр БД",
     "db_group": "Группа БД",
+    "distance_correction": "Коррекция расстояния",
     "locality": "Населенный пункт",
     "state": "Штат/Область",
     "company_cin": "CIN компании",

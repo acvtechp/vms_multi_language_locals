@@ -981,6 +981,7 @@
     "organisation_utrack_id": "UTrack ID",
     "db_instance": "DB 인스턴스",
     "db_group": "DB 그룹",
+    "distance_correction": "거리 보정",
     "locality": "지역",
     "state": "주",
     "company_cin": "회사 CIN",

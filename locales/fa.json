@@ -981,6 +981,7 @@
     "organisation_utrack_id": "شناسه UTrack",
     "db_instance": "نمونه پایگاه داده",
     "db_group": "گروه پایگاه داده",
+    "distance_correction": "اصلاح فاصله",
     "locality": "منطقه",
     "state": "استان",
     "company_cin": "CIN شرکت",

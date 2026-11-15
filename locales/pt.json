@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Instância de Base de Dados",
     "db_group": "Grupo de Base de Dados",
+    "distance_correction": "Correção de Distância",
     "locality": "Localidade",
     "state": "Estado",
     "company_cin": "CIN da Empresa",

@@ -981,6 +981,7 @@
     "organisation_utrack_id": "UTrack ID",
     "db_instance": "อินสแตนซ์ DB",
     "db_group": "กลุ่ม DB",
+    "distance_correction": "การแก้ไขระยะทาง",
     "locality": "สถานที่",
     "state": "รัฐ",
     "company_cin": "CIN บริษัท",

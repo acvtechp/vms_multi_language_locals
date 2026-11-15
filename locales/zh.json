@@ -981,6 +981,7 @@
     "organisation_utrack_id": "UTrack ID",
     "db_instance": "数据库实例",
     "db_group": "数据库组",
+    "distance_correction": "距离修正",
     "locality": "所在地",
     "state": "州/省",
     "company_cin": "公司 CIN",

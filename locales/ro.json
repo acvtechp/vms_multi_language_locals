@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Instanță DB",
     "db_group": "Grup DB",
+    "distance_correction": "Corecție distanță",
     "locality": "Localitate",
     "state": "Stat",
     "company_cin": "CIN companie",

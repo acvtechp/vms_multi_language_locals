@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Στιγμιότυπο DB",
     "db_group": "Ομάδα DB",
+    "distance_correction": "Διόρθωση απόστασης",
     "locality": "Τοποθεσία",
     "state": "Πολιτεία / Νομός",
     "company_cin": "CIN Εταιρείας",

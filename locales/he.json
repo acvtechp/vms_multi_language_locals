@@ -981,6 +981,7 @@
     "organisation_utrack_id": "מזהה UTrack",
     "db_instance": "מופע מסד נתונים",
     "db_group": "קבוצת מסד נתונים",
+    "distance_correction": "תיקון מרחק",
     "locality": "יישוב",
     "state": "מדינה",
     "company_cin": "CIN חברה",

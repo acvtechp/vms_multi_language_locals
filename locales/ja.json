@@ -981,6 +981,7 @@
     "organisation_utrack_id": "UTrack ID",
     "db_instance": "DBインスタンス",
     "db_group": "DBグループ",
+    "distance_correction": "距離の補正",
     "locality": "地域",
     "state": "州",
     "company_cin": "企業CIN",

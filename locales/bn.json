@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ইউট্র্যাক আইডি",
     "db_instance": "ডিবি ইনস্ট্যান্স",
     "db_group": "ডিবি গ্রুপ",
+    "distance_correction": "দূরত্ব সংশোধন",
     "locality": "এলাকা",
     "state": "রাজ্য",
     "company_cin": "কোম্পানি সিআইএন",

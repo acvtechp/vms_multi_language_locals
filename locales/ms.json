@@ -981,6 +981,7 @@
     "organisation_utrack_id": "ID UTrack",
     "db_instance": "Instans DB",
     "db_group": "Kumpulan DB",
+    "distance_correction": "Pembetulan Jarak",
     "locality": "Kawasan",
     "state": "Negeri",
     "company_cin": "CIN Syarikat",

@@ -981,6 +981,7 @@
     "organisation_utrack_id": "معرف UTrack",
     "db_instance": "مثيل قاعدة البيانات",
     "db_group": "مجموعة قاعدة البيانات",
+    "distance_correction": "تصحيح المسافة",
     "locality": "المنطقة",
     "state": "الولاية",
     "company_cin": "رقم تعريف الشركة (CIN)",
