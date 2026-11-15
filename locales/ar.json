@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "ملخص الرحلة",
     "total_distance": "إجمالي المسافة",
+    "diatnce": "المسافة",
     "sensors": "المستشعرات",
     "fuel": "الوقود",
     "temperature": "درجة الحرارة",

@@ -2211,6 +2211,7 @@
   "track_history": {
     "trip_summary": "Resumen del viaje",
     "total_distance": "Distancia total",
+    "diatnce": "Distancia",
     "sensors": "Sensores",
     "fuel": "Combustible",
     "temperature": "Temperatura",
