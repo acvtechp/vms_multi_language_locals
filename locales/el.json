@@ -2211,7 +2211,7 @@
   "track_history": {
     "trip_summary": "Περίληψη Ταξιδιού",
     "total_distance": "Συνολική Απόσταση",
-    "diatnce": "Απόσταση",
+    "distance": "Απόσταση",
     "sensors": "Αισθητήρες",
     "fuel": "Καύσιμο",
     "temperature": "Θερμοκρασία",

@@ -2211,7 +2211,7 @@
   "track_history": {
     "trip_summary": "トリップサマリー",
     "total_distance": "総距離",
-    "diatnce": "距離",
+    "distance": "距離",
     "sensors": "センサー",
     "fuel": "燃料",
     "temperature": "温度",

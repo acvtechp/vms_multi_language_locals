@@ -2211,7 +2211,7 @@
   "track_history": {
     "trip_summary": "Ringkasan Perjalanan",
     "total_distance": "Total Jarak",
-    "diatnce": "Jarak",
+    "distance": "Jarak",
     "sensors": "Sensor",
     "fuel": "Bahan Bakar",
     "temperature": "Suhu",

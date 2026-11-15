@@ -2211,7 +2211,7 @@
   "track_history": {
     "trip_summary": "운행 요약",
     "total_distance": "총 거리",
-    "diatnce": "거리",
+    "distance": "거리",
     "sensors": "센서",
     "fuel": "연료",
     "temperature": "온도",
