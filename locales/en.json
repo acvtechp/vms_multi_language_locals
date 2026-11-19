@@ -478,7 +478,8 @@
     "notifications": "Notifications",
     "bookmarks": "Bookmarks",
     "vehicle_document": "Vehicle Document",
-    "vehicle_document_expiry": "Vehicle Document Expiry"
+    "vehicle_document_expiry": "Vehicle Document Expiry",
+    "vehicle_grouping": "Vehicle Grouping"
   },
   "menu_master": {
     "masters_menu": "Masters Menu",
