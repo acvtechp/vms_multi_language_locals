@@ -478,7 +478,8 @@
     "notifications": "알림",
     "bookmarks": "책갈피",
     "vehicle_document": "차량 문서",
-    "vehicle_document_expiry": "차량 문서 만료"
+    "vehicle_document_expiry": "차량 문서 만료",
+    "vehicle_grouping": "차량 그룹화"
   },
   "menu_master": {
     "masters_menu": "마스터 메뉴",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "대시보드",
     "vehicles": "차량",
+    "vehicle": "차량",
+    "KM": "KM",
     "caution_today_refills": "오늘의 연료 주유 데이터가 처리 중이며 당일 자정까지 업데이트됩니다.",
     "caution_today_removals": "오늘의 연료 제거 데이터가 처리 중이며 당일 자정까지 업데이트됩니다.",
     "caution_fuel_summary": "오늘의 연료 요약 데이터가 처리 중이며 당일 자정까지 업데이트됩니다.",

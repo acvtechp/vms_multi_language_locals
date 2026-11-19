@@ -478,7 +478,8 @@
     "notifications": "Bildirimler",
     "bookmarks": "Yer İşaretleri",
     "vehicle_document": "Araç Belgesi",
-    "vehicle_document_expiry": "Araç Belgesi Son Kullanma Tarihi"
+    "vehicle_document_expiry": "Araç Belgesi Son Kullanma Tarihi",
+    "vehicle_grouping": "Araç Gruplandırma"
   },
   "menu_master": {
     "masters_menu": "Ana Veriler Menüsü",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Gösterge Paneli",
     "vehicles": "Araçlar",
+    "vehicle": "Araç",
+    "KM": "KM",
     "caution_today_refills": "Bugünkü yakıt dolum verileri işleniyor ve gün sonunda güncellenecektir.",
     "caution_today_removals": "Bugünkü yakıt çekim verileri işleniyor ve gün sonunda güncellenecektir.",
     "caution_fuel_summary": "Bugünkü yakıt özet verileri işleniyor ve gün sonunda güncellenecektir.",

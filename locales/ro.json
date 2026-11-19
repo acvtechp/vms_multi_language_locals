@@ -478,7 +478,8 @@
     "notifications": "Notificări",
     "bookmarks": "Semne de carte",
     "vehicle_document": "Document vehicul",
-    "vehicle_document_expiry": "Expirare document vehicul"
+    "vehicle_document_expiry": "Expirare document vehicul",
+    "vehicle_grouping": "Grupare vehicule"
   },
   "menu_master": {
     "masters_menu": "Meniu date principale",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Tablou de bord",
     "vehicles": "Vehicule",
+    "vehicle": "Vehicul",
+    "KM": "KM",
     "caution_today_refills": "Datele privind alimentările de astăzi sunt în curs de procesare și vor fi actualizate până la sfârșitul zilei.",
     "caution_today_removals": "Datele privind eliminările de combustibil de astăzi sunt în curs de procesare și vor fi actualizate până la sfârșitul zilei.",
     "caution_fuel_summary": "Datele privind sumarul combustibilului de astăzi sunt în curs de procesare și vor fi actualizate până la sfârșitul zilei.",

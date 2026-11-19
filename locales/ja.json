@@ -478,7 +478,8 @@
     "notifications": "通知",
     "bookmarks": "ブックマーク",
     "vehicle_document": "車両書類",
-    "vehicle_document_expiry": "車両書類の有効期限"
+    "vehicle_document_expiry": "車両書類の有効期限",
+    "vehicle_grouping": "車両グループ"
   },
   "menu_master": {
     "masters_menu": "マスターメニュー",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ダッシュボード",
     "vehicles": "車両",
+    "vehicle": "車両",
+    "KM": "KM",
     "caution_today_refills": "本日の燃料補給データは処理中です。本日の終わりまでに更新されます。",
     "caution_today_removals": "本日の燃料抜き取りデータは処理中です。本日の終わりまでに更新されます。",
     "caution_fuel_summary": "本日の燃料サマリーデータは処理中です。本日の終わりまでに更新されます。",

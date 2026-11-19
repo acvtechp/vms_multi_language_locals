@@ -478,7 +478,8 @@
     "notifications": "Notifikasi",
     "bookmarks": "Tengara",
     "vehicle_document": "Dokumen Kendaraan",
-    "vehicle_document_expiry": "Kedaluwarsa Dokumen Kendaraan"
+    "vehicle_document_expiry": "Kedaluwarsa Dokumen Kendaraan",
+    "vehicle_grouping": "Pengelompokan Kendaraan"
   },
   "menu_master": {
     "masters_menu": "Menu Master",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Dasbor",
     "vehicles": "Kendaraan",
+    "vehicle": "Kendaraan",
+    "KM": "KM",
     "caution_today_refills": "Data pengisian ulang bahan bakar hari ini sedang diproses dan akan diperbarui pada akhir hari.",
     "caution_today_removals": "Data pengeluaran bahan bakar hari ini sedang diproses dan akan diperbarui pada akhir hari.",
     "caution_fuel_summary": "Data ringkasan bahan bakar hari ini sedang diproses dan akan diperbarui pada akhir hari.",

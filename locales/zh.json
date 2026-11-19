@@ -478,7 +478,8 @@
     "notifications": "通知",
     "bookmarks": "书签",
     "vehicle_document": "车辆文件",
-    "vehicle_document_expiry": "车辆文件到期"
+    "vehicle_document_expiry": "车辆文件到期",
+    "vehicle_grouping": "车辆分组"
   },
   "menu_master": {
     "masters_menu": "主数据菜单",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "仪表盘",
     "vehicles": "车辆",
+    "vehicle": "车辆",
+    "KM": "公里",
     "caution_today_refills": "今日燃油加注数据正在处理中，将在今天结束前更新。",
     "caution_today_removals": "今日燃油移除数据正在处理中，将在今天结束前更新。",
     "caution_fuel_summary": "今日燃油汇总数据正在处理中，将在今天结束前更新。",

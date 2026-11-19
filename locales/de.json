@@ -478,7 +478,8 @@
     "notifications": "Benachrichtigungen",
     "bookmarks": "Lesezeichen",
     "vehicle_document": "Fahrzeugdokument",
-    "vehicle_document_expiry": "Ablauf des Fahrzeugdokuments"
+    "vehicle_document_expiry": "Ablauf des Fahrzeugdokuments",
+    "vehicle_grouping": "Fahrzeuggruppierung"
   },
   "menu_master": {
     "masters_menu": "Stammdaten-Menü",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Dashboard",
     "vehicles": "Fahrzeuge",
+    "vehicle": "Fahrzeug",
+    "KM": "KM",
     "caution_today_refills": "Die Daten zu den heutigen Kraftstoffbetankungen werden verarbeitet und bis Ende des Tages aktualisiert.",
     "caution_today_removals": "Die Daten zu den heutigen Kraftstoffentnahmen werden verarbeitet und bis Ende des Tages aktualisiert.",
     "caution_fuel_summary": "Die heutigen Kraftstoff-Zusammenfassungsdaten werden verarbeitet und bis Ende des Tages aktualisiert.",

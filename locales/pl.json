@@ -478,7 +478,8 @@
     "notifications": "Powiadomienia",
     "bookmarks": "Zakładki",
     "vehicle_document": "Dokument pojazdu",
-    "vehicle_document_expiry": "Wygaśnięcie dokumentu pojazdu"
+    "vehicle_document_expiry": "Wygaśnięcie dokumentu pojazdu",
+    "vehicle_grouping": "Grupowanie pojazdów"
   },
   "menu_master": {
     "masters_menu": "Menu danych nadrzędnych",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Pulpit",
     "vehicles": "Pojazdy",
+    "vehicle": "Pojazd",
+    "KM": "KM",
     "caution_today_refills": "Dzisiejsze dane dotyczące tankowania są przetwarzane i zostaną zaktualizowane do końca dnia.",
     "caution_today_removals": "Dzisiejsze dane dotyczące usunięcia paliwa są przetwarzane i zostaną zaktualizowane do końca dnia.",
     "caution_fuel_summary": "Dzisiejsze podsumowanie paliwa jest przetwarzane i zostanie zaktualizowane do końca dnia.",

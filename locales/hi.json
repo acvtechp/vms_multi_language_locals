@@ -478,7 +478,8 @@
     "notifications": "सूचनाएं",
     "bookmarks": "बुकमार्क",
     "vehicle_document": "वाहन दस्तावेज़",
-    "vehicle_document_expiry": "वाहन दस्तावेज़ समाप्ति"
+    "vehicle_document_expiry": "वाहन दस्तावेज़ समाप्ति",
+    "vehicle_grouping": "वाहन समूहीकरण"
   },
   "menu_master": {
     "masters_menu": "मास्टर्स मेनू",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "डैशबोर्ड",
     "vehicles": "वाहन",
+    "vehicle": "वाहन",
+    "KM": "किमी",
     "caution_today_refills": "आज के ईंधन रिफिल डेटा को संसाधित किया जा रहा है और दिन के अंत तक अपडेट कर दिया जाएगा।",
     "caution_today_removals": "आज के ईंधन हटाने के डेटा को संसाधित किया जा रहा है और दिन के अंत तक अपडेट कर दिया जाएगा।",
     "caution_fuel_summary": "आज के ईंधन सारांश डेटा को संसाधित किया जा रहा है और दिन के अंत तक अपडेट कर दिया जाएगा।",

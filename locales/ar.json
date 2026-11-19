@@ -478,7 +478,8 @@
     "notifications": "الإشعارات",
     "bookmarks": "الإشارات المرجعية",
     "vehicle_document": "وثيقة المركبة",
-    "vehicle_document_expiry": "انتهاء صلاحية وثيقة المركبة"
+    "vehicle_document_expiry": "انتهاء صلاحية وثيقة المركبة",
+    "vehicle_grouping": "تجميع المركبات"
   },
   "menu_master": {
     "masters_menu": "قائمة البيانات الأساسية",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "لوحة القيادة",
     "vehicles": "المركبات",
+    "vehicle": "مركبة",
+    "KM": "كم",
     "caution_today_refills": "جاري معالجة بيانات تعبئة الوقود لهذا اليوم وسيتم تحديثها بنهاية اليوم.",
     "caution_today_removals": "جاري معالجة بيانات إزالة الوقود لهذا اليوم وسيتم تحديثها بنهاية اليوم.",
     "caution_fuel_summary": "جاري معالجة بيانات ملخص الوقود لهذا اليوم وسيتم تحديثها بنهاية اليوم.",

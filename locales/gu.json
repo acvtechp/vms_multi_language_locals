@@ -478,7 +478,8 @@
     "notifications": "સૂચનાઓ",
     "bookmarks": "બુકમાર્ક્સ",
     "vehicle_document": "વાહન દસ્તાવેજ",
-    "vehicle_document_expiry": "વાહન દસ્તાવેજ સમાપ્તિ"
+    "vehicle_document_expiry": "વાહન દસ્તાવેજ સમાપ્તિ",
+    "vehicle_grouping": "વાહન જૂથ"
   },
   "menu_master": {
     "masters_menu": "માસ્ટર્સ મેનુ",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ડેશબોર્ડ",
     "vehicles": "વાહનો",
+    "vehicle": "વાહન",
+    "KM": "KM",
     "caution_today_refills": "આજના બળતણ રીફિલનો ડેટા પ્રક્રિયા હેઠળ છે અને દિવસના અંત સુધીમાં અપડેટ કરવામાં આવશે.",
     "caution_today_removals": "આજના બળતણ દૂર કરવાના ડેટા પર પ્રક્રિયા થઈ રહી છે અને દિવસના અંત સુધીમાં અપડેટ કરવામાં આવશે.",
     "caution_fuel_summary": "આજના બળતણ સારાંશ ડેટા પર પ્રક્રિયા થઈ રહી છે અને દિવસના અંત સુધીમાં અપડેટ કરવામાં આવશે.",

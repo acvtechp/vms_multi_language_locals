@@ -478,7 +478,8 @@
     "notifications": "اطلاعات",
     "bookmarks": "বুকমার্কس",
     "vehicle_document": "گاڑی کا دستاویز",
-    "vehicle_document_expiry": "گاڑی کے دستاویز کی میعاد ختم ہونا"
+    "vehicle_document_expiry": "گاڑی کے دستاویز کی میعاد ختم ہونا",
+    "vehicle_grouping": "گاڑیوں کی گروہ بندی"
   },
   "menu_master": {
     "masters_menu": "ماسٹرز مینو",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ڈیش بورڈ",
     "vehicles": "گاڑیاں",
+    "vehicle": "گاڑی",
+    "KM": "کلو میٹر",
     "caution_today_refills": "آج کے ایندھن کے ریفل کا ڈیٹا پراسیس کیا جا رہا ہے اور دن کے آخر تک اپ ڈیٹ کر دیا جائے گا۔",
     "caution_today_removals": "آج کے ایندھن کے اخراج کا ڈیٹا پراسیس کیا جا رہا ہے اور دن کے آخر تک اپ ڈیٹ کر دیا جائے گا۔",
     "caution_fuel_summary": "آج کے ایندھن کے خلاصے کا ڈیٹا پراسیس کیا جا رہا ہے اور دن کے آخر تک اپ ڈیٹ کر دیا جائے گا۔",

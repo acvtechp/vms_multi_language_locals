@@ -478,7 +478,8 @@
     "notifications": "Meldingen",
     "bookmarks": "Bladwijzers",
     "vehicle_document": "Voertuigdocument",
-    "vehicle_document_expiry": "Vervaldatum voertuigdocument"
+    "vehicle_document_expiry": "Vervaldatum voertuigdocument",
+    "vehicle_grouping": "Voertuiggroepering"
   },
   "menu_master": {
     "masters_menu": "Menu stamgegevens",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Dashboard",
     "vehicles": "Voertuigen",
+    "vehicle": "Voertuig",
+    "KM": "KM",
     "caution_today_refills": "De gegevens van de brandstofbijvullingen van vandaag worden verwerkt en worden voor het einde van de dag bijgewerkt.",
     "caution_today_removals": "De gegevens van de brandstofverwijderingen van vandaag worden verwerkt en worden voor het einde van de dag bijgewerkt.",
     "caution_fuel_summary": "De brandstofsamenvatting van vandaag wordt verwerkt en wordt voor het einde van de dag bijgewerkt.",

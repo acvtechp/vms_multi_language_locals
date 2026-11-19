@@ -478,7 +478,8 @@
     "notifications": "বিজ্ঞপ্তিসমূহ",
     "bookmarks": "বুকমার্কসমূহ",
     "vehicle_document": "বাহনৰ নথিপত্র",
-    "vehicle_document_expiry": "বাহনৰ নথিপত্রৰ ম্যাদ"
+    "vehicle_document_expiry": "বাহনৰ নথিপত্রৰ ম্যাদ",
+    "vehicle_grouping": "বাহন গ্ৰুপিঙ"
   },
   "menu_master": {
     "masters_menu": "মাষ্টাৰ মেনু",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ডেচবৰ্ড",
     "vehicles": "বাহনসমূহ",
+    "vehicle": "বাহন",
+    "KM": "কিমি",
     "caution_today_refills": "আজিৰ ইন্ধন ভৰোৱাৰ ডাটা প্ৰক্ৰিয়াকৰণ হৈ আছে আৰু দিনৰ শেষলৈ আপডেট কৰা হ'ব।",
     "caution_today_removals": "আজিৰ ইন্ধন অপসাৰণৰ ডাটা প্ৰক্ৰিয়াকৰণ হৈ আছে আৰু দিনৰ শেষলৈ আপডেট কৰা হ'ব।",
     "caution_fuel_summary": "আজিৰ ইন্ধনৰ সাৰাংশ ডাটা প্ৰক্ৰিয়াকৰণ হৈ আছে আৰু দিনৰ শেষলৈ আপডেট কৰা হ'ব।",

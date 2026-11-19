@@ -478,7 +478,8 @@
     "notifications": "ਸੂਚਨਾਵਾਂ",
     "bookmarks": "ਬੁੱਕਮਾਰਕ",
     "vehicle_document": "ਵਾਹਨ ਦਸਤਾਵੇਜ਼",
-    "vehicle_document_expiry": "ਵਾਹਨ ਦਸਤਾਵੇਜ਼ ਮਿਆਦ ਪੁੱਗਣਾ"
+    "vehicle_document_expiry": "ਵਾਹਨ ਦਸਤਾਵੇਜ਼ ਮਿਆਦ ਪੁੱਗਣਾ",
+    "vehicle_grouping": "ਵਾਹਨ ਸਮੂਹ"
   },
   "menu_master": {
     "masters_menu": "ਮਾਸਟਰ ਮੀਨੂ",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ਡੈਸ਼ਬੋਰਡ",
     "vehicles": "ਵਾਹਨ",
+    "vehicle": "ਵਾਹਨ",
+    "KM": "ਕਿ.ਮੀ.",
     "caution_today_refills": "ਅੱਜ ਦੇ ਬਾਲਣ ਰੀਫਿਲ ਦਾ ਡੇਟਾ ਪ੍ਰੋਸੈਸ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਦਿਨ ਦੇ ਅੰਤ ਤੱਕ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।",
     "caution_today_removals": "ਅੱਜ ਦੇ ਬਾਲਣ ਹਟਾਉਣ ਦਾ ਡੇਟਾ ਪ੍ਰੋਸੈਸ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਦਿਨ ਦੇ ਅੰਤ ਤੱਕ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।",
     "caution_fuel_summary": "ਅੱਜ ਦਾ ਬਾਲਣ ਸੰਖੇਪ ਡੇਟਾ ਪ੍ਰੋਸੈਸ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਦਿਨ ਦੇ ਅੰਤ ਤੱਕ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।",

@@ -478,7 +478,8 @@
     "notifications": "התראות",
     "bookmarks": "סימניות",
     "vehicle_document": "מסמך רכב",
-    "vehicle_document_expiry": "תוקף מסמך רכב"
+    "vehicle_document_expiry": "תוקף מסמך רכב",
+    "vehicle_grouping": "קיבוץ כלי רכב"
   },
   "menu_master": {
     "masters_menu": "תפריט נתוני אב",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "לוח בקרה",
     "vehicles": "רכבים",
+    "vehicle": "רכב",
+    "KM": "ק\"מ",
     "caution_today_refills": "נתוני תדלוק היום מעובדים ויעודכנו עד סוף היום.",
     "caution_today_removals": "נתוני הוצאת דלק היום מעובדים ויעודכנו עד סוף היום.",
     "caution_fuel_summary": "נתוני סיכום דלק היום מעובדים ויעודכנו עד סוף היום.",

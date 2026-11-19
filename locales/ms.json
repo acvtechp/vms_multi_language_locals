@@ -478,7 +478,8 @@
     "notifications": "Pemberitahuan",
     "bookmarks": "Penanda Buku",
     "vehicle_document": "Dokumen Kenderaan",
-    "vehicle_document_expiry": "Tamat Tempoh Dokumen Kenderaan"
+    "vehicle_document_expiry": "Tamat Tempoh Dokumen Kenderaan",
+    "vehicle_grouping": "Pengumpulan Kenderaan"
   },
   "menu_master": {
     "masters_menu": "Menu Induk",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Papan Pemuka",
     "vehicles": "Kenderaan",
+    "vehicle": "Kenderaan",
+    "KM": "KM",
     "caution_today_refills": "Data pengisian semula bahan api hari ini sedang diproses dan akan dikemas kini menjelang akhir hari.",
     "caution_today_removals": "Data pembuangan bahan api hari ini sedang diproses dan akan dikemas kini menjelang akhir hari.",
     "caution_fuel_summary": "Data ringkasan bahan api hari ini sedang diproses dan akan dikemas kini menjelang akhir hari.",

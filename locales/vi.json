@@ -478,7 +478,8 @@
     "notifications": "Thông báo",
     "bookmarks": "Dấu trang",
     "vehicle_document": "Tài liệu phương tiện",
-    "vehicle_document_expiry": "Hết hạn tài liệu phương tiện"
+    "vehicle_document_expiry": "Hết hạn tài liệu phương tiện",
+    "vehicle_grouping": "Nhóm phương tiện"
   },
   "menu_master": {
     "masters_menu": "Menu dữ liệu gốc",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Bảng điều khiển",
     "vehicles": "Phương tiện",
+    "vehicle": "Phương tiện",
+    "KM": "KM",
     "caution_today_refills": "Dữ liệu đổ nhiên liệu hôm nay đang được xử lý và sẽ được cập nhật vào cuối ngày.",
     "caution_today_removals": "Dữ liệu rút nhiên liệu hôm nay đang được xử lý và sẽ được cập nhật vào cuối ngày.",
     "caution_fuel_summary": "Dữ liệu tổng hợp nhiên liệu hôm nay đang được xử lý và sẽ được cập nhật vào cuối ngày.",

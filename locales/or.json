@@ -478,7 +478,8 @@
     "notifications": "ବିଜ୍ଞପ୍ତି",
     "bookmarks": "ବୁକ୍ମାର୍କ",
     "vehicle_document": "ଯାନ ଡକ୍ୟୁମେଣ୍ଟ",
-    "vehicle_document_expiry": "ଯାନ ଡକ୍ୟୁମେଣ୍ଟ ସମାପ୍ତି"
+    "vehicle_document_expiry": "ଯାନ ଡକ୍ୟୁମେଣ୍ଟ ସମାପ୍ତି",
+    "vehicle_grouping": "ଯାନ ଗ୍ରୁପିଂ"
   },
   "menu_master": {
     "masters_menu": "ମାଷ୍ଟର୍ସ ମେନୁ",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
     "vehicles": "ଯାନଗୁଡ଼ିକ",
+    "vehicle": "ଯାନ",
+    "KM": "KM",
     "caution_today_refills": "ଆଜିର ଇନ୍ଧନ ରିଫିଲ୍ ତଥ୍ୟ ପ୍ରକ୍ରିୟାକରଣ କରାଯାଉଛି ଏବଂ ଦିନର ଶେଷ ସୁଦ୍ଧା ଅପଡେଟ୍ ହେବ।",
     "caution_today_removals": "ଆଜିର ଇନ୍ଧନ ଅପସାରଣ ତଥ୍ୟ ପ୍ରକ୍ରିୟାକରଣ କରାଯାଉଛି ଏବଂ ଦିନର ଶେଷ ସୁଦ୍ଧା ଅପଡେଟ୍ ହେବ।",
     "caution_fuel_summary": "ଆଜିର ଇନ୍ଧନ ସାରାଂଶ ତଥ୍ୟ ପ୍ରକ୍ରିୟାକରଣ କରାଯାଉଛି ଏବଂ ଦିନର ଶେଷ ସୁଦ୍ଧା ଅପଡେଟ୍ ହେବ।",

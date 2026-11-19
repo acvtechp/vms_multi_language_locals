@@ -478,7 +478,8 @@
     "notifications": "Notifications",
     "bookmarks": "Favoris",
     "vehicle_document": "Document du véhicule",
-    "vehicle_document_expiry": "Expiration du document du véhicule"
+    "vehicle_document_expiry": "Expiration du document du véhicule",
+    "vehicle_grouping": "Regroupement de véhicules"
   },
   "menu_master": {
     "masters_menu": "Menu des données de référence",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Tableau de bord",
     "vehicles": "Véhicules",
+    "vehicle": "Véhicule",
+    "KM": "KM",
     "caution_today_refills": "Les données de remplissage de carburant d'aujourd'hui sont en cours de traitement et seront mises à jour d'ici la fin de la journée.",
     "caution_today_removals": "Les données de retrait de carburant d'aujourd'hui sont en cours de traitement et seront mises à jour d'ici la fin de la journée.",
     "caution_fuel_summary": "Les données de synthèse du carburant d'aujourd'hui sont en cours de traitement et seront mises à jour d'ici la fin de la journée.",

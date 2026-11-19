@@ -478,7 +478,8 @@
     "notifications": "सूचना",
     "bookmarks": "बुकमार्क",
     "vehicle_document": "वाहन कागदपत्र",
-    "vehicle_document_expiry": "वाहन कागदपत्र मुदतपूर्ती"
+    "vehicle_document_expiry": "वाहन कागदपत्र मुदतपूर्ती",
+    "vehicle_grouping": "वाहन समूहीकरण"
   },
   "menu_master": {
     "masters_menu": "मास्टर मेनू",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "डॅशबोर्ड",
     "vehicles": "वाहने",
+    "vehicle": "वाहन",
+    "KM": "किमी",
     "caution_today_refills": "आजचा इंधन रिफिल डेटा प्रक्रियाधीन आहे आणि दिवसाच्या शेवटी अद्यतनित केला जाईल.",
     "caution_today_removals": "आजचा इंधन काढण्याचा डेटा प्रक्रियाधीन आहे आणि दिवसाच्या शेवटी अद्यतनित केला जाईल.",
     "caution_fuel_summary": "आजचा इंधन सारांश डेटा प्रक्रियाधीन आहे आणि दिवसाच्या शेवटी अद्यतनित केला जाईल.",

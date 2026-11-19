@@ -478,7 +478,8 @@
     "notifications": "Arifa",
     "bookmarks": "Alamisho",
     "vehicle_document": "Nyaraka za Chombo cha Usafiri",
-    "vehicle_document_expiry": "Mwisho wa Nyaraka za Chombo cha Usafiri"
+    "vehicle_document_expiry": "Mwisho wa Nyaraka za Chombo cha Usafiri",
+    "vehicle_grouping": "Kupanga Magari"
   },
   "menu_master": {
     "masters_menu": "Menyu ya Wakuu",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Dashibodi",
     "vehicles": "Vijiji",
+    "vehicle": "Gari",
+    "KM": "KM",
     "caution_today_refills": "Data ya kujaza mafuta leo inachakatwa na itasasishwa mwisho wa siku.",
     "caution_today_removals": "Data ya kuondoa mafuta leo inachakatwa na itasasishwa mwisho wa siku.",
     "caution_fuel_summary": "Data ya muhtasari wa mafuta leo inachakatwa na itasasishwa mwisho wa siku.",

@@ -478,7 +478,8 @@
     "notifications": "नोटिफिकेसन",
     "bookmarks": "बुकमार्क",
     "vehicle_document": "गाड़ी कागजात",
-    "vehicle_document_expiry": "गाड़ी कागजात समाप्ति"
+    "vehicle_document_expiry": "गाड़ी कागजात समाप्ति",
+    "vehicle_grouping": "गाड़ी समूहीकरण"
   },
   "menu_master": {
     "masters_menu": "मास्टर्स मेनु",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "ड्यासबोर्ड",
     "vehicles": "गाड़ीसभ",
+    "vehicle": "गाड़ी",
+    "KM": "किमी",
     "caution_today_refills": "आइ के ईंघन रिफिल डाटा परिक्रियमाण अछि आ दिनक अंत धरि अद्यतन कएल जेता।",
     "caution_today_removals": "आइ के ईंघन निष्कासन डाटा परिक्रियमाण अछि आ दिनक अंत धरि अद्यतन कएल जेता।",
     "caution_fuel_summary": "आइ के ईंघन सारांश डाटा परिक्रियमाण अछि आ दिनक अंत धरि अद्यतन कएल जेता।",

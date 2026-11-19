@@ -478,7 +478,8 @@
     "notifications": "اعلان‌ها",
     "bookmarks": "نشانک‌ها",
     "vehicle_document": "سند وسیله نقلیه",
-    "vehicle_document_expiry": "انقضای سند وسیله نقلیه"
+    "vehicle_document_expiry": "انقضای سند وسیله نقلیه",
+    "vehicle_grouping": "دسته‌بندی خودرو"
   },
   "menu_master": {
     "masters_menu": "منوی داده‌های مرجع",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "داشبورد",
     "vehicles": "وسایل نقلیه",
+    "vehicle": "خودرو",
+    "KM": "کیلومتر",
     "caution_today_refills": "داده‌های سوخت‌گیری امروز در حال پردازش است و تا پایان روز به‌روزرسانی خواهد شد.",
     "caution_today_removals": "داده‌های تخلیه سوخت امروز در حال پردازش است و تا پایان روز به‌روزرسانی خواهد شد.",
     "caution_fuel_summary": "داده‌های خلاصه سوخت امروز در حال پردازش است و تا پایان روز به‌روزرسانی خواهد شد.",

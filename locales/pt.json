@@ -478,7 +478,8 @@
     "notifications": "Notificações",
     "bookmarks": "Marcadores",
     "vehicle_document": "Documento do Veículo",
-    "vehicle_document_expiry": "Validade do Documento do Veículo"
+    "vehicle_document_expiry": "Validade do Documento do Veículo",
+    "vehicle_grouping": "Agrupamento de Veículos"
   },
   "menu_master": {
     "masters_menu": "Menu Mestres",
@@ -2116,6 +2117,8 @@
   "gps_dashboard": {
     "dashboard": "Painel",
     "vehicles": "Veículos",
+    "vehicle": "Veículo",
+    "KM": "KM",
     "caution_today_refills": "Os dados dos abastecimentos de hoje estão sendo processados e serão atualizados até o final do dia.",
     "caution_today_removals": "Os dados das retiradas de combustível de hoje estão sendo processados e serão atualizados até o final do dia.",
     "caution_fuel_summary": "Os dados do resumo de combustível de hoje estão sendo processados e serão atualizados até o final do dia.",
