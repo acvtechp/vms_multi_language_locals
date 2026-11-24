@@ -17,6 +17,7 @@
     "extend": "Extender",
     "send": "Enviar",
     "reset": "Restablecer",
+    "stop": "Detener",
     "download": "Descargar",
     "download_pdf": "Descargar PDF",
     "download_excel": "Descargar Excel",

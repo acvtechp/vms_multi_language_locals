@@ -17,6 +17,7 @@
     "extend": "Sambung",
     "send": "Hantar",
     "reset": "Set semula",
+    "stop": "Berhenti",
     "download": "Muat turun",
     "download_pdf": "Muat turun PDF",
     "download_excel": "Muat turun Excel",

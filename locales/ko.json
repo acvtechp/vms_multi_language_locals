@@ -17,6 +17,7 @@
     "extend": "연장",
     "send": "보내기",
     "reset": "초기화",
+    "stop": "중지",
     "download": "다운로드",
     "download_pdf": "PDF 다운로드",
     "download_excel": "Excel 다운로드",

@@ -17,6 +17,7 @@
     "extend": "Perpanjang",
     "send": "Kirim",
     "reset": "Reset",
+    "stop": "Berhenti",
     "download": "Unduh",
     "download_pdf": "Unduh PDF",
     "download_excel": "Unduh Excel",
