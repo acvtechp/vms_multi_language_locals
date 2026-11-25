@@ -324,7 +324,13 @@
     "warehouse": "Kho bãi",
     "warehouse_desc": "Quản lý kho lạnh và logistics kho bãi hiệu quả. Đảm bảo luồng hàng tồn kho phù hợp và kiểm soát nhiệt độ.",
     "accounts": "Tài chính",
-    "accounts_desc": "Xử lý thanh toán, hóa đơn và báo cáo tài chính một cách dễ dàng. Duy trì hồ sơ chính xác và khả năng hiển thị dòng tiền."
+    "accounts_desc": "Xử lý thanh toán, hóa đơn và báo cáo tài chính một cách dễ dàng. Duy trì hồ sơ chính xác và khả năng hiển thị dòng tiền.",
+    "bus_corporate": "Vận chuyển doanh nghiệp",
+    "bus_corporate_desc": "Quản lý việc vận chuyển nhân viên, tuyến đường và lịch trình.",
+    "bus_educational": "Vận chuyển giáo dục",
+    "bus_educational_desc": "Quản lý xe buýt trường học/cao đẳng, học sinh, tuyến đường và lịch trình.",
+    "bus_travel": "Du lịch xe buýt",
+    "bus_travel_desc": "Quản lý chuyến đi xe buýt, tuyến đường và lịch trình."
   },
   "header": {
     "website_settings": "Cài đặt trang web",

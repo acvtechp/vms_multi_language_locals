@@ -324,7 +324,13 @@
     "warehouse": "倉庫",
     "warehouse_desc": "冷蔵保管および倉庫のロジスティクスを効率的に管理します。適切な在庫フローと温度管理を確保します。",
     "accounts": "会計",
-    "accounts_desc": "支払い、請求書、財務レポートを簡単に処理します。正確な記録とキャッシュフローの可視性を維持します。"
+    "accounts_desc": "支払い、請求書、財務レポートを簡単に処理します。正確な記録とキャッシュフローの可視性を維持します。",
+    "bus_corporate": "企業向け送迎",
+    "bus_corporate_desc": "従業員の送迎、ルート、スケジュールを管理します。",
+    "bus_educational": "スクールバス送迎",
+    "bus_educational_desc": "学校や大学のバス、生徒、ルート、スケジュールを管理します。",
+    "bus_travel": "バス旅行",
+    "bus_travel_desc": "バス旅行、ルート、スケジュールを管理します。"
   },
   "header": {
     "website_settings": "ウェブサイト設定",

@@ -324,7 +324,13 @@
     "warehouse": "Magazyn",
     "warehouse_desc": "Sprawnie zarządzaj chłodniami i logistyką magazynową. Zapewnij prawidłowy przepływ zapasów i kontrolę temperatury.",
     "accounts": "Księgowość",
-    "accounts_desc": "Z łatwością obsługuj płatności, faktury i raporty finansowe. Zachowaj dokładne rejestry i wgląd w przepływy pieniężne."
+    "accounts_desc": "Z łatwością obsługuj płatności, faktury i raporty finansowe. Zachowaj dokładne rejestry i wgląd w przepływy pieniężne.",
+    "bus_corporate": "Transport korporacyjny",
+    "bus_corporate_desc": "Zarządzaj transportem pracowników, trasami i harmonogramami.",
+    "bus_educational": "Transport edukacyjny",
+    "bus_educational_desc": "Zarządzaj autobusami szkolnymi/uczelnianymi, uczniami, trasami i harmonogramami.",
+    "bus_travel": "Podróże autobusowe",
+    "bus_travel_desc": "Zarządzaj podróżami autobusowymi, trasami i harmonogramami."
   },
   "header": {
     "website_settings": "Ustawienia strony",

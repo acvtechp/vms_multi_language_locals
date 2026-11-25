@@ -324,7 +324,13 @@
     "warehouse": "Magazijn",
     "warehouse_desc": "Beheer koelopslag en magazijnlogistiek efficiënt. Zorg voor een juiste voorraadstroom en temperatuurregeling.",
     "accounts": "Accounts",
-    "accounts_desc": "Verwerk betalingen, facturen en financiële rapporten met gemak. Handhaaf nauwkeurige administratie en inzicht in de kasstroom."
+    "accounts_desc": "Verwerk betalingen, facturen en financiële rapporten met gemak. Handhaaf nauwkeurige administratie en inzicht in de kasstroom.",
+    "bus_corporate": "Bedrijfsvervoer",
+    "bus_corporate_desc": "Beheer vervoer, routes en dienstregelingen van medewerkers.",
+    "bus_educational": "Leerlingenvervoer",
+    "bus_educational_desc": "Beheer school-/collegebussen, leerlingen, routes en dienstregelingen.",
+    "bus_travel": "Busreizen",
+    "bus_travel_desc": "Beheer busreizen, routes en dienstregelingen."
   },
   "header": {
     "website_settings": "Website-instellingen",

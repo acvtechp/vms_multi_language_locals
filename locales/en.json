@@ -324,7 +324,13 @@
     "warehouse": "Warehouse",
     "warehouse_desc": "Manage cold storage and warehouse logistics efficiently. Ensure proper inventory flow and temperature control.",
     "accounts": "Accounts",
-    "accounts_desc": "Handle payments, invoices, and financial reports with ease. Maintain accurate records and cash flow visibility."
+    "accounts_desc": "Handle payments, invoices, and financial reports with ease. Maintain accurate records and cash flow visibility.",
+    "bus_corporate": "Corporate Transport",
+    "bus_corporate_desc": "Manage employee transport, routes, and schedules.",
+    "bus_educational": "Educational Transport",
+    "bus_educational_desc": "Manage school/college buses, students, routes, and schedules.",
+    "bus_travel": "Bus Travel",
+    "bus_travel_desc": "Manage bus travel, routes, and schedules."
   },
   "header": {
     "website_settings": "Website settings",

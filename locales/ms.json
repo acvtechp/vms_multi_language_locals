@@ -324,7 +324,13 @@
     "warehouse": "Gudang",
     "warehouse_desc": "Urus penyimpanan sejuk dan logistik gudang dengan cekap. Pastikan aliran inventori yang betul dan kawalan suhu.",
     "accounts": "Akaun",
-    "accounts_desc": "Kendalikan pembayaran, invois dan laporan kewangan dengan mudah. Kekalkan rekod yang tepat dan keterlihatan aliran tunai."
+    "accounts_desc": "Kendalikan pembayaran, invois dan laporan kewangan dengan mudah. Kekalkan rekod yang tepat dan keterlihatan aliran tunai.",
+    "bus_corporate": "Pengangkutan Korporat",
+    "bus_corporate_desc": "Urus pengangkutan, laluan, dan jadual pekerja.",
+    "bus_educational": "Pengangkutan Pendidikan",
+    "bus_educational_desc": "Urus bas sekolah/kolej, pelajar, laluan, dan jadual.",
+    "bus_travel": "Perjalanan Bas",
+    "bus_travel_desc": "Urus perjalanan bas, laluan, dan jadual."
   },
   "header": {
     "website_settings": "Tetapan laman web",

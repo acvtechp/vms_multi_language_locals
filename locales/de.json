@@ -324,7 +324,13 @@
     "warehouse": "Lager",
     "warehouse_desc": "Kühllager und Lagerlogistik effizient verwalten. Richtigen Bestandsfluss und Temperaturregelung sicherstellen.",
     "accounts": "Konten",
-    "accounts_desc": "Zahlungen, Rechnungen und Finanzberichte mühelos bearbeiten. Genaue Aufzeichnungen und Cashflow-Transparenz aufrecht erhalten."
+    "accounts_desc": "Zahlungen, Rechnungen und Finanzberichte mühelos bearbeiten. Genaue Aufzeichnungen und Cashflow-Transparenz aufrecht erhalten.",
+    "bus_corporate": "Unternehmensverkehr",
+    "bus_corporate_desc": "Mitarbeiterbeförderung, Routen und Fahrpläne verwalten.",
+    "bus_educational": "Schulverkehr",
+    "bus_educational_desc": "Schul-/Hochschulbusse, Schüler, Routen und Fahrpläne verwalten.",
+    "bus_travel": "Busreisen",
+    "bus_travel_desc": "Busreisen, Routen und Fahrpläne verwalten."
   },
   "header": {
     "website_settings": "Website-Einstellungen",

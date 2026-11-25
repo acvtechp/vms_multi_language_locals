@@ -324,7 +324,13 @@
     "warehouse": "Magazzino",
     "warehouse_desc": "Gestisci in modo efficiente la cella frigorifera e la logistica di magazzino. Garantisci il corretto flusso dell'inventario e il controllo della temperatura.",
     "accounts": "Contabilità",
-    "accounts_desc": "Gestisci facilmente pagamenti, fatture e report finanziari. Mantieni registri accurati e visibilità del flusso di cassa."
+    "accounts_desc": "Gestisci facilmente pagamenti, fatture e report finanziari. Mantieni registri accurati e visibilità del flusso di cassa.",
+    "bus_corporate": "Trasporto aziendale",
+    "bus_corporate_desc": "Gestisci il trasporto dei dipendenti, i percorsi e gli orari.",
+    "bus_educational": "Trasporto scolastico",
+    "bus_educational_desc": "Gestisci autobus scolastici/universitari, studenti, percorsi e orari.",
+    "bus_travel": "Viaggi in autobus",
+    "bus_travel_desc": "Gestisci viaggi in autobus, percorsi e orari."
   },
   "header": {
     "website_settings": "Impostazioni sito web",

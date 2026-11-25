@@ -324,7 +324,13 @@
     "warehouse": "Gudang",
     "warehouse_desc": "Kelola penyimpanan dingin dan logistik gudang secara efisien. Pastikan alur inventaris dan kontrol suhu yang tepat.",
     "accounts": "Akun",
-    "accounts_desc": "Tangani pembayaran, faktur, and laporan keuangan dengan mudah. Pertahankan catatan yang akurat dan visibilitas arus kas."
+    "accounts_desc": "Tangani pembayaran, faktur, and laporan keuangan dengan mudah. Pertahankan catatan yang akurat dan visibilitas arus kas.",
+    "bus_corporate": "Transportasi Perusahaan",
+    "bus_corporate_desc": "Kelola transportasi karyawan, rute, dan jadwal.",
+    "bus_educational": "Transportasi Pendidikan",
+    "bus_educational_desc": "Kelola bus sekolah/kampus, siswa, rute, dan jadwal.",
+    "bus_travel": "Perjalanan Bus",
+    "bus_travel_desc": "Kelola perjalanan bus, rute, dan jadwal."
   },
   "header": {
     "website_settings": "Pengaturan situs web",

@@ -324,7 +324,13 @@
     "warehouse": "Armazém",
     "warehouse_desc": "Gerencie armazenamento a frio e logística de armazém de forma eficiente. Garanta fluxo adequado de inventário e controle de temperatura.",
     "accounts": "Contas",
-    "accounts_desc": "Trate pagamentos, faturas e relatórios financeiros com facilidade. Mantenha registros precisos e visibilidade do fluxo de caixa."
+    "accounts_desc": "Trate pagamentos, faturas e relatórios financeiros com facilidade. Mantenha registros precisos e visibilidade do fluxo de caixa.",
+    "bus_corporate": "Transporte Corporativo",
+    "bus_corporate_desc": "Gerencie o transporte, as rotas e os horários dos funcionários.",
+    "bus_educational": "Transporte Educacional",
+    "bus_educational_desc": "Gerencie ônibus escolares/universitários, alunos, rotas e horários.",
+    "bus_travel": "Viagem de Ônibus",
+    "bus_travel_desc": "Gerencie viagens de ônibus, rotas e horários."
   },
   "header": {
     "website_settings": "Configurações do site",

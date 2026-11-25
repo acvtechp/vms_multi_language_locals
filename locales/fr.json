@@ -324,7 +324,13 @@
     "warehouse": "Entrepôt",
     "warehouse_desc": "Gérer efficacement la chaîne du froid et la logistique d'entrepôt. Assurer un bon flux des stocks et le contrôle de la température.",
     "accounts": "Comptes",
-    "accounts_desc": "Gérer facilement les paiements, les factures et les rapports financiers. Maintenir des dossiers précis et une visibilité sur la trésorerie."
+    "accounts_desc": "Gérer facilement les paiements, les factures et les rapports financiers. Maintenir des dossiers précis et une visibilité sur la trésorerie.",
+    "bus_corporate": "Transport d'entreprise",
+    "bus_corporate_desc": "Gérez le transport, les itinéraires et les horaires des employés.",
+    "bus_educational": "Transport scolaire",
+    "bus_educational_desc": "Gérez les bus scolaires/universitaires, les étudiants, les itinéraires et les horaires.",
+    "bus_travel": "Voyage en bus",
+    "bus_travel_desc": "Gérez les voyages en bus, les itinéraires et les horaires."
   },
   "header": {
     "website_settings": "Paramètres du site Web",

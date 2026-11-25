@@ -324,7 +324,13 @@
     "warehouse": "仓库",
     "warehouse_desc": "高效管理冷藏和仓库物流。确保适当的库存流动和温度控制。",
     "accounts": "账户",
-    "accounts_desc": "轻松处理付款、发票和财务报告。保持准确的记录和现金流可见性。"
+    "accounts_desc": "轻松处理付款、发票和财务报告。保持准确的记录和现金流可见性。",
+    "bus_corporate": "企业交通",
+    "bus_corporate_desc": "管理员工交通、路线和时间表。",
+    "bus_educational": "教育交通",
+    "bus_educational_desc": "管理学校/大学校车、学生、路线和时间表。",
+    "bus_travel": "巴士出行",
+    "bus_travel_desc": "管理巴士出行、路线和时间表。"
   },
   "header": {
     "website_settings": "网站设置",

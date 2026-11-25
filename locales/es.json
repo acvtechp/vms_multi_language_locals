@@ -324,7 +324,13 @@
     "warehouse": "Almacén",
     "warehouse_desc": "Gestiona el almacenamiento en frío y la logística de almacén de manera eficiente. Garantiza un flujo de inventario adecuado y control de temperatura.",
     "accounts": "Cuentas",
-    "accounts_desc": "Maneja pagos, facturas e informes financieros con facilidad. Mantén registros precisos y visibilidad del flujo de efectivo."
+    "accounts_desc": "Maneja pagos, facturas e informes financieros con facilidad. Mantén registros precisos y visibilidad del flujo de efectivo.",
+    "bus_corporate": "Transporte corporativo",
+    "bus_corporate_desc": "Gestiona el transporte, las rutas y los horarios de los empleados.",
+    "bus_educational": "Transporte educativo",
+    "bus_educational_desc": "Gestiona autobuses escolares o universitarios, estudiantes, rutas y horarios.",
+    "bus_travel": "Viajes en autobús",
+    "bus_travel_desc": "Gestiona los viajes en autobús, las rutas y los horarios."
   },
   "header": {
     "website_settings": "Configuración del sitio web",

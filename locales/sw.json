@@ -324,7 +324,13 @@
     "warehouse": "Ghala",
     "warehouse_desc": "Simamia uhifadhi wa baridi na vifaa vya ghala kwa ufanisi. Hakikisha mtiririko sahihi wa hesabu na udhibiti wa halijoto.",
     "accounts": "Akaunti",
-    "accounts_desc": "Shughulikia malipo, ankara, na ripoti za kifedha kwa urahisi. Dumisha kumbukumbu sahihi na mwonekano wa mtiririko wa pesa."
+    "accounts_desc": "Shughulikia malipo, ankara, na ripoti za kifedha kwa urahisi. Dumisha kumbukumbu sahihi na mwonekano wa mtiririko wa pesa.",
+    "bus_corporate": "Usafiri wa Shirika",
+    "bus_corporate_desc": "Simamia usafiri wa wafanyakazi, njia, na ratiba.",
+    "bus_educational": "Usafiri wa Elimu",
+    "bus_educational_desc": "Simamia mabasi ya shule/chuo, wanafunzi, njia, na ratiba.",
+    "bus_travel": "Usafiri wa Mabasi",
+    "bus_travel_desc": "Simamia safari za mabasi, njia, na ratiba."
   },
   "header": {
     "website_settings": "Mipangilio ya tovuti",

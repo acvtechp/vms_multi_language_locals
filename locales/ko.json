@@ -324,7 +324,13 @@
     "warehouse": "창고",
     "warehouse_desc": "저온 보관 및 창고 물류를 효율적으로 관리합니다. 적절한 재고 흐름과 온도 제어를 보장합니다.",
     "accounts": "계정",
-    "accounts_desc": "결제, 청구서 및 재무 보고서를 쉽게 처리합니다. 정확한 기록과 현금 흐름 가시성을 유지합니다."
+    "accounts_desc": "결제, 청구서 및 재무 보고서를 쉽게 처리합니다. 정확한 기록과 현금 흐름 가시성을 유지합니다.",
+    "bus_corporate": "기업 교통",
+    "bus_corporate_desc": "직원 교통, 노선, 일정을 관리합니다.",
+    "bus_educational": "교육 기관 교통",
+    "bus_educational_desc": "학교/대학 버스, 학생, 노선, 일정을 관리합니다.",
+    "bus_travel": "버스 여행",
+    "bus_travel_desc": "버스 여행, 노선, 일정을 관리합니다."
   },
   "header": {
     "website_settings": "웹사이트 설정",

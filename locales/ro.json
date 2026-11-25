@@ -324,7 +324,13 @@
     "warehouse": "Depozit",
     "warehouse_desc": "Gestionați eficient depozitarea la rece și logistica depozitelor. Asigurați fluxul corespunzător al stocurilor și controlul temperaturii.",
     "accounts": "Conturi",
-    "accounts_desc": "Gestionați cu ușurință plățile, facturile și rapoartele financiare. Mențineți înregistrări precise și vizibilitatea fluxului de numerar."
+    "accounts_desc": "Gestionați cu ușurință plățile, facturile și rapoartele financiare. Mențineți înregistrări precise și vizibilitatea fluxului de numerar.",
+    "bus_corporate": "Transport corporativ",
+    "bus_corporate_desc": "Gestionați transportul angajaților, rutele și orarele.",
+    "bus_educational": "Transport educațional",
+    "bus_educational_desc": "Gestionați autobuzele școlare/universitare, studenții, rutele și orarele.",
+    "bus_travel": "Călătorii cu autobuzul",
+    "bus_travel_desc": "Gestionați călătoriile cu autobuzul, rutele și orarele."
   },
   "header": {
     "website_settings": "Setări site web",

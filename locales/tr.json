@@ -324,7 +324,13 @@
     "warehouse": "Depo",
     "warehouse_desc": "Soğuk hava depolarını ve depo lojistiğini verimli bir şekilde yönetin. Doğru envanter akışını ve sıcaklık kontrolünü sağlayın.",
     "accounts": "Muhasebe",
-    "accounts_desc": "Ödemeleri, faturaları ve mali raporları kolaylıkla yönetin. Doğru kayıtları ve nakit akışı görünürlüğünü koruyun."
+    "accounts_desc": "Ödemeleri, faturaları ve mali raporları kolaylıkla yönetin. Doğru kayıtları ve nakit akışı görünürlüğünü koruyun.",
+    "bus_corporate": "Kurumsal Ulaşım",
+    "bus_corporate_desc": "Çalışan ulaşımını, güzergahları ve programları yönetin.",
+    "bus_educational": "Eğitim Taşımacılığı",
+    "bus_educational_desc": "Okul/üniversite otobüslerini, öğrencileri, güzergahları ve programları yönetin.",
+    "bus_travel": "Otobüs Seyahati",
+    "bus_travel_desc": "Otobüs seyahatlerini, güzergahları ve programları yönetin."
   },
   "header": {
     "website_settings": "Web sitesi ayarları",
