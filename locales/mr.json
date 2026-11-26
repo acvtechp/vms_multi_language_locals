@@ -1944,6 +1944,11 @@
     "subsidiary_name": "सहाय्यक कंपनीचे नाव",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "शाखा",
+    "city": "शहरा",
+    "branch_address": "शाखेचा पत्ता"
+  },
   "p_organisation_branch": {
     "branch": "शाखा",
     "branch_name": "शाखेचे नाव",

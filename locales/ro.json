@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Nume Filială",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Sucursală",
+    "city": "Oraș",
+    "branch_address": "Adresa sucursalei"
+  },
   "p_organisation_branch": {
     "branch": "Sucursală",
     "branch_name": "Nume Sucursală",

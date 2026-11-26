@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Όνομα Θυγατρικής",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Κατάστημα",
+    "city": "Πόλη",
+    "branch_address": "Διεύθυνση καταστήματος"
+  },
   "p_organisation_branch": {
     "branch": "Υποκατάστημα",
     "branch_name": "Όνομα Υποκαταστήματος",

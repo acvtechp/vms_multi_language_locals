@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Nom de la filiale",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Succursale",
+    "city": "Ville",
+    "branch_address": "Adresse de la succursale"
+  },
   "p_organisation_branch": {
     "branch": "Branche",
     "branch_name": "Nom de la branche",

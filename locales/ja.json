@@ -1944,6 +1944,11 @@
     "subsidiary_name": "関連会社名",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "支店",
+    "city": "市区町村",
+    "branch_address": "支店住所"
+  },
   "p_organisation_branch": {
     "branch": "支店",
     "branch_name": "支店名",

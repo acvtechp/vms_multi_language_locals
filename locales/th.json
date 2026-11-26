@@ -1944,6 +1944,11 @@
     "subsidiary_name": "ชื่อบริษัทในเครือ",
     "subsidiary_gstin": "หมายเลขผู้เสียภาษี (GSTIN)"
   },
+  "p_institution_branch": {
+    "branch": "สาขา",
+    "city": "เมือง",
+    "branch_address": "ที่อยู่สาขา"
+  },
   "p_organisation_branch": {
     "branch": "สาขา",
     "branch_name": "ชื่อสาขา",

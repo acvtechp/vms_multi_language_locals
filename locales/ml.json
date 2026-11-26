@@ -1944,6 +1944,11 @@
     "subsidiary_name": "സബ്‌സിഡിയറിയുടെ പേര്",
     "subsidiary_gstin": "ജി.എസ്.ടി.ഐ.എൻ"
   },
+  "p_institution_branch": {
+    "branch": "ബ്രാൻഞ്ച്",
+    "city": "നഗരം",
+    "branch_address": "ബ്രാൻഞ്ച് വിലാസം"
+  },
   "p_organisation_branch": {
     "branch": "ശാഖ",
     "branch_name": "ശാഖയുടെ പേര്",

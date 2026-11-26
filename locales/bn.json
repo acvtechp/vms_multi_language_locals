@@ -1944,6 +1944,11 @@
     "subsidiary_name": "সাবসিডিয়ারির নাম",
     "subsidiary_gstin": "জিএসটিআইএন"
   },
+  "p_institution_branch": {
+    "branch": "ব্রাঞ্চ",
+    "city": "শহর",
+    "branch_address": "ব্রাঞ্চের ঠিকানা"
+  },
   "p_organisation_branch": {
     "branch": "শাখা",
     "branch_name": "শাখার নাম",

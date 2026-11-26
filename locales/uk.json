@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Назва дочірньої компанії",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Філія",
+    "city": "Місто",
+    "branch_address": "Адреса філії"
+  },
   "p_organisation_branch": {
     "branch": "Філія",
     "branch_name": "Назва філії",

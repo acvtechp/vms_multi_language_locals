@@ -1944,6 +1944,11 @@
     "subsidiary_name": "துணை நிறுவனப் பெயர்",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "கிளை",
+    "city": "நகரம்",
+    "branch_address": "கிளை முகவரி"
+  },
   "p_organisation_branch": {
     "branch": "கிளை",
     "branch_name": "கிளைப் பெயர்",

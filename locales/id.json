@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Nama Anak Perusahaan",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Cabang",
+    "city": "Kota",
+    "branch_address": "Alamat Cabang"
+  },
   "p_organisation_branch": {
     "branch": "Cabang",
     "branch_name": "Nama Cabang",

@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Nama Anak Syarikat",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Cawangan",
+    "city": "Bandar",
+    "branch_address": "Alamat Cawangan"
+  },
   "p_organisation_branch": {
     "branch": "Cawangan",
     "branch_name": "Nama Cawangan",

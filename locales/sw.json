@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Jina la Kampuni Tanzu",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Tawi",
+    "city": "Jiji",
+    "branch_address": "Anwani ya Tawi"
+  },
   "p_organisation_branch": {
     "branch": "Tawi",
     "branch_name": "Jina la Tawi",

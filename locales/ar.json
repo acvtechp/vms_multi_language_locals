@@ -1944,6 +1944,11 @@
     "subsidiary_name": "اسم الشركة التابعة",
     "subsidiary_gstin": "رقم تسجيل ضريبة القيمة المضافة (GSTIN)"
   },
+  "p_institution_branch": {
+    "branch": "الفرع",
+    "city": "المدينة",
+    "branch_address": "عنوان الفرع"
+  },
   "p_organisation_branch": {
     "branch": "الفرع",
     "branch_name": "اسم الفرع",

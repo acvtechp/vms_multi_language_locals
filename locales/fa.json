@@ -1944,6 +1944,11 @@
     "subsidiary_name": "نام شرکت فرعی",
     "subsidiary_gstin": "شماره شناسایی مالیات بر ارزش افزوده (GSTIN)"
   },
+  "p_institution_branch": {
+    "branch": "شعبه",
+    "city": "شهر",
+    "branch_address": "آدرس شعبه"
+  },
   "p_organisation_branch": {
     "branch": "شعبه",
     "branch_name": "نام شعبه",

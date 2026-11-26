@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Bağlı Ortaklık Adı",
     "subsidiary_gstin": "Vergi Numarası"
   },
+  "p_institution_branch": {
+    "branch": "Şube",
+    "city": "Şehir",
+    "branch_address": "Şube Adresi"
+  },
   "p_organisation_branch": {
     "branch": "Şube",
     "branch_name": "Şube Adı",

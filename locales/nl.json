@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Naam dochteronderneming",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Filiaal",
+    "city": "Stad",
+    "branch_address": "Adres filiaal"
+  },
   "p_organisation_branch": {
     "branch": "Vestiging",
     "branch_name": "Naam vestiging",

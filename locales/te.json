@@ -1944,6 +1944,11 @@
     "subsidiary_name": "సబ్సిడరీ పేరు",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "శాఖ",
+    "city": "నగరం",
+    "branch_address": "శాఖ చిరునామా"
+  },
   "p_organisation_branch": {
     "branch": "బ్రాంచ్",
     "branch_name": "బ్రాంచ్ పేరు",

@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Tên công ty trực thuộc",
     "subsidiary_gstin": "Mã số thuế GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Chi nhánh",
+    "city": "Thành phố",
+    "branch_address": "Địa chỉ chi nhánh"
+  },
   "p_organisation_branch": {
     "branch": "Chi nhánh",
     "branch_name": "Tên chi nhánh",

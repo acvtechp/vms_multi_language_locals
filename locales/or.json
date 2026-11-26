@@ -1944,6 +1944,11 @@
     "subsidiary_name": "ସହାୟକ କମ୍ପାନୀ ନାମ",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "ଶାଖା",
+    "city": "ସହର",
+    "branch_address": "ଶାଖା ଠିକଣା"
+  },
   "p_organisation_branch": {
     "branch": "ଶାଖା",
     "branch_name": "ଶାଖା ନାମ",

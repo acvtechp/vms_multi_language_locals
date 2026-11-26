@@ -1944,6 +1944,11 @@
     "subsidiary_name": "ಅಧೀನ ಸಂಸ್ಥೆಯ ಹೆಸರು",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "ಶಾಖೆ",
+    "city": "ನಗರ",
+    "branch_address": "ಶಾಖೆಯ ವಿಳಾಸ"
+  },
   "p_organisation_branch": {
     "branch": "ಶಾಖೆ",
     "branch_name": "ಶಾಖೆಯ ಹೆಸರು",

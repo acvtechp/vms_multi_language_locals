@@ -1944,6 +1944,11 @@
     "subsidiary_name": "سب سائیڈری کا نام",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "برانچ",
+    "city": "شہر",
+    "branch_address": "برانچ کا پتہ"
+  },
   "p_organisation_branch": {
     "branch": "شاخ",
     "branch_name": "شاخ کا نام",

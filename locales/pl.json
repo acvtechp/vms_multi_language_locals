@@ -1944,6 +1944,11 @@
     "subsidiary_name": "Nazwa podmiotu zależnego",
     "subsidiary_gstin": "Numer GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "Oddział",
+    "city": "Miasto",
+    "branch_address": "Adres oddziału"
+  },
   "p_organisation_branch": {
     "branch": "Oddział",
     "branch_name": "Nazwa oddziału",

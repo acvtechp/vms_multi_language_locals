@@ -1944,6 +1944,11 @@
     "subsidiary_name": "ਸਹਾਇਕ ਕੰਪਨੀ ਦਾ ਨਾਮ",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "ਸ਼ਾਖਾ",
+    "city": "ਸ਼ਹਿਰ",
+    "branch_address": "ਸ਼ਾਖਾ ਦਾ ਪਤਾ"
+  },
   "p_organisation_branch": {
     "branch": "ਸ਼ਾਖਾ",
     "branch_name": "ਸ਼ਾਖਾ ਦਾ ਨਾਮ",

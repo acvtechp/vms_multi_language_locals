@@ -1944,6 +1944,11 @@
     "subsidiary_name": "সহায়ক কোম্পানীৰ নাম",
     "subsidiary_gstin": "জি.এছ.টি.আই.এন."
   },
+  "p_institution_branch": {
+    "branch": "শাখা",
+    "city": "চহৰ",
+    "branch_address": "শাখাৰ ঠিকনা"
+  },
   "p_organisation_branch": {
     "branch": "শাখা",
     "branch_name": "শাখাৰ নাম",

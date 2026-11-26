@@ -1944,6 +1944,11 @@
     "subsidiary_name": "שם חברת בת",
     "subsidiary_gstin": "GSTIN"
   },
+  "p_institution_branch": {
+    "branch": "סניף",
+    "city": "עיר",
+    "branch_address": "כתובת הסניף"
+  },
   "p_organisation_branch": {
     "branch": "סניף",
     "branch_name": "שם סניף",
